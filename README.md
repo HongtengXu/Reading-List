@@ -1,5 +1,4 @@
 # Reading-List
-A list of papers for group meeting
 
 * _Jan. 15, 2021_ [Improving Relational Regularized Autoencoders with Spherical Sliced Fused Gromov Wasserstein](https://arxiv.org/pdf/2010.01787.pdf), (Yue Xiang)
 
