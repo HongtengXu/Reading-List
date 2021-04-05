@@ -1,4 +1,11 @@
 # Reading-List
+* _May 28, 2021_ [Multiview Sensing With Unknown Permutations: An Optimal Transport Approach](https://arxiv.org/pdf/2103.07458.pdf), (Yue Xiang)
+
+* _May 21, 2021_ [ACT: Asymptotic Conditional Transport](https://arxiv.org/pdf/2012.14100.pdf), (Zejun Xie)
+
+* _May 14, 2021_ [Computer-Assisted Retrosynthesis Based on Molecular Similarity](https://pubs.acs.org/doi/pdf/10.1021/acscentsci.7b00355), (Shen Yuan)
+
+* _May 7, 2021_ [A Graph to Graphs Framework for Retrosynthesis Prediction](http://proceedings.mlr.press/v119/shi20d/shi20d.pdf), (Yue Xiang)
 
 * _Apr. 30, 2021_ [GAIT: A Geometric Approach to Information Theory](http://proceedings.mlr.press/v108/posada20a/posada20a.pdf), (Zejun Xie)
 
