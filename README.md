@@ -1,4 +1,14 @@
 # Reading-List
+* _Jun. 25, 2021_ [Learning to make generalizable and diverse predictions for retrosynthesis](https://arxiv.org/pdf/1910.09688.pdf), (Yue Xiang)
+
+* _Jun. 18, 2021_ [Retrosynthesis Prediction with Conditional Graph Logic Network](https://arxiv.org/pdf/2001.01408.pdf), (Shen Yuan)
+
+* _Jun. 11, 2021_ [Molecular Transformer unifies reaction prediction and retrosynthesis across pharma chemical space](https://pubs.rsc.org/en/content/articlelanding/2019/CC/C9CC05122H#!divAbstract), (Yue Xiang)
+
+* _Jun. 4, 2021_ [Retrosynthesis of multi-component metal−organic frameworks](https://www.nature.com/articles/s41467-018-03102-5), (Shen Yuan)
+
+* _May 28, 2021_ [Neural-Symbolic Machine Learning for Retrosynthesis and Reaction Prediction](https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.201605499), (Yue Xiang)
+
 * _May 21, 2021_ [Multiview Sensing With Unknown Permutations: An Optimal Transport Approach](https://arxiv.org/pdf/2103.07458.pdf), (Shen Yuan)
 
 * _May 14, 2021_ [Computer-Assisted Retrosynthesis Based on Molecular Similarity](https://pubs.acs.org/doi/pdf/10.1021/acscentsci.7b00355), (Yue Xiang)
