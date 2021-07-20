@@ -1,4 +1,14 @@
 # Reading-List
+* _Aug. 27, 2021_ [Deep Fourier Kernel for Self-Attentive Point Processes](http://proceedings.mlr.press/v130/zhu21b/zhu21b.pdf), (Qingmei Wang)
+  
+* _Aug. 20, 2021_ [Drug Recommendation toward Safe Polypharmacy](https://arxiv.org/abs/1803.03185), (Minjie Cheng)
+  
+* _Aug. 13, 2021_ [Towards domain-agnostic contrastive learning](http://proceedings.mlr.press/v139/verma21a/verma21a.pdf), (Fengjiao Gong)
+  
+* _Aug. 6, 2021_ [RetCL: A Selection-based Approach for Retrosynthesis via Contrastive Learning](https://arxiv.org/abs/2105.00795), (Shen Yuan)
+  
+* _Jul. 30, 2021_ [GTA: Graph Truncated Attention for Retrosynthesis](https://www.aaai.org/AAAI21Papers/AAAI-10027.SeoS.pdf), (Yue Xiang)
+  
 * _Jun. 25, 2021_ [Learning to make generalizable and diverse predictions for retrosynthesis](https://arxiv.org/pdf/1910.09688.pdf), (Yue Xiang)
 
 * _Jun. 18, 2021_ [Retrosynthesis Prediction with Conditional Graph Logic Network](https://arxiv.org/pdf/2001.01408.pdf), (Shen Yuan)
