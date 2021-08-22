@@ -1,4 +1,15 @@
 # Reading-List
+* _Oct. 8, 2021_ [Run-Sort-ReRun: Escaping Batch Size Limitations in Sliced Wasserstein Generative Models](http://proceedings.mlr.press/v139/lezama21a.html), (Fengjiao Gong)
+
+* _Sep. 24, 2021_ [Understanding the Spread of COVID-19 Epidemic: A Spatio-Temporal Point Process View](https://arxiv.org/pdf/2106.13097.pdf), (Qingmei Wang)
+
+* _Sep. 17, 2021_ [Highly accurate protein structure prediction with AlphaFold](https://www.nature.com/articles/s41586-021-03819-2), and
+                  [Accurate prediction of protein structures and interactions using a three-track neural network](https://science.sciencemag.org/content/373/6557/871/tab-pdf), (Minjie Cheng)
+  
+* _Sep. 10, 2021_ [A Particle-Evolving Method for Approximating the Optimal Transport Plan](https://link.springer.com/chapter/10.1007/978-3-030-80209-7_94), (Yue Xiang)
+
+* _Sep. 3, 2021_ [Subgraph Augmentation with Application to Graph Mining](https://link.springer.com/chapter/10.1007/978-981-16-2609-8_4), (Shen Yuan)
+
 * _Aug. 27, 2021_ [Deep Fourier Kernel for Self-Attentive Point Processes](http://proceedings.mlr.press/v130/zhu21b/zhu21b.pdf), (Qingmei Wang)
   
 * _Aug. 20, 2021_ [Drug Recommendation toward Safe Polypharmacy](https://arxiv.org/abs/1803.03185), (Minjie Cheng)
