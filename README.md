@@ -1,7 +1,20 @@
 # Reading-List
-* _Oct. 8, 2021_ [Run-Sort-ReRun: Escaping Batch Size Limitations in Sliced Wasserstein Generative Models](http://proceedings.mlr.press/v139/lezama21a.html), (Fengjiao Gong)
+* _Nov. 11, 2021_ [Utility/Privacy Trade-off through the lens of Optimal Transport](http://proceedings.mlr.press/v108/boursier20a/boursier20a.pdf), (Fengjiao Gong)
 
-* _Sep. 24, 2021_ [Understanding the Spread of COVID-19 Epidemic: A Spatio-Temporal Point Process View](https://arxiv.org/pdf/2106.13097.pdf), (Qingmei Wang)
+* _Nov. 4, 2021_ [Adversarial Graph Augmentation to Improve Graph Contrastive Learning](https://arxiv.org/pdf/2106.05819.pdf), (Qingmei Wang)
+
+* _Oct. 28, 2021_ [Generative models for graph-based protein design](https://openreview.net/pdf?id=ByMEAHrgLB) and 
+                  [Scaffold-based molecular design with a graph generative model](https://pubs.rsc.org/en/content/articlehtml/2020/sc/c9sc04503a), (Minjie Cheng)
+
+* _Oct. 21, 2021_ [Iterative Amortized Inference](http://proceedings.mlr.press/v80/marino18a/marino18a.pdf) and
+                  [Semi-amortized variational autoencoders](http://proceedings.mlr.press/v80/kim18e/kim18e.pdf), (Shen Yuan)
+
+* _Oct. 14, 2021_ [Reparameterizing the Birkhoff Polytope for Permutation Variational Inference](http://proceedings.mlr.press/v84/linderman18a/linderman18a.pdf) and 
+                  [Learing Latent Permutations with Gumbel-Sinkhorn Networks](https://arxiv.org/abs/1802.08665), (Yue Xiang)
+
+* _Sep. 30, 2021_ [Run-Sort-ReRun: Escaping Batch Size Limitations in Sliced Wasserstein Generative Models](http://proceedings.mlr.press/v139/lezama21a.html), (Fengjiao Gong)
+
+* _Sep. 23, 2021_ [Understanding the Spread of COVID-19 Epidemic: A Spatio-Temporal Point Process View](https://arxiv.org/pdf/2106.13097.pdf), (Qingmei Wang)
 
 * _Sep. 17, 2021_ [Highly accurate protein structure prediction with AlphaFold](https://www.nature.com/articles/s41586-021-03819-2), and
                   [Accurate prediction of protein structures and interactions using a three-track neural network](https://science.sciencemag.org/content/373/6557/871/tab-pdf), (Minjie Cheng)
