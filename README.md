@@ -1,7 +1,25 @@
 # Reading-List
+* _Dec. 30, 2021_ [Large-Margin Contrastive Learning with Distance Polarization Regularizer](http://proceedings.mlr.press/v139/chen21n.html), (Minjie Cheng)
+
+* _Dec. 23, 2021_ [Equivariant Subgraph Aggregation Networks](https://arxiv.org/pdf/2110.02910.pdf), (Shen Yuan)
+
+* _Dec. 16, 2021_ [Large-scale optimal transport map estimation using projection pursuit](https://arxiv.org/pdf/2106.05838.pdf), (Yue Xiang)
+
+* _Dec. 9, 2021_ [A Regularized Wasserstein Framework for Graph Kernels](https://arxiv.org/pdf/2110.02554.pdf), (Fengjiao Gong)
+
+* _Dec. 2, 2021_ [Multiple Instance Learning with Bag Dissimilarities](https://arxiv.org/pdf/1309.5643.pdf) and 
+                 [Bag similarity network for deep multi-instance learning](https://www.sciencedirect.com/science/article/abs/pii/S0020025519306826), (Qingmei Wang)
+
+* _Nov. 25, 2021_ [Set Transformer: A Framework for Attention-based Permutation-Invariant Neural Networks](http://proceedings.mlr.press/v97/lee19d.html) and
+                  [Deep Set](https://arxiv.org/pdf/1703.06114.pdf), (Minjie Cheng)
+
+* _Nov. 18, 2021_ [Decoupled Contrastive Learning](https://arxiv.org/pdf/2110.06848.pdf) and 
+                  [Debiased Contrastive Learning](https://arxiv.org/pdf/2007.00224.pdf), (Shen Yuan)
+
 * _Nov. 11, 2021_ [Utility/Privacy Trade-off through the lens of Optimal Transport](http://proceedings.mlr.press/v108/boursier20a/boursier20a.pdf), (Fengjiao Gong)
 
-* _Nov. 4, 2021_ [Adversarial Graph Augmentation to Improve Graph Contrastive Learning](https://arxiv.org/pdf/2106.05819.pdf), (Qingmei Wang)
+* _Nov. 4, 2021_ [Adversarial Graph Augmentation to Improve Graph Contrastive Learning](https://arxiv.org/pdf/2106.05819.pdf) and 
+                 [Prototypical Graph Contrastive Learning](https://arxiv.org/pdf/2106.09645.pdf), (Qingmei Wang)
 
 * _Oct. 28, 2021_ [Generative models for graph-based protein design](https://openreview.net/pdf?id=ByMEAHrgLB) and 
                   [Scaffold-based molecular design with a graph generative model](https://pubs.rsc.org/en/content/articlehtml/2020/sc/c9sc04503a), (Minjie Cheng)
