@@ -1,4 +1,33 @@
 # Reading-List
+* _May 5, 2022_ [SE (3)-equivariant prediction of molecular wavefunctions and electronic densities](https://arxiv.org/abs/2106.02347) and
+                [Equivariant message passing for the prediction of tensorial properties and molecular spectra](https://proceedings.mlr.press/v139/schutt21a.html), (Shen Yuan) 
+
+* _Apr. 28, 2022_ [E(n) Equivariant Normalizing Flows](https://arxiv.org/abs/2105.09016), (Fanmeng Wang) 
+
+* _Apr. 21, 2022_ [Top-N: Equivariant set and graph generation without exchangeability](https://arxiv.org/abs/2110.02096) and
+                  [Tensor field networks: Rotation- and translation-equivariant neural networks for 3D point clouds](https://arxiv.org/abs/1802.08219), (Minjie Cheng) 
+
+* _Apr. 14, 2022_ [Continuous wasserstein-2 barycenter estimation without minimax optimization](https://arxiv.org/abs/2102.01752) and 
+                  [Fast Discrete Distribution Clustering Using Wasserstein Barycenter with Sparse Support](https://ieeexplore.ieee.org/ielaam/78/7858803/7833204-aam.pdf), (Fengjiao Gong) 
+
+* _Apr. 7, 2022_ [Bellman Meets Hawkes: Model-Based Reinforcement Learning via Temporal Point Processes](https://arxiv.org/pdf/2201.12569.pdf) and 
+                 [Counterfactual Temporal Point Processes](https://arxiv.org/pdf/2111.07603.pdf), (Qingmei Wang) 
+
+* _Mar. 31, 2022_ [Comparing Three Notions of Discrete Ricci Curvature on Biological Networks](https://arxiv.org/abs/1712.02943),
+                  [Wireless network capacity versus Ollivier-Ricci curvature under Heat-Diffusion (HD) protocol](https://ieeexplore.ieee.org/abstract/document/6858912) and 
+                  [Community detection on networks with Ricci flow](https://www.nature.com/articles/s41598-019-46380-9), (Yue Xiang) 
+
+* _Mar. 24, 2022_ [Learning Equivariant Energy Based Models with Equivariant Stein Variational Gradient Descent](https://arxiv.org/abs/2106.07832), (Fanmeng Wang) 
+
+* _Mar. 17, 2022_ [LieTransformer: Equivariant Self-Attention for Lie Groups](http://proceedings.mlr.press/v139/hutchinson21a.html) and
+                  [Sinkformers: Transformers with doubly stochastic attention](https://arxiv.org/abs/2110.11773), (Minjie Cheng) 
+
+* _Mar. 10, 2022_ [Fast iterative solution of the optimal transport problem on graphs](https://epubs.siam.org/doi/pdf/10.1137/20M137015X?casa_token=krAFnvMMSYAAAAAA:o780CxEG_kjbPQscdoY11ybNj8h64GlC8YtKmbOsAXZAp7u6tTTsRkDOPmUf3VRtM1mdeaG7D8J1BA) and
+                  [Quadratically regularized optimal transport on graphs](https://epubs.siam.org/doi/pdf/10.1137/17M1132665?casa_token=ePdPawD-7GgAAAAA:9tUOj78iDAdjlE8AvMSg2TSE0Jm5loLJfx6epL-ha3a_aEQooD48yGNXDilwgXIUBvOtyIMkORUKew), (Fengjiao Gong) 
+
+* _Mar. 3, 2022_ [Fast Estimation of Causal Interactions using Wold Processes](https://arxiv.org/abs/1807.04595) and 
+                 [A Variational Inference Approach to Learning Multivariate Wold Processes](https://proceedings.mlr.press/v130/etesami21a.html), (Qingmei Wang) 
+
 * _Dec. 30, 2021_ [Large-Margin Contrastive Learning with Distance Polarization Regularizer](http://proceedings.mlr.press/v139/chen21n.html), (Minjie Cheng)
 
 * _Dec. 23, 2021_ [Equivariant Subgraph Aggregation Networks](https://arxiv.org/pdf/2110.02910.pdf), (Shen Yuan)
