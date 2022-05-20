@@ -1,5 +1,5 @@
 # Reading-List
-<<<<<<< HEAD
+
 * _Jun. 16, 2022_ [Amortized Projection Optimization for Sliced Wasserstein Generative Models](https://arxiv.org/pdf/2203.13417.pdf), (Yue Xiang)
 
 * _Jun. 9, 2022_ [Optimal Transport in Reproducing Kernel Hilbert Spaces: Theory and Applications](https://ieeexplore.ieee.org/abstract/document/8658140), (Fengjiao Gong)
@@ -8,8 +8,7 @@
 
 * _May 26, 2022_ [Recovering Stochastic Dynamics via Gaussian Schrödinger Bridges](https://arxiv.org/pdf/2202.05722.pdf), (Yajie Zhang)
 
-=======
->>>>>>> 7d56f37d20070bfc4a22642ba6106d8a0f385af5
+
 * _May 5, 2022_ [SE (3)-equivariant prediction of molecular wavefunctions and electronic densities](https://arxiv.org/abs/2106.02347) and
                 [Equivariant message passing for the prediction of tensorial properties and molecular spectra](https://proceedings.mlr.press/v139/schutt21a.html), (Shen Yuan) 
 
