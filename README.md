@@ -1,12 +1,12 @@
 # Reading-List
 
-* _Jul. 28, 2022_ [Meta Optimal Transport](https://arxiv.org/pdf/2206.05262.pdf), (Fengjiao Gong)
+* _Aug. 18, 2022_ [Meta Optimal Transport](https://arxiv.org/pdf/2206.05262.pdf), (Fengjiao Gong)
 
-* _Jul. 21, 2022_ [Wasserstein t-SNE](https://arxiv.org/pdf/2205.07531.pdf), (Minjie Cheng)
+* _Aug. 11, 2022_ [Wasserstein t-SNE](https://arxiv.org/pdf/2205.07531.pdf), (Minjie Cheng)
 
-* _Jul. 14, 2022_ [Score-based generative modeling through stochastic differential equations](https://arxiv.org/pdf/2011.13456.pdf), (Qingmei Wang)
+* _Aug. 4, 2022_ [Score-based generative modeling through stochastic differential equations](https://arxiv.org/pdf/2011.13456.pdf), (Qingmei Wang)
 
-* _Jul. 7, 2022_ [Unsupervised ground metric learning using wasserstein eigenvectors](https://arxiv.org/pdf/2102.06278.pdf), (Fanmeng Wang)
+* _Jul. 21, 2022_ [Unsupervised ground metric learning using wasserstein eigenvectors](https://arxiv.org/pdf/2102.06278.pdf), (Fanmeng Wang)
 
 * _Jun. 30, 2022_ [Amortized Projection Optimization for Sliced Wasserstein Generative Models](https://arxiv.org/pdf/2203.13417.pdf), (Yue Xiang)
 
