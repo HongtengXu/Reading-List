@@ -1,10 +1,20 @@
 # Reading-List
 
+* _Sep. 29, 2022_ [Neural Set Function Extensions: Learning with Discrete Functions in High Dimensions](https://arxiv.org/pdf/2208.04055.pdf), (Fanmeng Wang)
+
+* _Sep. 22, 2022_ [On the Gradient Formula for learning Generative Models with Regularized Optimal Transport Costs](https://hal.archives-ouvertes.fr/hal-03740368/file/gradient_wgan_tmlr_preprint.pdf), (Yuzhou Nie)
+
+* _Sep. 15, 2022_ [Annealed Training for Combinatorial Optimization on Graphs](https://arxiv.org/abs/2207.11542), (Shen Yuan)
+
+* _Sep. 8, 2022_ [Understanding Collapse in Non-Contrastive Siamese Representation Learning](https://alexanderli.com/data/eccv22.pdf), (Yajie Zhang)
+
+* _Sep. 1, 2022_ [Differentially Private Learning of Hawkes Processes](https://arxiv.org/abs/2207.13741), (Jiajia Sun)
+
+* _Aug. 25, 2022_ [Score-based generative modeling through stochastic differential equations](https://arxiv.org/pdf/2011.13456.pdf), (Qingmei Wang)
+
 * _Aug. 18, 2022_ [Meta Optimal Transport](https://arxiv.org/pdf/2206.05262.pdf), (Fengjiao Gong)
 
 * _Aug. 11, 2022_ [Wasserstein t-SNE](https://arxiv.org/pdf/2205.07531.pdf), (Minjie Cheng)
-
-* _Aug. 4, 2022_ [Score-based generative modeling through stochastic differential equations](https://arxiv.org/pdf/2011.13456.pdf), (Qingmei Wang)
 
 * _Jul. 21, 2022_ [Unsupervised ground metric learning using wasserstein eigenvectors](https://arxiv.org/pdf/2102.06278.pdf), (Fanmeng Wang)
 
