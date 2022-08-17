@@ -1,6 +1,8 @@
 # Reading-List
 
-* _Sep. 29, 2022_ [Neural Set Function Extensions: Learning with Discrete Functions in High Dimensions](https://arxiv.org/pdf/2208.04055.pdf), (Fanmeng Wang)
+* _Oct. 6, 2022_ [GeoDiff: a Geometric Diffusion Model for Molecular Conformation Generation](https://arxiv.org/abs/2203.02923), (Fanmeng Wang)
+
+* _Sep. 29, 2022_ [Neural Set Function Extensions: Learning with Discrete Functions in High Dimensions](https://arxiv.org/pdf/2208.04055.pdf), (Minjie Cheng)
 
 * _Sep. 22, 2022_ [On the Gradient Formula for learning Generative Models with Regularized Optimal Transport Costs](https://hal.archives-ouvertes.fr/hal-03740368/file/gradient_wgan_tmlr_preprint.pdf), (Yuzhou Nie)
 
