@@ -1,5 +1,13 @@
 # Reading-List
 
+* _Dec. 29, 2022_ [Federated Graph Representation Learning using Self-Supervision](https://arxiv.org/pdf/2210.15120.pdf), (Fengjiao Gong)
+
+* _Dec. 22, 2022_ [Deep Equilibrium Approaches to Diffusion Models](https://arxiv.org/pdf/2210.12867.pdf), (Fanmeng Wang)
+
+* _Dec. 15, 2022_ [Generalised Implicit Neural Representations](https://arxiv.org/pdf/2205.15674.pdf), (Shen Yuan)
+
+* _Dec. 8, 2022_ [THPs: Topological Hawkes Processes for Learning Causal Structure on Event Sequences](https://ieeexplore.ieee.org/abstract/document/9781798), (Qingmei Wang)
+
 * _Dec. 1, 2022_ [ON REPRESENTING LINEAR PROGRAMS BY GRAPH NEURAL NETWORKS](https://arxiv.org/pdf/2209.12288.pdf), (Minjie Cheng)
 
 * _Nov. 24, 2022_ [Scaling Forward Gradient With Local Losses](https://arxiv.org/pdf/2210.03310.pdf), (Fengjiao Gong)
