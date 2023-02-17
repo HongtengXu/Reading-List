@@ -1,6 +1,6 @@
 # Reading-List
 
-* _Dec. 29, 2022_ [Federated Graph Representation Learning using Self-Supervision](https://arxiv.org/pdf/2210.15120.pdf), (Fengjiao Gong)
+* _Feb. 17, 2023_ [Federated Graph Representation Learning using Self-Supervision](https://arxiv.org/pdf/2210.15120.pdf), (Fengjiao Gong)
 
 * _Dec. 22, 2022_ [Deep Equilibrium Approaches to Diffusion Models](https://arxiv.org/pdf/2210.12867.pdf), (Fanmeng Wang)
 
