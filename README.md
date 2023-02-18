@@ -1,6 +1,18 @@
 # Reading-List
 
-* _Feb. 17, 2023_ [Federated Graph Representation Learning using Self-Supervision](https://arxiv.org/pdf/2210.15120.pdf), (Fengjiao Gong)
+* _Apr. 6, 2023_ [Clifford Neural Layers for PDE Modeling](https://arxiv.org/pdf/2209.04934.pdf), (Angxiao Yue)
+
+* _Mar. 30, 2023_ [Communication-Efficient Topologies for Decentralized Learning with O(1) Consensus Rate](https://arxiv.org/pdf/2210.07881.pdf), (Fengjiao Gong)
+
+* _Mar. 23, 2023_ [Improving Generative Flow Networks with Path Regularization](https://arxiv.org/abs/2209.15092), (Fanmeng Wang)
+
+* _Mar. 16, 2023_ [The Monge Gap: A Regularizer to Learn All Transport Maps](https://arxiv.org/pdf/2302.04953.pdf), (Shen Yuan)
+
+* _Mar. 9, 2023_ [Sinkhorn EM: an expectation-maximization algorithm based on entropic optimal transport](https://arxiv.org/pdf/2006.16548.pdf), (Qingmei Wang)
+
+* _Mar. 2, 2023_ [Combining graph convolutional neural networks and label propagation](https://www-cs-faculty.stanford.edu/people/jure/pubs/gcnlpa-tois21.pdf), (Minjie Cheng)
+
+* _Feb. 16, 2023_ [Federated Graph Representation Learning using Self-Supervision](https://arxiv.org/pdf/2210.15120.pdf), (Fengjiao Gong)
 
 * _Dec. 22, 2022_ [Deep Equilibrium Approaches to Diffusion Models](https://arxiv.org/pdf/2210.12867.pdf), (Fanmeng Wang)
 
