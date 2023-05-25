@@ -1,16 +1,22 @@
 # Reading-List
 
-* _May 24, 2023_ [Mega: Moving Average Equipped Gated Attention](https://arxiv.org/pdf/2209.10655.pdf), (Yuxin Wu)
+* _Jul. 12, 2023_ [Improving Generative Flow Networks with Path Regularization](https://arxiv.org/abs/2209.15092), (Fanmeng Wang)
 
-* _May 17, 2023_ [MOREL: MULTI-OMICS RELATIONAL LEARNING](https://arxiv.org/pdf/2203.08149.pdf), (Fanmeng Wang)
+* _Jul. 5, 2023_ [Inexact-ADMM Based Federated Meta-Learning for Fast and Continual Edge Learning](https://dl.acm.org/doi/pdf/10.1145/3466772.3467038?casa_token=q3hPh85BVZ0AAAAA:BtcQ5mOsozvou6qSCfP3RbIEqG5jbCAcH6Kt1p7n2D4kdD8jR7o9tuteoXolWGr71UwlvOaJa1nyBcg), (Fengjiao Gong)
+
+* _Jun. 28, 2023_ [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/pdf/2304.03442.pdf), (Shen Yuan)
+
+* _Jun. 21, 2023_ [MOREL: MULTI-OMICS RELATIONAL LEARNING](https://arxiv.org/pdf/2203.08149.pdf), (Qingmei Wang)
+
+* _Jun. 14, 2023_ [Mega: Moving Average Equipped Gated Attention](https://arxiv.org/pdf/2209.10655.pdf), (Yuxin Wu)
+
+* _Jun. 7, 2023_ [Training Neural Networks Without Gradients: A Scalable ADMM Approach](http://proceedings.mlr.press/v48/taylor16.pdf), (Minjie, Cheng)
+
+* _May 31, 2023_ [Clifford Neural Layers for PDE Modeling](https://arxiv.org/pdf/2209.04934.pdf), (Angxiao Yue)
 
 * _May 10, 2023_ [On the Equivalence of Decoupled Graph Convolution Network and Label Propagation](https://dl.acm.org/doi/pdf/10.1145/3442381.3449927?casa_token=j5SEBj64kXkAAAAA:S4Rdrrikps2cvol82RexR2NcRzELVOT6g9RrQBpCriyDYTiOpEer1o29qEoA1csPOlBpBMvDJl9wSQ), (Minjie Cheng)
 
-* _Apr. 26, 2023_ [Clifford Neural Layers for PDE Modeling](https://arxiv.org/pdf/2209.04934.pdf), (Angxiao Yue)
-
 * _Apr. 19, 2023_ [Communication-Efficient Topologies for Decentralized Learning with O(1) Consensus Rate](https://arxiv.org/pdf/2210.07881.pdf), (Fengjiao Gong)
-
-* _Mar. 23, 2023_ [Improving Generative Flow Networks with Path Regularization](https://arxiv.org/abs/2209.15092), (Fanmeng Wang)
 
 * _Mar. 16, 2023_ [The Monge Gap: A Regularizer to Learn All Transport Maps](https://arxiv.org/pdf/2302.04953.pdf), (Shen Yuan)
 
