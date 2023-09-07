@@ -16,7 +16,7 @@
 
 * _Jul. 26, 2023_ [3d Infomax Improves GNNs for Molecular Property Prediction](https://proceedings.mlr.press/v162/stark22a.html), (Fanmeng Wang)
   
-* _Jul. 19, 2023_ [Efficiently Modeling Long Sequences with Structured State Spaces](https://arxiv.org/pdf/2111.00396.pdf), (Shen Yuan)
+* _Jul. 19, 2023_ [Efficiently Modeling Long Sequences with Structured State Spaces](https://arxiv.org/pdf/2111.00396.pdf), (Shen Yuan, [Slides](slides/pre_2023_7_19.pdf))
 
 * _Jul. 6, 2023_ [Improving Generative Flow Networks with Path Regularization](https://arxiv.org/abs/2209.15092), (Fanmeng Wang)
 
