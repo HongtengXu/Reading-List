@@ -1,18 +1,22 @@
 # Reading-List
 
-* _Aug. 2, 2023_ [MOREL: MULTI-OMICS RELATIONAL LEARNING](https://arxiv.org/pdf/2203.08149.pdf), (Qingmei Wang)
+* _Oct. 27, 2023_ [Self-Supervised Contrastive Pre-Training For Time Series via Time-Frequency Consistency](https://openreview.net/forum?id=OJ4mMfGKLN), (Qingmei Wang)
 
-* _Jul. 26, 2023_ [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/pdf/2304.03442.pdf), (Shen Yuan)
+* _Oct. 20, 2023_ [Inexact-ADMM Based Federated Meta-Learning for Fast and Continual Edge Learning](https://dl.acm.org/doi/pdf/10.1145/3466772.3467038?casa_token=q3hPh85BVZ0AAAAA:BtcQ5mOsozvou6qSCfP3RbIEqG5jbCAcH6Kt1p7n2D4kdD8jR7o9tuteoXolWGr71UwlvOaJa1nyBcg), (Fengjiao Gong)
 
-* _Jul. 19, 2023_ [Conditional Generative Modeling is All You Need for Marked Temporal Point Processes](https://arxiv.org/pdf/2305.12569.pdf), (Ke Wan)
+* _Oct. 13, 2023_ [MOREL: MULTI-OMICS RELATIONAL LEARNING](https://arxiv.org/pdf/2203.08149.pdf), (Qingmei Wang)
 
-* _Jul. 12, 2023_ [Self-Supervised Contrastive Pre-Training For Time Series via Time-Frequency Consistency](https://openreview.net/forum?id=OJ4mMfGKLN), (Qingmei Wang)
+* _Oct. 6, 2023_ [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/pdf/2304.03442.pdf), (Shen Yuan)
 
-* _Jul. 5, 2023_ [Inexact-ADMM Based Federated Meta-Learning for Fast and Continual Edge Learning](https://dl.acm.org/doi/pdf/10.1145/3466772.3467038?casa_token=q3hPh85BVZ0AAAAA:BtcQ5mOsozvou6qSCfP3RbIEqG5jbCAcH6Kt1p7n2D4kdD8jR7o9tuteoXolWGr71UwlvOaJa1nyBcg), (Fengjiao Gong)
+* _Sep. 22, 2023_ [Conditional Generative Modeling is All You Need for Marked Temporal Point Processes](https://arxiv.org/pdf/2305.12569.pdf), (Ke Wan)
 
-* _Jun. 28, 2023_ [Efficiently Modeling Long Sequences with Structured State Spaces](https://arxiv.org/pdf/2111.00396.pdf), (Shen Yuan)
+* _Sep. 15, 2023_ [Unsupervised Protein-Ligand Binding Energy Prediction via Neural Euler's Rotation Equation](https://arxiv.org/abs/2301.10814), (Minjie Cheng)
 
-* _Jun. 21, 2023_ [Improving Generative Flow Networks with Path Regularization](https://arxiv.org/abs/2209.15092), (Fanmeng Wang)
+* _Jul. 26, 2023_ [3d Infomax Improves GNNs for Molecular Property Prediction](https://proceedings.mlr.press/v162/stark22a.html), (Fanmeng Wang)
+  
+* _Jul. 19, 2023_ [Efficiently Modeling Long Sequences with Structured State Spaces](https://arxiv.org/pdf/2111.00396.pdf), (Shen Yuan)
+
+* _Jul. 6, 2023_ [Improving Generative Flow Networks with Path Regularization](https://arxiv.org/abs/2209.15092), (Fanmeng Wang)
 
 * _Jun. 14, 2023_ [Mega: Moving Average Equipped Gated Attention](https://arxiv.org/pdf/2209.10655.pdf), (Yuxin Wu)
 
@@ -20,7 +24,9 @@
 
 * _May 31, 2023_ [Clifford Neural Layers for PDE Modeling](https://arxiv.org/pdf/2209.04934.pdf), (Angxiao Yue)
 
-* _May 10, 2023_ [On the Equivalence of Decoupled Graph Convolution Network and Label Propagation](https://dl.acm.org/doi/pdf/10.1145/3442381.3449927?casa_token=j5SEBj64kXkAAAAA:S4Rdrrikps2cvol82RexR2NcRzELVOT6g9RrQBpCriyDYTiOpEer1o29qEoA1csPOlBpBMvDJl9wSQ), (Minjie Cheng)
+* _May 24, 2023_ [Equivariant Diffusion for Molecule Generation in 3D](https://proceedings.mlr.press/v162/hoogeboom22a/hoogeboom22a.pdf), (Fanmeng Wang)
+
+* _Apr. 26, 2023_ [On the Equivalence of Decoupled Graph Convolution Network and Label Propagation](https://dl.acm.org/doi/pdf/10.1145/3442381.3449927?casa_token=j5SEBj64kXkAAAAA:S4Rdrrikps2cvol82RexR2NcRzELVOT6g9RrQBpCriyDYTiOpEer1o29qEoA1csPOlBpBMvDJl9wSQ), (Minjie Cheng)
 
 * _Apr. 19, 2023_ [Communication-Efficient Topologies for Decentralized Learning with O(1) Consensus Rate](https://arxiv.org/pdf/2210.07881.pdf), (Fengjiao Gong)
 
