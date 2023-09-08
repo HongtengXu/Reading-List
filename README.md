@@ -22,23 +22,23 @@
 
 * _Jun. 14, 2023_ [Mega: Moving Average Equipped Gated Attention](https://arxiv.org/pdf/2209.10655.pdf), (Yuxin Wu)
 
-* _Jun. 7, 2023_ [Training Neural Networks Without Gradients: A Scalable ADMM Approach](http://proceedings.mlr.press/v48/taylor16.pdf), (Minjie Cheng)
+* _Jun. 7, 2023_ [Training Neural Networks Without Gradients: A Scalable ADMM Approach](http://proceedings.mlr.press/v48/taylor16.pdf), (Minjie Cheng, [Slides](slides/pre_2023_6_7.pdf))
 
-* _May 31, 2023_ [Clifford Neural Layers for PDE Modeling](https://arxiv.org/pdf/2209.04934.pdf), (Angxiao Yue)
+* _May 31, 2023_ [Clifford Neural Layers for PDE Modeling](https://arxiv.org/pdf/2209.04934.pdf), (Angxiao Yue, [Slides](slides/pre_2023_5_31.pdf))
 
 * _May 24, 2023_ [Equivariant Diffusion for Molecule Generation in 3D](https://proceedings.mlr.press/v162/hoogeboom22a/hoogeboom22a.pdf), (Fanmeng Wang, [Slides](slides/pre_2023_5_24.pdf))
 
-* _Apr. 26, 2023_ [On the Equivalence of Decoupled Graph Convolution Network and Label Propagation](https://dl.acm.org/doi/pdf/10.1145/3442381.3449927?casa_token=j5SEBj64kXkAAAAA:S4Rdrrikps2cvol82RexR2NcRzELVOT6g9RrQBpCriyDYTiOpEer1o29qEoA1csPOlBpBMvDJl9wSQ), (Minjie Cheng)
+* _Apr. 26, 2023_ [On the Equivalence of Decoupled Graph Convolution Network and Label Propagation](https://dl.acm.org/doi/pdf/10.1145/3442381.3449927?casa_token=j5SEBj64kXkAAAAA:S4Rdrrikps2cvol82RexR2NcRzELVOT6g9RrQBpCriyDYTiOpEer1o29qEoA1csPOlBpBMvDJl9wSQ), (Minjie Cheng, [Slides](slides/pre_2023_4_26.pdf))
 
 * _Apr. 19, 2023_ [Communication-Efficient Topologies for Decentralized Learning with O(1) Consensus Rate](https://arxiv.org/pdf/2210.07881.pdf), (Fengjiao Gong)
 
-* _Mar. 16, 2023_ [The Monge Gap: A Regularizer to Learn All Transport Maps](https://arxiv.org/pdf/2302.04953.pdf), (Shen Yuan)
+* _Mar. 16, 2023_ [The Monge Gap: A Regularizer to Learn All Transport Maps](https://arxiv.org/pdf/2302.04953.pdf), (Shen Yuan, [Slides](slides/pre_2023_3_16.pdf))
 
 * _Mar. 9, 2023_ [Sinkhorn EM: an expectation-maximization algorithm based on entropic optimal transport](https://arxiv.org/pdf/2006.16548.pdf), (Qingmei Wang)
 
 * _Mar. 2, 2023_ [Combining graph convolutional neural networks and label propagation](https://www-cs-faculty.stanford.edu/people/jure/pubs/gcnlpa-tois21.pdf), (Minjie Cheng, [Slides](slides/pre_2023_3_2.pdf))
 
-* _Feb. 16, 2023_ [Federated Graph Representation Learning using Self-Supervision](https://arxiv.org/pdf/2210.15120.pdf), (Fengjiao Gong)
+* _Feb. 16, 2023_ [Federated Graph Representation Learning using Self-Supervision](https://arxiv.org/pdf/2210.15120.pdf), (Fengjiao Gong, [Slides](slides/pre_2023_2_16.pdf))
 
 * _Dec. 29, 2022_ [Deep Equilibrium Approaches to Diffusion Models](https://arxiv.org/pdf/2210.12867.pdf), (Fanmeng Wang, [Slides](slides/pre_2022_12_29.pdf))
 
@@ -46,7 +46,7 @@
 
 * _Dec. 8, 2022_ [THPs: Topological Hawkes Processes for Learning Causal Structure on Event Sequences](https://ieeexplore.ieee.org/abstract/document/9781798), (Qingmei Wang)
 
-* _Dec. 1, 2022_ [ON REPRESENTING LINEAR PROGRAMS BY GRAPH NEURAL NETWORKS](https://arxiv.org/pdf/2209.12288.pdf), (Minjie Cheng)
+* _Dec. 1, 2022_ [ON REPRESENTING LINEAR PROGRAMS BY GRAPH NEURAL NETWORKS](https://arxiv.org/pdf/2209.12288.pdf), (Minjie Cheng, [Slides](slides/pre_2022_12_1.pdf))
 
 * _Nov. 24, 2022_ [Scaling Forward Gradient With Local Losses](https://arxiv.org/pdf/2210.03310.pdf), (Fengjiao Gong, [Slides](slides/pre_2022_11_24.pdf))
 
