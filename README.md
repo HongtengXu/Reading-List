@@ -100,7 +100,7 @@
                   [Wireless network capacity versus Ollivier-Ricci curvature under Heat-Diffusion (HD) protocol](https://ieeexplore.ieee.org/abstract/document/6858912) and 
                   [Community detection on networks with Ricci flow](https://www.nature.com/articles/s41598-019-46380-9), (Yue Xiang) 
 
-* _Mar. 24, 2022_ [Learning Equivariant Energy Based Models with Equivariant Stein Variational Gradient Descent](https://arxiv.org/abs/2106.07832), (Fanmeng Wang) 
+* _Mar. 24, 2022_ [Learning Equivariant Energy Based Models with Equivariant Stein Variational Gradient Descent](https://arxiv.org/abs/2106.07832), (Fanmeng Wang, [Slides](slides/pre_2022_3_21.pdf))
 
 * _Mar. 17, 2022_ [LieTransformer: Equivariant Self-Attention for Lie Groups](http://proceedings.mlr.press/v139/hutchinson21a.html) and
                   [Sinkformers: Transformers with doubly stochastic attention](https://arxiv.org/abs/2110.11773), (Minjie Cheng) 
