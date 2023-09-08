@@ -52,7 +52,7 @@
 
 * _Nov. 17, 2022_ [GeoDiff: a Geometric Diffusion Model for Molecular Conformation Generation](https://arxiv.org/abs/2203.02923), (Fanmeng Wang, [Slides](slides/pre_2022_11_17.pdf))
 
-* _Nov. 10, 2022_ [Neural Set Function Extensions: Learning with Discrete Functions in High Dimensions](https://arxiv.org/pdf/2208.04055.pdf), (Minjie Cheng)
+* _Nov. 10, 2022_ [Neural Set Function Extensions: Learning with Discrete Functions in High Dimensions](https://arxiv.org/pdf/2208.04055.pdf), (Minjie Cheng, [Slides](slides/pre_2022_11_10.pdf))
 
 * _Nov. 3, 2022_ [Annealed Training for Combinatorial Optimization on Graphs](https://arxiv.org/abs/2207.11542), (Shen Yuan, [Slides](slides/pre_2022_11_3.pdf))
 
@@ -66,17 +66,17 @@
 
 * _Aug. 25, 2022_ [Score-based generative modeling through stochastic differential equations](https://arxiv.org/pdf/2011.13456.pdf), (Qingmei Wang)
 
-* _Aug. 18, 2022_ [Meta Optimal Transport](https://arxiv.org/pdf/2206.05262.pdf), (Fengjiao Gong)
+* _Aug. 18, 2022_ [Meta Optimal Transport](https://arxiv.org/pdf/2206.05262.pdf), (Fengjiao Gong, [Slides](slides/pre_2022_8_18.pdf))
 
-* _Aug. 11, 2022_ [Wasserstein t-SNE](https://arxiv.org/pdf/2205.07531.pdf), (Minjie Cheng)
+* _Aug. 11, 2022_ [Wasserstein t-SNE](https://arxiv.org/pdf/2205.07531.pdf), (Minjie Cheng, [Slides](slides/pre_2022_8_11.pdf))
 
 * _Jul. 21, 2022_ [Unsupervised ground metric learning using wasserstein eigenvectors](https://arxiv.org/pdf/2102.06278.pdf), (Fanmeng Wang, [Slides](slides/pre_2022_7_21.pdf))
 
-* _Jun. 30, 2022_ [Amortized Projection Optimization for Sliced Wasserstein Generative Models](https://arxiv.org/pdf/2203.13417.pdf), (Yue Xiang)
+* _Jun. 30, 2022_ [Amortized Projection Optimization for Sliced Wasserstein Generative Models](https://arxiv.org/pdf/2203.13417.pdf), (Yue Xiang, [Slides](slides/pre_2022_6_30.pdf))
 
 * _Jun. 17, 2022_ [Deep Reinforcement Learning of Marked Temporal Point Processes](https://proceedings.neurips.cc/paper/2018/file/71a58e8cb75904f24cde464161c3e766-Paper.pdf), (Jiajia Sun, [Slides](slides/pre_2022_6_17.pdf))
 
-* _Jun. 9, 2022_ [Optimal Transport in Reproducing Kernel Hilbert Spaces: Theory and Applications](https://ieeexplore.ieee.org/abstract/document/8658140), (Fengjiao Gong)
+* _Jun. 9, 2022_ [Optimal Transport in Reproducing Kernel Hilbert Spaces: Theory and Applications](https://ieeexplore.ieee.org/abstract/document/8658140), (Fengjiao Gong, [Slides](slides/pre_2022_6_9.pdf))
 
 * _Jun. 2, 2022_ [DECLARATIVE NETS THAT ARE EQUILIBRIUM MODELS](https://openreview.net/pdf?id=q4HaTeMO--y), (Minjie Cheng)
 
