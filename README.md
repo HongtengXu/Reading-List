@@ -70,7 +70,7 @@
 
 * _Aug. 11, 2022_ [Wasserstein t-SNE](https://arxiv.org/pdf/2205.07531.pdf), (Minjie Cheng)
 
-* _Jul. 21, 2022_ [Unsupervised ground metric learning using wasserstein eigenvectors](https://arxiv.org/pdf/2102.06278.pdf), (Fanmeng Wang)
+* _Jul. 21, 2022_ [Unsupervised ground metric learning using wasserstein eigenvectors](https://arxiv.org/pdf/2102.06278.pdf), (Fanmeng Wang, [Slides](slides/pre_2022_7_21.pdf))
 
 * _Jun. 30, 2022_ [Amortized Projection Optimization for Sliced Wasserstein Generative Models](https://arxiv.org/pdf/2203.13417.pdf), (Yue Xiang)
 
