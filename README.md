@@ -56,11 +56,11 @@
 
 * _Nov. 3, 2022_ [Annealed Training for Combinatorial Optimization on Graphs](https://arxiv.org/abs/2207.11542), (Shen Yuan)
 
-* _Oct. 13, 2022_ [On the Gradient Formula for learning Generative Models with Regularized Optimal Transport Costs](https://hal.archives-ouvertes.fr/hal-03740368/file/gradient_wgan_tmlr_preprint.pdf), (Yuzhou Nie)
+* _Oct. 13, 2022_ [On the Gradient Formula for learning Generative Models with Regularized Optimal Transport Costs](https://hal.archives-ouvertes.fr/hal-03740368/file/gradient_wgan_tmlr_preprint.pdf), (Yuzhou Nie, [Slides](slides/pre_2023_10_13.pdf))
 
 * _Sep. 29, 2022_ [Unsupervised Learning of Visual Features by Contrasting Cluster Assignments](https://arxiv.org/abs/2006.09882), (Qingmei Wang)
 
-* _Sep. 8, 2022_ [Understanding Collapse in Non-Contrastive Siamese Representation Learning](https://alexanderli.com/data/eccv22.pdf), (Yajie Zhang)
+* _Sep. 8, 2022_ [Understanding Collapse in Non-Contrastive Siamese Representation Learning](https://alexanderli.com/data/eccv22.pdf), (Yajie Zhang, [Slides](slides/pre_2022_9_8.pdf))
 
 * _Sep. 1, 2022_ [Differentially Private Learning of Hawkes Processes](https://arxiv.org/abs/2207.13741), (Jiajia Sun)
 
@@ -74,7 +74,7 @@
 
 * _Jun. 30, 2022_ [Amortized Projection Optimization for Sliced Wasserstein Generative Models](https://arxiv.org/pdf/2203.13417.pdf), (Yue Xiang)
 
-* _Jun. 17, 2022_ [Deep Reinforcement Learning of Marked Temporal Point Processes](https://proceedings.neurips.cc/paper/2018/file/71a58e8cb75904f24cde464161c3e766-Paper.pdf), (Jiajia Sun)
+* _Jun. 17, 2022_ [Deep Reinforcement Learning of Marked Temporal Point Processes](https://proceedings.neurips.cc/paper/2018/file/71a58e8cb75904f24cde464161c3e766-Paper.pdf), (Jiajia Sun, [Slides](slides/pre_2023_6_17.pdf))
 
 * _Jun. 9, 2022_ [Optimal Transport in Reproducing Kernel Hilbert Spaces: Theory and Applications](https://ieeexplore.ieee.org/abstract/document/8658140), (Fengjiao Gong)
 
