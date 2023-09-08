@@ -40,7 +40,7 @@
 
 * _Feb. 16, 2023_ [Federated Graph Representation Learning using Self-Supervision](https://arxiv.org/pdf/2210.15120.pdf), (Fengjiao Gong)
 
-* _Dec. 22, 2022_ [Deep Equilibrium Approaches to Diffusion Models](https://arxiv.org/pdf/2210.12867.pdf), (Fanmeng Wang)
+* _Dec. 29, 2022_ [Deep Equilibrium Approaches to Diffusion Models](https://arxiv.org/pdf/2210.12867.pdf), (Fanmeng Wang, [Slides](slides/FanmengWang/DEQ-DDIM_pre_2022_12_29.pdf))
 
 * _Dec. 15, 2022_ [Generalised Implicit Neural Representations](https://arxiv.org/pdf/2205.15674.pdf), (Shen Yuan)
 
