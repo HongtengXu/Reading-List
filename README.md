@@ -82,11 +82,10 @@
 
 * _May 26, 2022_ [Recovering Stochastic Dynamics via Gaussian Schrödinger Bridges](https://arxiv.org/pdf/2202.05722.pdf), (Yajie Zhang)
 
+* _May 12, 2022_ [E(n) Equivariant Normalizing Flows](https://arxiv.org/abs/2105.09016), (Fanmeng Wang, [Slides](slides/pre_2022_5_12.pdf))
 
 * _May 5, 2022_ [SE (3)-equivariant prediction of molecular wavefunctions and electronic densities](https://arxiv.org/abs/2106.02347) and
                 [Equivariant message passing for the prediction of tensorial properties and molecular spectra](https://proceedings.mlr.press/v139/schutt21a.html), (Shen Yuan) 
-
-* _Apr. 28, 2022_ [E(n) Equivariant Normalizing Flows](https://arxiv.org/abs/2105.09016), (Fanmeng Wang) 
 
 * _Apr. 21, 2022_ [Top-N: Equivariant set and graph generation without exchangeability](https://arxiv.org/abs/2110.02096) and
                   [Tensor field networks: Rotation- and translation-equivariant neural networks for 3D point clouds](https://arxiv.org/abs/1802.08219), (Minjie Cheng) 
