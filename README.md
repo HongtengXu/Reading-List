@@ -36,7 +36,7 @@
 
 * _Mar. 9, 2023_ [Sinkhorn EM: an expectation-maximization algorithm based on entropic optimal transport](https://arxiv.org/pdf/2006.16548.pdf), (Qingmei Wang)
 
-* _Mar. 2, 2023_ [Combining graph convolutional neural networks and label propagation](https://www-cs-faculty.stanford.edu/people/jure/pubs/gcnlpa-tois21.pdf), (Minjie Cheng)
+* _Mar. 2, 2023_ [Combining graph convolutional neural networks and label propagation](https://www-cs-faculty.stanford.edu/people/jure/pubs/gcnlpa-tois21.pdf), (Minjie Cheng, [Slides](slides/pre_2023_3_2.pdf))
 
 * _Feb. 16, 2023_ [Federated Graph Representation Learning using Self-Supervision](https://arxiv.org/pdf/2210.15120.pdf), (Fengjiao Gong)
 
@@ -48,13 +48,13 @@
 
 * _Dec. 1, 2022_ [ON REPRESENTING LINEAR PROGRAMS BY GRAPH NEURAL NETWORKS](https://arxiv.org/pdf/2209.12288.pdf), (Minjie Cheng)
 
-* _Nov. 24, 2022_ [Scaling Forward Gradient With Local Losses](https://arxiv.org/pdf/2210.03310.pdf), (Fengjiao Gong)
+* _Nov. 24, 2022_ [Scaling Forward Gradient With Local Losses](https://arxiv.org/pdf/2210.03310.pdf), (Fengjiao Gong, [Slides](slides/pre_2022_11_24.pdf))
 
 * _Nov. 17, 2022_ [GeoDiff: a Geometric Diffusion Model for Molecular Conformation Generation](https://arxiv.org/abs/2203.02923), (Fanmeng Wang, [Slides](slides/pre_2022_11_17.pdf))
 
 * _Nov. 10, 2022_ [Neural Set Function Extensions: Learning with Discrete Functions in High Dimensions](https://arxiv.org/pdf/2208.04055.pdf), (Minjie Cheng)
 
-* _Nov. 3, 2022_ [Annealed Training for Combinatorial Optimization on Graphs](https://arxiv.org/abs/2207.11542), (Shen Yuan)
+* _Nov. 3, 2022_ [Annealed Training for Combinatorial Optimization on Graphs](https://arxiv.org/abs/2207.11542), (Shen Yuan, [Slides](slides/pre_2022_11_3.pdf))
 
 * _Oct. 13, 2022_ [On the Gradient Formula for learning Generative Models with Regularized Optimal Transport Costs](https://hal.archives-ouvertes.fr/hal-03740368/file/gradient_wgan_tmlr_preprint.pdf), (Yuzhou Nie, [Slides](slides/pre_2022_10_13.pdf))
 
