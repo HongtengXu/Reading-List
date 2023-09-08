@@ -1,4 +1,4 @@
-![image](https://github.com/SDS-Lab/SDSLab-Reading-List/assets/59213556/149865ad-d995-44ce-ac7c-51250aefd8ff)# Reading-List
+# Reading-List
 
 * _Nov. 3, 2023_ [Clifford group equivariant neural networks](https://arxiv.org/pdf/2305.11141.pdf), (Angxiao Yue)
 
