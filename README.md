@@ -88,7 +88,7 @@
                 [Equivariant message passing for the prediction of tensorial properties and molecular spectra](https://proceedings.mlr.press/v139/schutt21a.html), (Shen Yuan) 
 
 * _Apr. 21, 2022_ [Top-N: Equivariant set and graph generation without exchangeability](https://arxiv.org/abs/2110.02096) and
-                  [Tensor field networks: Rotation- and translation-equivariant neural networks for 3D point clouds](https://arxiv.org/abs/1802.08219), (Minjie Cheng) 
+                  [Tensor field networks: Rotation- and translation-equivariant neural networks for 3D point clouds](https://arxiv.org/abs/1802.08219), (Minjie Cheng, [Slides](slides/pre_2022_4_21.pdf)) 
 
 * _Apr. 14, 2022_ [Continuous wasserstein-2 barycenter estimation without minimax optimization](https://arxiv.org/abs/2102.01752) and 
                   [Fast Discrete Distribution Clustering Using Wasserstein Barycenter with Sparse Support](https://ieeexplore.ieee.org/ielaam/78/7858803/7833204-aam.pdf), (Fengjiao Gong, [Slides](slides/pre_2022_4_14.pdf)) 
