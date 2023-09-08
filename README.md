@@ -98,7 +98,7 @@
 
 * _Mar. 31, 2022_ [Comparing Three Notions of Discrete Ricci Curvature on Biological Networks](https://arxiv.org/abs/1712.02943),
                   [Wireless network capacity versus Ollivier-Ricci curvature under Heat-Diffusion (HD) protocol](https://ieeexplore.ieee.org/abstract/document/6858912) and 
-                  [Community detection on networks with Ricci flow](https://www.nature.com/articles/s41598-019-46380-9), (Yue Xiang) 
+                  [Community detection on networks with Ricci flow](https://www.nature.com/articles/s41598-019-46380-9), (Yue Xiang, [Slides](slides/pre_2022_3_31.pdf)) 
 
 * _Mar. 24, 2022_ [Learning Equivariant Energy Based Models with Equivariant Stein Variational Gradient Descent](https://arxiv.org/abs/2106.07832), (Fanmeng Wang, [Slides](slides/pre_2022_3_21.pdf))
 
