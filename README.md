@@ -123,7 +123,7 @@
                  [Bag similarity network for deep multi-instance learning](https://www.sciencedirect.com/science/article/abs/pii/S0020025519306826), (Qingmei Wang, [Slides](slides/pre_2021_12_2.pdf))
 
 * _Nov. 25, 2021_ [Set Transformer: A Framework for Attention-based Permutation-Invariant Neural Networks](http://proceedings.mlr.press/v97/lee19d.html) and
-                  [Deep Set](https://arxiv.org/pdf/1703.06114.pdf), (Minjie Cheng)
+                  [Deep Set](https://arxiv.org/pdf/1703.06114.pdf), (Minjie Cheng, [Slides](slides/pre_2022_11_25.pdf))
 
 * _Nov. 18, 2021_ [Decoupled Contrastive Learning](https://arxiv.org/pdf/2110.06848.pdf) and 
                   [Debiased Contrastive Learning](https://arxiv.org/pdf/2007.00224.pdf), (Shen Yuan, [Slides](slides/pre_2021_11_18.pdf))
