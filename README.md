@@ -80,7 +80,7 @@
 
 * _Jun. 2, 2022_ [DECLARATIVE NETS THAT ARE EQUILIBRIUM MODELS](https://openreview.net/pdf?id=q4HaTeMO--y), (Minjie Cheng)
 
-* _May 26, 2022_ [Recovering Stochastic Dynamics via Gaussian Schrödinger Bridges](https://arxiv.org/pdf/2202.05722.pdf), (Yajie Zhang)
+* _May 26, 2022_ [Recovering Stochastic Dynamics via Gaussian Schrödinger Bridges](https://arxiv.org/pdf/2202.05722.pdf), (Yajie Zhang, [Slides](slides/pre_2022_5_26.pdf))
 
 * _May 12, 2022_ [E(n) Equivariant Normalizing Flows](https://arxiv.org/abs/2105.09016), (Fanmeng Wang, [Slides](slides/pre_2022_5_12.pdf))
 
