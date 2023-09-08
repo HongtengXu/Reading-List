@@ -1,4 +1,4 @@
-# Reading-List
+![image](https://github.com/SDS-Lab/SDSLab-Reading-List/assets/59213556/149865ad-d995-44ce-ac7c-51250aefd8ff)# Reading-List
 
 * _Nov. 3, 2023_ [Clifford group equivariant neural networks](https://arxiv.org/pdf/2305.11141.pdf), (Angxiao Yue)
 
@@ -103,7 +103,7 @@
 * _Mar. 24, 2022_ [Learning Equivariant Energy Based Models with Equivariant Stein Variational Gradient Descent](https://arxiv.org/abs/2106.07832), (Fanmeng Wang, [Slides](slides/pre_2022_3_21.pdf))
 
 * _Mar. 17, 2022_ [LieTransformer: Equivariant Self-Attention for Lie Groups](http://proceedings.mlr.press/v139/hutchinson21a.html) and
-                  [Sinkformers: Transformers with doubly stochastic attention](https://arxiv.org/abs/2110.11773), (Minjie Cheng) 
+                  [Sinkformers: Transformers with doubly stochastic attention](https://arxiv.org/abs/2110.11773), (Minjie Cheng, [Slides](slides/pre_2022_03_17.pdf)) 
 
 * _Mar. 10, 2022_ [Fast iterative solution of the optimal transport problem on graphs](https://epubs.siam.org/doi/pdf/10.1137/20M137015X?casa_token=krAFnvMMSYAAAAAA:o780CxEG_kjbPQscdoY11ybNj8h64GlC8YtKmbOsAXZAp7u6tTTsRkDOPmUf3VRtM1mdeaG7D8J1BA) and
                   [Quadratically regularized optimal transport on graphs](https://epubs.siam.org/doi/pdf/10.1137/17M1132665?casa_token=ePdPawD-7GgAAAAA:9tUOj78iDAdjlE8AvMSg2TSE0Jm5loLJfx6epL-ha3a_aEQooD48yGNXDilwgXIUBvOtyIMkORUKew), (Fengjiao Gong, [Slides](slides/pre_2022_3_10.pdf)) 
