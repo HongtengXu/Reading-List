@@ -22,7 +22,7 @@
 
 * _Jun. 14, 2023_ [Mega: Moving Average Equipped Gated Attention](https://arxiv.org/pdf/2209.10655.pdf), (Yuxin Wu)
 
-* _Jun. 7, 2023_ [Training Neural Networks Without Gradients: A Scalable ADMM Approach](http://proceedings.mlr.press/v48/taylor16.pdf), (Minjie, Cheng)
+* _Jun. 7, 2023_ [Training Neural Networks Without Gradients: A Scalable ADMM Approach](http://proceedings.mlr.press/v48/taylor16.pdf), (Minjie Cheng)
 
 * _May 31, 2023_ [Clifford Neural Layers for PDE Modeling](https://arxiv.org/pdf/2209.04934.pdf), (Angxiao Yue)
 
