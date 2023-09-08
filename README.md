@@ -50,7 +50,7 @@
 
 * _Nov. 24, 2022_ [Scaling Forward Gradient With Local Losses](https://arxiv.org/pdf/2210.03310.pdf), (Fengjiao Gong)
 
-* _Nov. 17, 2022_ [GeoDiff: a Geometric Diffusion Model for Molecular Conformation Generation](https://arxiv.org/abs/2203.02923), (Fanmeng Wang)
+* _Nov. 17, 2022_ [GeoDiff: a Geometric Diffusion Model for Molecular Conformation Generation](https://arxiv.org/abs/2203.02923), (Fanmeng Wang, [Slides](slides/pre_2022_11_17.pdf))
 
 * _Nov. 10, 2022_ [Neural Set Function Extensions: Learning with Discrete Functions in High Dimensions](https://arxiv.org/pdf/2208.04055.pdf), (Minjie Cheng)
 
