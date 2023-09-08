@@ -26,7 +26,7 @@
 
 * _May 31, 2023_ [Clifford Neural Layers for PDE Modeling](https://arxiv.org/pdf/2209.04934.pdf), (Angxiao Yue)
 
-* _May 24, 2023_ [Equivariant Diffusion for Molecule Generation in 3D](https://proceedings.mlr.press/v162/hoogeboom22a/hoogeboom22a.pdf), (Fanmeng Wang)
+* _May 24, 2023_ [Equivariant Diffusion for Molecule Generation in 3D](https://proceedings.mlr.press/v162/hoogeboom22a/hoogeboom22a.pdf), (Fanmeng Wang, [Slides](slides/FanmengWang/EDM_pre_2023_5_24.pdf))
 
 * _Apr. 26, 2023_ [On the Equivalence of Decoupled Graph Convolution Network and Label Propagation](https://dl.acm.org/doi/pdf/10.1145/3442381.3449927?casa_token=j5SEBj64kXkAAAAA:S4Rdrrikps2cvol82RexR2NcRzELVOT6g9RrQBpCriyDYTiOpEer1o29qEoA1csPOlBpBMvDJl9wSQ), (Minjie Cheng)
 
