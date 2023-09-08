@@ -62,7 +62,7 @@
 
 * _Sep. 8, 2022_ [Understanding Collapse in Non-Contrastive Siamese Representation Learning](https://alexanderli.com/data/eccv22.pdf), (Yajie Zhang, [Slides](slides/pre_2022_9_8.pdf))
 
-* _Sep. 1, 2022_ [Differentially Private Learning of Hawkes Processes](https://arxiv.org/abs/2207.13741), (Jiajia Sun)
+* _Sep. 1, 2022_ [Differentially Private Learning of Hawkes Processes](https://arxiv.org/abs/2207.13741), (Jiajia Sun, [Slides](slides/pre_2022_9_1.pdf))
 
 * _Aug. 25, 2022_ [Score-based generative modeling through stochastic differential equations](https://arxiv.org/pdf/2011.13456.pdf), (Qingmei Wang)
 
@@ -161,7 +161,7 @@
   
 * _Aug. 6, 2021_ [RetCL: A Selection-based Approach for Retrosynthesis via Contrastive Learning](https://arxiv.org/abs/2105.00795), (Shen Yuan, [Slides](slides/pre_2021_8_6.pdf))
   
-* _Jul. 30, 2021_ [GTA: Graph Truncated Attention for Retrosynthesis](https://www.aaai.org/AAAI21Papers/AAAI-10027.SeoS.pdf), (Yue Xiang)
+* _Jul. 30, 2021_ [GTA: Graph Truncated Attention for Retrosynthesis](https://www.aaai.org/AAAI21Papers/AAAI-10027.SeoS.pdf), (Yue Xiang, [Slides](slides/pre_2021_7_30.pdf))
   
 * _Jun. 25, 2021_ [Learning to make generalizable and diverse predictions for retrosynthesis](https://arxiv.org/pdf/1910.09688.pdf), (Yue Xiang)
 
@@ -175,7 +175,7 @@
 
 * _May 21, 2021_ [Multiview Sensing With Unknown Permutations: An Optimal Transport Approach](https://arxiv.org/pdf/2103.07458.pdf), (Shen Yuan, [Slides](slides/pre_2021_5_21.pdf))
 
-* _May 14, 2021_ [Computer-Assisted Retrosynthesis Based on Molecular Similarity](https://pubs.acs.org/doi/pdf/10.1021/acscentsci.7b00355), (Yue Xiang)
+* _May 14, 2021_ [Computer-Assisted Retrosynthesis Based on Molecular Similarity](https://pubs.acs.org/doi/pdf/10.1021/acscentsci.7b00355), (Yue Xiang, [Slides](slides/pre_2021_5_14.pdf))
 
 * _May 7, 2021_ [A Graph to Graphs Framework for Retrosynthesis Prediction](http://proceedings.mlr.press/v119/shi20d/shi20d.pdf), (Shen Yuan)
 
