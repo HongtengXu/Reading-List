@@ -14,11 +14,11 @@
 
 * _Sep. 15, 2023_ [Unsupervised Protein-Ligand Binding Energy Prediction via Neural Euler's Rotation Equation](https://arxiv.org/abs/2301.10814), (Minjie Cheng)
 
-* _Jul. 26, 2023_ [3d Infomax Improves GNNs for Molecular Property Prediction](https://proceedings.mlr.press/v162/stark22a.html), (Fanmeng Wang, [Slides](slides/FanmengWang/3D_Infomax_pre_2023_7_26.pdf))
+* _Jul. 26, 2023_ [3d Infomax Improves GNNs for Molecular Property Prediction](https://proceedings.mlr.press/v162/stark22a.html), (Fanmeng Wang, [Slides](slides/pre_2023_7_26.pdf))
   
 * _Jul. 19, 2023_ [Efficiently Modeling Long Sequences with Structured State Spaces](https://arxiv.org/pdf/2111.00396.pdf), (Shen Yuan, [Slides](slides/pre_2023_7_19.pdf))
 
-* _Jun. 21, 2023_ [Improving Generative Flow Networks with Path Regularization](https://arxiv.org/abs/2209.15092), (Fanmeng Wang, [Slides](slides/FanmengWang/pre_2023_6_21.pdf))
+* _Jun. 21, 2023_ [Improving Generative Flow Networks with Path Regularization](https://arxiv.org/abs/2209.15092), (Fanmeng Wang, [Slides](slides/pre_2023_6_21.pdf))
 
 * _Jun. 14, 2023_ [Mega: Moving Average Equipped Gated Attention](https://arxiv.org/pdf/2209.10655.pdf), (Yuxin Wu)
 
@@ -26,7 +26,7 @@
 
 * _May 31, 2023_ [Clifford Neural Layers for PDE Modeling](https://arxiv.org/pdf/2209.04934.pdf), (Angxiao Yue)
 
-* _May 24, 2023_ [Equivariant Diffusion for Molecule Generation in 3D](https://proceedings.mlr.press/v162/hoogeboom22a/hoogeboom22a.pdf), (Fanmeng Wang, [Slides](slides/FanmengWang/EDM_pre_2023_5_24.pdf))
+* _May 24, 2023_ [Equivariant Diffusion for Molecule Generation in 3D](https://proceedings.mlr.press/v162/hoogeboom22a/hoogeboom22a.pdf), (Fanmeng Wang, [Slides](slides/pre_2023_5_24.pdf))
 
 * _Apr. 26, 2023_ [On the Equivalence of Decoupled Graph Convolution Network and Label Propagation](https://dl.acm.org/doi/pdf/10.1145/3442381.3449927?casa_token=j5SEBj64kXkAAAAA:S4Rdrrikps2cvol82RexR2NcRzELVOT6g9RrQBpCriyDYTiOpEer1o29qEoA1csPOlBpBMvDJl9wSQ), (Minjie Cheng)
 
@@ -40,7 +40,7 @@
 
 * _Feb. 16, 2023_ [Federated Graph Representation Learning using Self-Supervision](https://arxiv.org/pdf/2210.15120.pdf), (Fengjiao Gong)
 
-* _Dec. 29, 2022_ [Deep Equilibrium Approaches to Diffusion Models](https://arxiv.org/pdf/2210.12867.pdf), (Fanmeng Wang, [Slides](slides/FanmengWang/DEQ-DDIM_pre_2022_12_29.pdf))
+* _Dec. 29, 2022_ [Deep Equilibrium Approaches to Diffusion Models](https://arxiv.org/pdf/2210.12867.pdf), (Fanmeng Wang, [Slides](slides/pre_2022_12_29.pdf))
 
 * _Dec. 15, 2022_ [Generalised Implicit Neural Representations](https://arxiv.org/pdf/2205.15674.pdf), (Shen Yuan)
 
