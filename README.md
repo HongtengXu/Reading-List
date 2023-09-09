@@ -30,7 +30,7 @@
 
 * _Apr. 26, 2023_ [On the Equivalence of Decoupled Graph Convolution Network and Label Propagation](https://dl.acm.org/doi/pdf/10.1145/3442381.3449927?casa_token=j5SEBj64kXkAAAAA:S4Rdrrikps2cvol82RexR2NcRzELVOT6g9RrQBpCriyDYTiOpEer1o29qEoA1csPOlBpBMvDJl9wSQ), (Minjie Cheng, [Slides](slides/pre_2023_4_26.pdf))
 
-* _Apr. 19, 2023_ [Communication-Efficient Topologies for Decentralized Learning with O(1) Consensus Rate](https://arxiv.org/pdf/2210.07881.pdf), (Fengjiao Gong)
+* _Apr. 19, 2023_ [Communication-Efficient Topologies for Decentralized Learning with O(1) Consensus Rate](https://arxiv.org/pdf/2210.07881.pdf), (Fengjiao Gong, [Slides](slides/pre_2023_4_19.pdf))
 
 * _Mar. 16, 2023_ [The Monge Gap: A Regularizer to Learn All Transport Maps](https://arxiv.org/pdf/2302.04953.pdf), (Shen Yuan, [Slides](slides/pre_2023_3_16.pdf))
 
