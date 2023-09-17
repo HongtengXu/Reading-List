@@ -12,7 +12,7 @@
 
 * _Sep. 22, 2023_ [Conditional Generative Modeling is All You Need for Marked Temporal Point Processes](https://arxiv.org/pdf/2305.12569.pdf), (Ke Wan)
 
-* _Sep. 15, 2023_ [Unsupervised Protein-Ligand Binding Energy Prediction via Neural Euler's Rotation Equation](https://arxiv.org/abs/2301.10814), (Minjie Cheng)
+* _Sep. 15, 2023_ [Unsupervised Protein-Ligand Binding Energy Prediction via Neural Euler's Rotation Equation](https://arxiv.org/abs/2301.10814), (Minjie Cheng, [Slides](slides/pre_2023_09_14.pdf))
 
 * _Jul. 26, 2023_ [3d Infomax Improves GNNs for Molecular Property Prediction](https://proceedings.mlr.press/v162/stark22a.html), (Fanmeng Wang, [Slides](slides/pre_2023_7_26.pdf))
   
