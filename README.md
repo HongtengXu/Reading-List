@@ -8,7 +8,7 @@
 
 * _Oct. 13, 2023_ [MOREL: MULTI-OMICS RELATIONAL LEARNING](https://arxiv.org/pdf/2203.08149.pdf), (Qingmei Wang)
 
-* _Oct. 6, 2023_ [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/pdf/2304.03442.pdf), (Shen Yuan)
+* _Oct. 6, 2023_ [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/pdf/2304.03442.pdf), (Shen Yuan, [Slides](slides/pre_2023_10_12.pdf))
 
 * _Sep. 22, 2023_ [Conditional Generative Modeling is All You Need for Marked Temporal Point Processes](https://arxiv.org/pdf/2305.12569.pdf), (Ke Wan)
 
