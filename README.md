@@ -1,18 +1,19 @@
 # Reading-List
 
-* _Nov. 3, 2023_ [Clifford group equivariant neural networks](https://arxiv.org/pdf/2305.11141.pdf), (Angxiao Yue)
+* _Nov. 9, 2023_ [Clifford group equivariant neural networks](https://arxiv.org/pdf/2305.11141.pdf), (Angxiao Yue)
 
-* _Oct. 27, 2023_ [Self-Supervised Contrastive Pre-Training For Time Series via Time-Frequency Consistency](https://openreview.net/forum?id=OJ4mMfGKLN), (Yuxin Wu)
+* _Nov. 2, 2023_ [Inexact-ADMM Based Federated Meta-Learning for Fast and Continual Edge Learning](https://dl.acm.org/doi/pdf/10.1145/3466772.3467038?casa_token=q3hPh85BVZ0AAAAA:BtcQ5mOsozvou6qSCfP3RbIEqG5jbCAcH6Kt1p7n2D4kdD8jR7o9tuteoXolWGr71UwlvOaJa1nyBcg), 
+(Fengjiao Gong, [Slides](slides/pre_2023_11_02.pdf))
+  
+*  _Oct. 26, 2023_ [Self-Supervised Contrastive Pre-Training For Time Series via Time-Frequency Consistency](https://openreview.net/forum?id=OJ4mMfGKLN), (Yuxin Wu)
 
-* _Oct. 20, 2023_ [Inexact-ADMM Based Federated Meta-Learning for Fast and Continual Edge Learning](https://dl.acm.org/doi/pdf/10.1145/3466772.3467038?casa_token=q3hPh85BVZ0AAAAA:BtcQ5mOsozvou6qSCfP3RbIEqG5jbCAcH6Kt1p7n2D4kdD8jR7o9tuteoXolWGr71UwlvOaJa1nyBcg), (Fengjiao Gong)
+* _Oct. 12, 2023_ [MOREL: MULTI-OMICS RELATIONAL LEARNING](https://arxiv.org/pdf/2203.08149.pdf), (Qingmei Wang)
 
-* _Oct. 13, 2023_ [MOREL: MULTI-OMICS RELATIONAL LEARNING](https://arxiv.org/pdf/2203.08149.pdf), (Qingmei Wang)
-
-* _Oct. 6, 2023_ [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/pdf/2304.03442.pdf), (Shen Yuan)
+* _Oct. 5, 2023_ [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/pdf/2304.03442.pdf), (Shen Yuan, [Slides](slides/pre_2023_10_12.pdf))
 
 * _Sep. 22, 2023_ [Conditional Generative Modeling is All You Need for Marked Temporal Point Processes](https://arxiv.org/pdf/2305.12569.pdf), (Ke Wan)
 
-* _Sep. 15, 2023_ [Unsupervised Protein-Ligand Binding Energy Prediction via Neural Euler's Rotation Equation](https://arxiv.org/abs/2301.10814), (Minjie Cheng)
+* _Sep. 15, 2023_ [Unsupervised Protein-Ligand Binding Energy Prediction via Neural Euler's Rotation Equation](https://arxiv.org/abs/2301.10814), (Minjie Cheng, [Slides](slides/pre_2023_09_14.pdf))
 
 * _Jul. 26, 2023_ [3d Infomax Improves GNNs for Molecular Property Prediction](https://proceedings.mlr.press/v162/stark22a.html), (Fanmeng Wang, [Slides](slides/pre_2023_7_26.pdf))
   
@@ -30,7 +31,7 @@
 
 * _Apr. 26, 2023_ [On the Equivalence of Decoupled Graph Convolution Network and Label Propagation](https://dl.acm.org/doi/pdf/10.1145/3442381.3449927?casa_token=j5SEBj64kXkAAAAA:S4Rdrrikps2cvol82RexR2NcRzELVOT6g9RrQBpCriyDYTiOpEer1o29qEoA1csPOlBpBMvDJl9wSQ), (Minjie Cheng, [Slides](slides/pre_2023_4_26.pdf))
 
-* _Apr. 19, 2023_ [Communication-Efficient Topologies for Decentralized Learning with O(1) Consensus Rate](https://arxiv.org/pdf/2210.07881.pdf), (Fengjiao Gong)
+* _Apr. 19, 2023_ [Communication-Efficient Topologies for Decentralized Learning with O(1) Consensus Rate](https://arxiv.org/pdf/2210.07881.pdf), (Fengjiao Gong, [Slides](slides/pre_2023_4_19.pdf))
 
 * _Mar. 16, 2023_ [The Monge Gap: A Regularizer to Learn All Transport Maps](https://arxiv.org/pdf/2302.04953.pdf), (Shen Yuan, [Slides](slides/pre_2023_3_16.pdf))
 
@@ -80,7 +81,7 @@
 
 * _Jun. 2, 2022_ [DECLARATIVE NETS THAT ARE EQUILIBRIUM MODELS](https://openreview.net/pdf?id=q4HaTeMO--y), (Minjie Cheng)
 
-* _May 26, 2022_ [Recovering Stochastic Dynamics via Gaussian Schrödinger Bridges](https://arxiv.org/pdf/2202.05722.pdf), (Yajie Zhang)
+* _May 26, 2022_ [Recovering Stochastic Dynamics via Gaussian Schrödinger Bridges](https://arxiv.org/pdf/2202.05722.pdf), (Yajie Zhang, [Slides](slides/pre_2022_5_26.pdf))
 
 * _May 12, 2022_ [E(n) Equivariant Normalizing Flows](https://arxiv.org/abs/2105.09016), (Fanmeng Wang, [Slides](slides/pre_2022_5_12.pdf))
 
