@@ -1,4 +1,17 @@
 # Reading-List
+* _Dec. 28, 2023_ Pending, (Yuxin Wu)
+
+* _Dec. 21, 2023_  *Pending*, (Angxiao Yue)
+
+* _Dec. 14, 2023_ Pending, (Fengjiao Gong)
+
+* _Dec. 7, 2023_ Pending, (Qingmei Wang)
+  
+* _Nov. 30, 2023_ Pending, (Fanmeng Wang)
+
+* _Nov. 23, 2023_ Pending, (Shen Yuan)
+
+* _Nov. 16, 2023_ Pending, (Minjie Cheng)
 
 * _Nov. 9, 2023_ [Clifford group equivariant neural networks](https://arxiv.org/pdf/2305.11141.pdf), (Angxiao Yue)
 
