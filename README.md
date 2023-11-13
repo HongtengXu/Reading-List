@@ -1,6 +1,19 @@
 # Reading-List
+* _Dec. 28, 2023_ **Pending**, (Yuxin Wu)
 
-* _Nov. 9, 2023_ [Clifford group equivariant neural networks](https://arxiv.org/pdf/2305.11141.pdf), (Angxiao Yue)
+* _Dec. 21, 2023_ **Pending**, (Angxiao Yue)
+
+* _Dec. 14, 2023_ **Pending**, (Fengjiao Gong)
+
+* _Dec. 7, 2023_ **Pending**, (Qingmei Wang)
+  
+* _Nov. 30, 2023_ **Pending**, (Fanmeng Wang)
+
+* _Nov. 23, 2023_ **Pending**, (Shen Yuan)
+
+* _Nov. 16, 2023_ **Pending**, (Minjie Cheng)
+
+* _Nov. 9, 2023_ [Clifford group equivariant neural networks](https://arxiv.org/pdf/2305.11141.pdf), (Angxiao Yue, [Slides](slides/pre_2023_11_09.pdf))
 
 * _Nov. 2, 2023_ [Inexact-ADMM Based Federated Meta-Learning for Fast and Continual Edge Learning](https://dl.acm.org/doi/pdf/10.1145/3466772.3467038?casa_token=q3hPh85BVZ0AAAAA:BtcQ5mOsozvou6qSCfP3RbIEqG5jbCAcH6Kt1p7n2D4kdD8jR7o9tuteoXolWGr71UwlvOaJa1nyBcg), 
 (Fengjiao Gong, [Slides](slides/pre_2023_11_02.pdf))
