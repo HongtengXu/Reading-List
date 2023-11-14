@@ -11,7 +11,7 @@
 
 * _Nov. 23, 2023_ **Pending**, (Shen Yuan)
 
-* _Nov. 16, 2023_ **Pending**, (Minjie Cheng)
+* _Nov. 16, 2023_ [GraphGPT: Graph Instruction Tuning for Large Language Models](https://arxiv.org/abs/2310.13023), (Minjie Cheng)
 
 * _Nov. 9, 2023_ [Clifford group equivariant neural networks](https://arxiv.org/pdf/2305.11141.pdf), (Angxiao Yue, [Slides](slides/pre_2023_11_09.pdf))
 
