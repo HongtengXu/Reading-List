@@ -1,17 +1,17 @@
 # Reading-List
-* _Dec. 28, 2023_ **Pending**, (Yuxin Wu)
+* _Jan. 11, 2023_ **Pending**, (Yuxin Wu)
 
-* _Dec. 21, 2023_ **Pending**, (Angxiao Yue)
+* _Jan. 4, 2023_ **Pending**, (Angxiao Yue)
 
-* _Dec. 14, 2023_ **Pending**, (Fengjiao Gong)
+* _Dec. 28, 2023_ **Pending**, (Fengjiao Gong)
 
-* _Dec. 7, 2023_ **Pending**, (Qingmei Wang)
+* _Dec. 21, 2023_ **Pending**, (Qingmei Wang)
   
-* _Nov. 30, 2023_ **Pending**, (Fanmeng Wang)
+* _Dec. 14, 2023_ **Pending**, (Fanmeng Wang)
 
-* _Nov. 23, 2023_ **Pending**, (Shen Yuan)
+* _Dec. 7, 2023_ **Pending**, (Shen Yuan)
 
-* _Nov. 16, 2023_ [GraphGPT: Graph Instruction Tuning for Large Language Models](https://arxiv.org/abs/2310.13023), (Minjie Cheng)
+* _Nov. 30, 2023_ [GraphGPT: Graph Instruction Tuning for Large Language Models](https://arxiv.org/abs/2310.13023), (Minjie Cheng)
 
 * _Nov. 9, 2023_ [Clifford group equivariant neural networks](https://arxiv.org/pdf/2305.11141.pdf), (Angxiao Yue, [Slides](slides/pre_2023_11_09.pdf))
 
