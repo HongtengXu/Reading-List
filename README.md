@@ -1,7 +1,7 @@
 # Reading-List
-* _Jan. 11, 2023_ **Pending**, (Yuxin Wu)
+* _Jan. 11, 2024_ **Pending**, (Yuxin Wu)
 
-* _Jan. 4, 2023_ **Pending**, (Angxiao Yue)
+* _Jan. 4, 2024_ **Pending**, (Angxiao Yue)
 
 * _Dec. 28, 2023_ **Pending**, (Fengjiao Gong)
 
