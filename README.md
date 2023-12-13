@@ -1,15 +1,15 @@
 # Reading-List
-* _Jan. 11, 2024_ **Pending**, (Yuxin Wu)
+* _Jan. 18, 2024_ **Pending**, (Yuxin Wu)
 
-* _Jan. 4, 2024_ **Pending**, (Angxiao Yue)
+* _Jan. 11, 2024_ **Pending**, (Angxiao Yue)
 
-* _Dec. 28, 2023_ **Pending**, (Fengjiao Gong)
+* _Jan. 4, 2023_ **Pending**, (Fengjiao Gong)
 
-* _Dec. 21, 2023_ **Pending**, (Qingmei Wang)
+* _Dec. 28, 2023_ **Pending**, (Qingmei Wang)
   
-* _Dec. 14, 2023_ **Pending**, (Fanmeng Wang)
+* _Dec. 21, 2023_ **Pending**, (Fanmeng Wang)
 
-* _Dec. 7, 2023_ **Pending**, (Shen Yuan)
+* _Dec. 14, 2023_ **Pending**, (Shen Yuan)
 
 * _Nov. 30, 2023_ [GraphGPT: Graph Instruction Tuning for Large Language Models](https://arxiv.org/abs/2310.13023), (Minjie Cheng, [Slides](slides/pre_2023_11_30.pdf))
 
