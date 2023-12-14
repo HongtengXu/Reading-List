@@ -9,7 +9,7 @@
   
 * _Dec. 21, 2023_ **Pending**, (Fanmeng Wang)
 
-* _Dec. 14, 2023_ **Pending**, (Shen Yuan)
+* _Dec. 14, 2023_ [Transformer-VQ: Linear-Time Transformers via Vector Quantization](https://arxiv.org/abs/2309.16354), (Shen Yuan, [Slides](slides/pre_2023_12_07.pdf))
 
 * _Nov. 30, 2023_ [GraphGPT: Graph Instruction Tuning for Large Language Models](https://arxiv.org/abs/2310.13023), (Minjie Cheng, [Slides](slides/pre_2023_11_30.pdf))
 
