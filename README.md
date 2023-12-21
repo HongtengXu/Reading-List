@@ -7,7 +7,7 @@
 
 * _Dec. 28, 2023_ **Pending**, (Qingmei Wang)
   
-* _Dec. 21, 2023_ [CoarsenConf: Equivariant Coarsening with Aggregated Attention for Molecular Conformer Generation](https://arxiv.org/abs/2306.14852), (Fanmeng Wang)
+* _Dec. 21, 2023_ [CoarsenConf: Equivariant Coarsening with Aggregated Attention for Molecular Conformer Generation](https://arxiv.org/abs/2306.14852), (Fanmeng Wang, [Slides](slides/pre_2023_12_21.pdf))
 
 * _Dec. 14, 2023_ [Transformer-VQ: Linear-Time Transformers via Vector Quantization](https://arxiv.org/abs/2309.16354), (Shen Yuan, [Slides](slides/pre_2023_12_07.pdf))
 
