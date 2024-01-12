@@ -1,7 +1,7 @@
 # Reading-List
 * _Jan. 18, 2024_ **Pending**, (Yuxin Wu)
 
-* _Jan. 11, 2024_ **Pending**, (Angxiao Yue)
+* _Jan. 11, 2024_ [ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving](https://arxiv.org/abs/2309.17452), (Angxiao Yue, [Slides](slides/pre_2024_1_11.pdf))
 
 * _Jan. 4, 2023_ **Pending**, (Fengjiao Gong)
 
