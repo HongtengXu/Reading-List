@@ -1,17 +1,17 @@
 # Reading-List
-* _Dec. 28, 2023_ **Pending**, (Yuxin Wu)
+* _Jan. 18, 2024_ **Pending**, (Yuxin Wu)
 
-* _Dec. 21, 2023_ **Pending**, (Angxiao Yue)
+* _Jan. 11, 2024_ [ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving](https://arxiv.org/abs/2309.17452), (Angxiao Yue, [Slides](slides/pre_2024_1_11.pdf))
 
-* _Dec. 14, 2023_ **Pending**, (Fengjiao Gong)
+* _Jan. 4, 2023_ **Pending**, (Fengjiao Gong)
 
-* _Dec. 7, 2023_ **Pending**, (Qingmei Wang)
+* _Dec. 28, 2023_ **Pending**, (Qingmei Wang)
   
-* _Nov. 30, 2023_ **Pending**, (Fanmeng Wang)
+* _Dec. 21, 2023_ [CoarsenConf: Equivariant Coarsening with Aggregated Attention for Molecular Conformer Generation](https://arxiv.org/abs/2306.14852), (Fanmeng Wang, [Slides](slides/pre_2023_12_21.pdf))
 
-* _Nov. 23, 2023_ **Pending**, (Shen Yuan)
+* _Dec. 14, 2023_ [Transformer-VQ: Linear-Time Transformers via Vector Quantization](https://arxiv.org/abs/2309.16354), (Shen Yuan, [Slides](slides/pre_2023_12_07.pdf))
 
-* _Nov. 16, 2023_ **Pending**, (Minjie Cheng)
+* _Nov. 30, 2023_ [GraphGPT: Graph Instruction Tuning for Large Language Models](https://arxiv.org/abs/2310.13023), (Minjie Cheng, [Slides](slides/pre_2023_11_30.pdf))
 
 * _Nov. 9, 2023_ [Clifford group equivariant neural networks](https://arxiv.org/pdf/2305.11141.pdf), (Angxiao Yue, [Slides](slides/pre_2023_11_09.pdf))
 
