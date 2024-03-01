@@ -1,11 +1,13 @@
 # Reading-List
-* _Apr. 11, 2024_ **Pending**, (Yuxin Wu)
+* _Apr. 22, 2024_ **Pending**, (Qingmei Wang)
 
-* _Apr. 4, 2024_ **Pending**, (Fanmeng Wang)
+* _Apr. 18, 2024_ **Pending**, (Yuxin Wu)
+
+* _Apr. 11, 2024_ **Pending**, (Fanmeng Wang)
   
 * _Mar. 28, 2024_ **Pending**, (Fengjiao Gong)
 
-* _Mar. 21, 2024_ **Pending**, (Qingmei Wang)
+* _Mar. 21, 2024_ **Pending**, (Ke Wan)
 
 * _Mar. 14, 2024_ **Pending**, (Angxiao Yue)
 
@@ -19,7 +21,7 @@
 
 * _Jan. 4, 2023_ **Pending**, (Fengjiao Gong)
 
-* _Dec. 28, 2023_ **Pending**, (Qingmei Wang)
+* _Dec. 28, 2023_ **Pending**, (Ke Wan)
   
 * _Dec. 21, 2023_ [CoarsenConf: Equivariant Coarsening with Aggregated Attention for Molecular Conformer Generation](https://arxiv.org/abs/2306.14852), (Fanmeng Wang, [Slides](slides/pre_2023_12_21.pdf))
 
@@ -34,7 +36,7 @@
   
 *  _Oct. 26, 2023_ [Self-Supervised Contrastive Pre-Training For Time Series via Time-Frequency Consistency](https://openreview.net/forum?id=OJ4mMfGKLN), (Yuxin Wu)
 
-* _Oct. 12, 2023_ [MOREL: MULTI-OMICS RELATIONAL LEARNING](https://arxiv.org/pdf/2203.08149.pdf), (Qingmei Wang)
+* _Oct. 12, 2023_ [MOREL: MULTI-OMICS RELATIONAL LEARNING](https://arxiv.org/pdf/2203.08149.pdf), (Qingmei Wang, [Slides](slides/pre_2023_10_19.pdf)))
 
 * _Oct. 5, 2023_ [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/pdf/2304.03442.pdf), (Shen Yuan, [Slides](slides/pre_2023_10_12.pdf))
 
