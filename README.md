@@ -11,7 +11,7 @@
 
 * _Mar. 14, 2024_ **Pending**, (Angxiao Yue)
 
-* _Mar. 7, 2024_ **Pending**, (Shen Yuan)
+* _Mar. 7, 2024_ [ResNet with one-neuron hidden layers is a Universal Approximator]([https://arxiv.org/abs/2309.16354](https://proceedings.neurips.cc/paper/2018/hash/03bfc1d4783966c69cc6aef8247e0103-Abstract.html)), (Shen Yuan)
 
 * _Feb. 29, 2024_ **Pending**, (Minjie Cheng)
     
