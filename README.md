@@ -13,7 +13,7 @@
 
 * _Mar. 7, 2024_ [ResNet with one-neuron hidden layers is a Universal Approximator](https://proceedings.neurips.cc/paper/2018/hash/03bfc1d4783966c69cc6aef8247e0103-Abstract.html), (Shen Yuan)
 
-* _Feb. 29, 2024_ [Pre-training sequence, structure, and surface features for comprehensive protein representation learning (https://openreview.net/forum?id=BEH4mGo7zP)], (Minjie Cheng, [Slides](slides/pre_2024_2_29.pdf))
+* _Feb. 29, 2024_ [Pre-training sequence, structure, and surface features for comprehensive protein representation learning](https://openreview.net/forum?id=BEH4mGo7zP), (Minjie Cheng, [Slides](slides/pre_2024_2_29.pdf))
     
 * _Jan. 18, 2024_ **Pending**, (Yuxin Wu)
 
