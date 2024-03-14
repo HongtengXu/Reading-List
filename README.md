@@ -9,7 +9,7 @@
 
 * _Mar. 21, 2024_ **Pending**, (Ke Wan)
 
-* _Mar. 14, 2024_ **Pending**, (Angxiao Yue)
+* _Mar. 14, 2024_ [Teaching Large Language Models to Reason with Reinforcement Learning](https://arxiv.org/abs/2403.04642), (Angxiao Yue, [slides](slides/pre_2024_3_14))
 
 * _Mar. 7, 2024_ [ResNet with one-neuron hidden layers is a Universal Approximator](https://proceedings.neurips.cc/paper/2018/hash/03bfc1d4783966c69cc6aef8247e0103-Abstract.html), (Shen Yuan, [Slides](slides/pre_2024_3_7.pdf))
 
