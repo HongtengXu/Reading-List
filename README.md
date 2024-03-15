@@ -15,7 +15,7 @@
 
 * _Feb. 29, 2024_ [Pre-training sequence, structure, and surface features for comprehensive protein representation learning](https://openreview.net/forum?id=BEH4mGo7zP), (Minjie Cheng, [Slides](slides/pre_2024_2_29.pdf))
     
-* _Jan. 18, 2024_ **Pending**, (Yuxin Wu)
+* _Jan. 18, 2024_ [LORA: LOW-RANK ADAPTATION OF LARGE LANGUAGE MODELS](https://arxiv.org/abs/2106.09685), (Yuxin Wu, [Slides](slides/pre_2024_01_18.pdf))
 
 * _Jan. 11, 2024_ [ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving](https://arxiv.org/abs/2309.17452), (Angxiao Yue, [Slides](slides/pre_2024_1_11.pdf))
 
@@ -34,7 +34,7 @@
 * _Nov. 2, 2023_ [Inexact-ADMM Based Federated Meta-Learning for Fast and Continual Edge Learning](https://dl.acm.org/doi/pdf/10.1145/3466772.3467038?casa_token=q3hPh85BVZ0AAAAA:BtcQ5mOsozvou6qSCfP3RbIEqG5jbCAcH6Kt1p7n2D4kdD8jR7o9tuteoXolWGr71UwlvOaJa1nyBcg), 
 (Fengjiao Gong, [Slides](slides/pre_2023_11_02.pdf))
   
-*  _Oct. 26, 2023_ [Self-Supervised Contrastive Pre-Training For Time Series via Time-Frequency Consistency](https://openreview.net/forum?id=OJ4mMfGKLN), (Yuxin Wu)
+*  _Oct. 26, 2023_ [Self-Supervised Contrastive Pre-Training For Time Series via Time-Frequency Consistency](https://openreview.net/forum?id=OJ4mMfGKLN), (Yuxin Wu, [Slides](slides/pre_2023_10_26.pdf))
 
 * _Oct. 12, 2023_ [MOREL: MULTI-OMICS RELATIONAL LEARNING](https://arxiv.org/pdf/2203.08149.pdf), (Qingmei Wang, [Slides](slides/pre_2023_10_19.pdf)))
 
@@ -44,13 +44,15 @@
 
 * _Sep. 15, 2023_ [Unsupervised Protein-Ligand Binding Energy Prediction via Neural Euler's Rotation Equation](https://arxiv.org/abs/2301.10814), (Minjie Cheng, [Slides](slides/pre_2023_09_14.pdf))
 
+* _Aug. 9, 2023_ [Structural Hawkes Processes for Learning Causal Structure from Discrete-Time Event Sequences](https://arxiv.org/pdf/2305.05986.pdf), (Yuxin Wu, [Slides](slides/pre_2023_08_09.pdf))
+
 * _Jul. 26, 2023_ [3d Infomax Improves GNNs for Molecular Property Prediction](https://proceedings.mlr.press/v162/stark22a.html), (Fanmeng Wang, [Slides](slides/pre_2023_7_26.pdf))
   
 * _Jul. 19, 2023_ [Efficiently Modeling Long Sequences with Structured State Spaces](https://arxiv.org/pdf/2111.00396.pdf), (Shen Yuan, [Slides](slides/pre_2023_7_19.pdf))
 
 * _Jun. 21, 2023_ [Improving Generative Flow Networks with Path Regularization](https://arxiv.org/abs/2209.15092), (Fanmeng Wang, [Slides](slides/pre_2023_6_21.pdf))
 
-* _Jun. 14, 2023_ [Mega: Moving Average Equipped Gated Attention](https://arxiv.org/pdf/2209.10655.pdf), (Yuxin Wu, [Slides](slides/pre_2023_6_14.pdf))
+* _Jun. 14, 2023_ [Mega: Moving Average Equipped Gated Attention](https://arxiv.org/pdf/2209.10655.pdf), (Yuxin Wu, [Slides](slides/pre_2023_06_14.pdf))
 
 * _Jun. 7, 2023_ [Training Neural Networks Without Gradients: A Scalable ADMM Approach](http://proceedings.mlr.press/v48/taylor16.pdf), (Minjie Cheng, [Slides](slides/pre_2023_6_7.pdf))
 
@@ -67,6 +69,8 @@
 * _Mar. 9, 2023_ [Sinkhorn EM: an expectation-maximization algorithm based on entropic optimal transport](https://arxiv.org/pdf/2006.16548.pdf), (Qingmei Wang)
 
 * _Mar. 2, 2023_ [Combining graph convolutional neural networks and label propagation](https://www-cs-faculty.stanford.edu/people/jure/pubs/gcnlpa-tois21.pdf), (Minjie Cheng, [Slides](slides/pre_2023_3_2.pdf))
+
+* _Feb. 23, 2023_ [Watch and Match Supercharging Imitation with Regularized Optimal Transport](https://arxiv.org/pdf/2206.15469.pdf), (Yuxin Wu, [Slides](slides/pre_2023_02_23.pdf))
 
 * _Feb. 16, 2023_ [Federated Graph Representation Learning using Self-Supervision](https://arxiv.org/pdf/2210.15120.pdf), (Fengjiao Gong, [Slides](slides/pre_2023_2_16.pdf))
 
@@ -85,6 +89,8 @@
 * _Nov. 10, 2022_ [Neural Set Function Extensions: Learning with Discrete Functions in High Dimensions](https://arxiv.org/pdf/2208.04055.pdf), (Minjie Cheng, [Slides](slides/pre_2022_11_10.pdf))
 
 * _Nov. 3, 2022_ [Annealed Training for Combinatorial Optimization on Graphs](https://arxiv.org/abs/2207.11542), (Shen Yuan, [Slides](slides/pre_2022_11_3.pdf))
+
+* _Oct. 27, 2022_ [Multi-Agent Adversarial Inverse Reinforcement Learning](https://arxiv.org/pdf/1907.13220.pdf), (Yuxin Wu, [Slides](slides/pre_2022_10_27.pdf))
 
 * _Oct. 13, 2022_ [On the Gradient Formula for learning Generative Models with Regularized Optimal Transport Costs](https://hal.archives-ouvertes.fr/hal-03740368/file/gradient_wgan_tmlr_preprint.pdf), (Yuzhou Nie, [Slides](slides/pre_2022_10_13.pdf))
 
