@@ -50,7 +50,7 @@
 
 * _Jun. 21, 2023_ [Improving Generative Flow Networks with Path Regularization](https://arxiv.org/abs/2209.15092), (Fanmeng Wang, [Slides](slides/pre_2023_6_21.pdf))
 
-* _Jun. 14, 2023_ [Mega: Moving Average Equipped Gated Attention](https://arxiv.org/pdf/2209.10655.pdf), (Yuxin Wu)
+* _Jun. 14, 2023_ [Mega: Moving Average Equipped Gated Attention](https://arxiv.org/pdf/2209.10655.pdf), (Yuxin Wu, [Slides](slides/pre_2023_6_14.pdf))
 
 * _Jun. 7, 2023_ [Training Neural Networks Without Gradients: A Scalable ADMM Approach](http://proceedings.mlr.press/v48/taylor16.pdf), (Minjie Cheng, [Slides](slides/pre_2023_6_7.pdf))
 
