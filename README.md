@@ -5,7 +5,7 @@
 
 * _Apr. 11, 2024_ **Pending**, (Fengjiao Gong)
   
-* _Mar. 28, 2024_ **Pending**, (Fanmeng Wang)
+* _Apr. 25, 2024_ [GTMGC: Using Graph Transformer to Predict Molecule’s Ground-State Conformation](https://openreview.net/forum?id=F7QnIKlC1N), (Fanmeng Wang, [Slides](slides/pre_2024_4_25.pdf))
 
 * _Mar. 21, 2024_ **Pending**, (Ke Wan)
 
