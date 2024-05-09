@@ -3,7 +3,7 @@
 
 * _May. 16, 2024_ **Pending**, (Yuxin Wu)
 
-* _May. 9, 2024_ **Pending**, (Fengjiao Gong)
+* _May. 9, 2024_  [Learning Latent Partial Matchings with Gumbel-IPF Networks](https://proceedings.mlr.press/v238/cohen-indelman24a.html), (Fengjiao Gong, [Slides](slides/pre_2024_05_09.pdf))
   
 * _Apr. 25, 2024_ [GTMGC: Using Graph Transformer to Predict Molecule’s Ground-State Conformation](https://openreview.net/forum?id=F7QnIKlC1N), (Fanmeng Wang, [Slides](slides/pre_2024_4_25.pdf))
 
