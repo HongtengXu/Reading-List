@@ -1,5 +1,4 @@
 # Reading-List
-* _May. 23, 2024_ **Pending**, (Qingmei Wang)
 
 * _May. 16, 2024_ **Pending**, (Yuxin Wu)
 
