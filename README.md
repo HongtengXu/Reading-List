@@ -6,8 +6,6 @@
   
 * _Apr. 25, 2024_ [GTMGC: Using Graph Transformer to Predict Molecule’s Ground-State Conformation](https://openreview.net/forum?id=F7QnIKlC1N), (Fanmeng Wang, [Slides](slides/pre_2024_4_25.pdf))
 
-* _Mar. 21, 2024_ **Pending**, (Ke Wan)
-
 * _Mar. 14, 2024_ [Teaching Large Language Models to Reason with Reinforcement Learning](https://arxiv.org/abs/2403.04642), (Angxiao Yue, [Slides](slides/pre_2024_3_14.pdf))
 
 * _Mar. 7, 2024_ [ResNet with one-neuron hidden layers is a Universal Approximator](https://proceedings.neurips.cc/paper/2018/hash/03bfc1d4783966c69cc6aef8247e0103-Abstract.html), (Shen Yuan, [Slides](slides/pre_2024_3_7.pdf))
@@ -17,10 +15,6 @@
 * _Jan. 18, 2024_ [LORA: LOW-RANK ADAPTATION OF LARGE LANGUAGE MODELS](https://arxiv.org/abs/2106.09685), (Yuxin Wu, [Slides](slides/pre_2024_01_18.pdf))
 
 * _Jan. 11, 2024_ [ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving](https://arxiv.org/abs/2309.17452), (Angxiao Yue, [Slides](slides/pre_2024_1_11.pdf))
-
-* _Jan. 4, 2023_ **Pending**, (Fengjiao Gong)
-
-* _Dec. 28, 2023_ **Pending**, (Ke Wan)
   
 * _Dec. 21, 2023_ [CoarsenConf: Equivariant Coarsening with Aggregated Attention for Molecular Conformer Generation](https://arxiv.org/abs/2306.14852), (Fanmeng Wang, [Slides](slides/pre_2023_12_21.pdf))
 
@@ -35,7 +29,7 @@
   
 *  _Oct. 26, 2023_ [Self-Supervised Contrastive Pre-Training For Time Series via Time-Frequency Consistency](https://openreview.net/forum?id=OJ4mMfGKLN), (Yuxin Wu, [Slides](slides/pre_2023_10_26.pdf))
 
-* _Oct. 12, 2023_ [MOREL: MULTI-OMICS RELATIONAL LEARNING](https://arxiv.org/pdf/2203.08149.pdf), (Qingmei Wang, [Slides](slides/pre_2023_10_19.pdf)))
+* _Oct. 12, 2023_ [MOREL: MULTI-OMICS RELATIONAL LEARNING](https://arxiv.org/pdf/2203.08149.pdf), (Qingmei Wang, [Slides](slides/pre_2023_10_19.pdf))
 
 * _Oct. 5, 2023_ [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/pdf/2304.03442.pdf), (Shen Yuan, [Slides](slides/pre_2023_10_12.pdf))
 
