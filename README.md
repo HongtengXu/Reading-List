@@ -6,6 +6,8 @@
   
 * _Apr. 25, 2024_ [GTMGC: Using Graph Transformer to Predict Molecule’s Ground-State Conformation](https://openreview.net/forum?id=F7QnIKlC1N), (Fanmeng Wang, [Slides](slides/pre_2024_4_25.pdf))
 
+*_Mar. 21, 20243_ [ROLAND: Graph Learning Framework for Dynamic Graphs](https://arxiv.org/abs/2208.07239), (Ke Wan, [Slides](slides/pre_2024_3_21.pdf))
+
 * _Mar. 14, 2024_ [Teaching Large Language Models to Reason with Reinforcement Learning](https://arxiv.org/abs/2403.04642), (Angxiao Yue, [Slides](slides/pre_2024_3_14.pdf))
 
 * _Mar. 7, 2024_ [ResNet with one-neuron hidden layers is a Universal Approximator](https://proceedings.neurips.cc/paper/2018/hash/03bfc1d4783966c69cc6aef8247e0103-Abstract.html), (Shen Yuan, [Slides](slides/pre_2024_3_7.pdf))
@@ -15,6 +17,8 @@
 * _Jan. 18, 2024_ [LORA: LOW-RANK ADAPTATION OF LARGE LANGUAGE MODELS](https://arxiv.org/abs/2106.09685), (Yuxin Wu, [Slides](slides/pre_2024_01_18.pdf))
 
 * _Jan. 11, 2024_ [ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving](https://arxiv.org/abs/2309.17452), (Angxiao Yue, [Slides](slides/pre_2024_1_11.pdf))
+  
+* _Dec. 28, 2023_ [Graph-MLP: Node Classification without Message Passing in Graph](https://arxiv.org/abs/2106.04051), (Ke Wan, [Slides](slides/pre_2023_12_28.pdf))
   
 * _Dec. 21, 2023_ [CoarsenConf: Equivariant Coarsening with Aggregated Attention for Molecular Conformer Generation](https://arxiv.org/abs/2306.14852), (Fanmeng Wang, [Slides](slides/pre_2023_12_21.pdf))
 
@@ -33,7 +37,7 @@
 
 * _Oct. 5, 2023_ [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/pdf/2304.03442.pdf), (Shen Yuan, [Slides](slides/pre_2023_10_12.pdf))
 
-* _Sep. 22, 2023_ [Conditional Generative Modeling is All You Need for Marked Temporal Point Processes](https://arxiv.org/pdf/2305.12569.pdf), (Ke Wan)
+* _Sep. 22, 2023_ [Conditional Generative Modeling is All You Need for Marked Temporal Point Processes](https://arxiv.org/pdf/2305.12569.pdf), (Ke Wan, [Slides](slides/pre_2023_9_22.pdf))
 
 * _Sep. 15, 2023_ [Unsupervised Protein-Ligand Binding Energy Prediction via Neural Euler's Rotation Equation](https://arxiv.org/abs/2301.10814), (Minjie Cheng, [Slides](slides/pre_2023_09_14.pdf))
 
