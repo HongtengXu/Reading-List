@@ -19,7 +19,7 @@
   
 * _Apr. 25, 2024_ [GTMGC: Using Graph Transformer to Predict Molecule’s Ground-State Conformation](https://openreview.net/forum?id=F7QnIKlC1N), (Fanmeng Wang, [Slides](slides/pre_2024_4_25.pdf))
 
-* _Mar. 21, 20243_ [ROLAND: Graph Learning Framework for Dynamic Graphs](https://arxiv.org/abs/2208.07239), (Ke Wan, [Slides](slides/pre_2024_3_21.pdf))
+* _Mar. 21, 2024_ [ROLAND: Graph Learning Framework for Dynamic Graphs](https://arxiv.org/abs/2208.07239), (Ke Wan, [Slides](slides/pre_2024_3_21.pdf))
 
 * _Mar. 14, 2024_ [Teaching Large Language Models to Reason with Reinforcement Learning](https://arxiv.org/abs/2403.04642), (Angxiao Yue, [Slides](slides/pre_2024_3_14.pdf))
 
