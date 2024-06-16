@@ -11,7 +11,7 @@
 
 * _Jun. 20, 2024_ **Pending**, (Shen Yuan)
 
-* _Jun. 13, 2024_ [Learning Hierarchical Protein Representations via Complete 3D Graph Networks](https://openreview.net/forum?id=9X-hgLDLYkQ), (Minjie Cheng[Slides](slides/pre_2024_06_13.pdf))
+* _Jun. 13, 2024_ [Learning Hierarchical Protein Representations via Complete 3D Graph Networks](https://openreview.net/forum?id=9X-hgLDLYkQ), (Minjie Cheng, [Slides](slides/pre_2024_06_13.pdf))
 
 * _May. 16, 2024_ **Pending**, (Yuxin Wu)
 
