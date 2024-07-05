@@ -1,15 +1,17 @@
 # Reading-List
-* _Jul. 25, 2024_ **Pending**, (Yuxin Wu)
+* _Aug. 15, 2024_ **Pending**, (Yuxin Wu)
 
-* _Jul. 18, 2024_ **Pending**, (Angxiao Yue)
+* _Aug. 8, 2024_ **Pending**, (Angxiao Yue)
 
-* _Jul. 11, 2024_ **Pending**, (Fengjiao Gong)
+* _Aug. 1, 2024_ **Pending**, (Fengjiao Gong)
 
-* _Jul. 4, 2024_ **Pending**, (Qingmei Wang)
+* _Jul. 25, 2024_ **Pending**, (Qingmei Wang)
 
-* _Jun. 27, 2024_ **Pending**, (Fanmeng Wang)
+* _Jul. 18, 2024_ **Pending**, (Fanmeng Wang)
 
-* _Jun. 20, 2024_ **Pending**, (Shen Yuan)
+* _Jul. 11, 2024_ **Pending**, (Shukai Gong)
+
+* _Jul. 4, 2024_ **Pending**, (Shen Yuan)
 
 * _Jun. 13, 2024_ [Learning Hierarchical Protein Representations via Complete 3D Graph Networks](https://openreview.net/forum?id=9X-hgLDLYkQ), (Minjie Cheng, [Slides](slides/pre_2024_06_13.pdf))
 
