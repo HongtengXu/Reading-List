@@ -1,13 +1,13 @@
 # Reading-List
 * _Aug. 15, 2024_ **Pending**, (Yuxin Wu)
 
-* _Aug. 8, 2024_ **Pending**, (Angxiao Yue)
+* _Aug. 8, 2024_ **Pending**, (Fanmeng Wang)
 
 * _Aug. 1, 2024_ **Pending**, (Fengjiao Gong)
 
 * _Jul. 25, 2024_ **Pending**, (Qingmei Wang)
 
-* _Jul. 18, 2024_ **Pending**, (Fanmeng Wang)
+* _Jul. 18, 2024_ **Pending**, (Angxiao Yue)
 
 * _Jul. 11, 2024_ **Pending**, (Shukai Gong)
 
