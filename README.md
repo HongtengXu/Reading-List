@@ -1,10 +1,43 @@
 # Reading-List
+* _Dec. 10, 2024_ **Pending**, (Yuxin Wu)
+
+* _Dec. 3, 2024_ **Pending**, (Angxiao Yue)
+  
+* _Nov. 26, 2024_ **Pending**, (Fengjiao Gong)
+
+* _Nov. 19, 2024_ **Pending**, (Qingmei Wang)
+
+* _Nov. 12, 2024_ **Pending**, (Fanmeng Wang)
+
+* _Nov. 5, 2024_ **Pending**, (Shen Yuan)
+  
+* _Oct. 29, 2024_ **Pending**, (Minjie Cheng)
+  
+* _Oct. 22, 2024_ **Pending**, (Haotian Liu)
+  
+* _Oct. 15, 2024_ **Pending**, (Yuxin Wu)
+
+* _Oct. 8, 2024_ **Pending**, (Fanmeng Wang)
+
+* _Oct. 1, 2024_ **Pending**, (Fengjiao Gong)
+
+* _Sep. 24, 2024_ **Pending**, (Qingmei Wang)
+
+* _Jul. 18, 2024_ **Pending**, (Angxiao Yue)
+
+* _Jul. 11, 2024_ **Pending**, (Shukai Gong)
+
+* _Jul. 4, 2024_ **Pending**, (Shen Yuan)
+
+* _Jun. 13, 2024_ [Learning Hierarchical Protein Representations via Complete 3D Graph Networks](https://openreview.net/forum?id=9X-hgLDLYkQ), (Minjie Cheng, [Slides](slides/pre_2024_06_13.pdf))
 
 * _May. 16, 2024_ **Pending**, (Yuxin Wu)
 
 * _May. 9, 2024_  [Learning Latent Partial Matchings with Gumbel-IPF Networks](https://proceedings.mlr.press/v238/cohen-indelman24a.html), (Fengjiao Gong, [Slides](slides/pre_2024_05_09.pdf))
   
 * _Apr. 25, 2024_ [GTMGC: Using Graph Transformer to Predict Molecule’s Ground-State Conformation](https://openreview.net/forum?id=F7QnIKlC1N), (Fanmeng Wang, [Slides](slides/pre_2024_4_25.pdf))
+
+* _Mar. 21, 2024_ [ROLAND: Graph Learning Framework for Dynamic Graphs](https://arxiv.org/abs/2208.07239), (Ke Wan, [Slides](slides/pre_2024_3_21.pdf))
 
 * _Mar. 14, 2024_ [Teaching Large Language Models to Reason with Reinforcement Learning](https://arxiv.org/abs/2403.04642), (Angxiao Yue, [Slides](slides/pre_2024_3_14.pdf))
 
@@ -15,6 +48,8 @@
 * _Jan. 18, 2024_ [LORA: LOW-RANK ADAPTATION OF LARGE LANGUAGE MODELS](https://arxiv.org/abs/2106.09685), (Yuxin Wu, [Slides](slides/pre_2024_01_18.pdf))
 
 * _Jan. 11, 2024_ [ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving](https://arxiv.org/abs/2309.17452), (Angxiao Yue, [Slides](slides/pre_2024_1_11.pdf))
+  
+* _Dec. 28, 2023_ [Graph-MLP: Node Classification without Message Passing in Graph](https://arxiv.org/abs/2106.04051), (Ke Wan, [Slides](slides/pre_2023_12_28.pdf))
   
 * _Dec. 21, 2023_ [CoarsenConf: Equivariant Coarsening with Aggregated Attention for Molecular Conformer Generation](https://arxiv.org/abs/2306.14852), (Fanmeng Wang, [Slides](slides/pre_2023_12_21.pdf))
 
@@ -33,7 +68,7 @@
 
 * _Oct. 5, 2023_ [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/pdf/2304.03442.pdf), (Shen Yuan, [Slides](slides/pre_2023_10_12.pdf))
 
-* _Sep. 22, 2023_ [Conditional Generative Modeling is All You Need for Marked Temporal Point Processes](https://arxiv.org/pdf/2305.12569.pdf), (Ke Wan)
+* _Sep. 22, 2023_ [Conditional Generative Modeling is All You Need for Marked Temporal Point Processes](https://arxiv.org/pdf/2305.12569.pdf), (Ke Wan, [Slides](slides/pre_2023_9_22.pdf))
 
 * _Sep. 15, 2023_ [Unsupervised Protein-Ligand Binding Energy Prediction via Neural Euler's Rotation Equation](https://arxiv.org/abs/2301.10814), (Minjie Cheng, [Slides](slides/pre_2023_09_14.pdf))
 
