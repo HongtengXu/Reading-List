@@ -23,7 +23,7 @@
 
 * _Sep. 24, 2024_ **Pending**, (Qingmei Wang)
 
-* _Jul. 18, 2024_ **Pending**, (Angxiao Yue)
+* _Jul. 18, 2024_ **Pending**, [Interpretable Rotation-Equivariant Quaternion Neural Networks for 3D Point Cloud Processing]，（Angxiao Yue, [Slides](slides/pre_2024_07_18.pdf)）
 
 * _Jul. 11, 2024_ **Pending**, (Shukai Gong)
 
