@@ -21,7 +21,7 @@
 
 * _Oct. 1, 2024_ **Pending**, (Fengjiao Gong)
 
-* _Sep. 24, 2024_ [SE(3) diffusion model with application to protein backbone generation](https://arxiv.org/abs/2302.02277), (Angxiao Yue)
+* _Sep. 24, 2024_ [SE(3) diffusion model with application to protein backbone generation](https://arxiv.org/abs/2302.02277), (Angxiao Yue, [Slides](slides/pre_2024_09_24.pdf))
 
 * _Jul. 18, 2024_ [Interpretable Rotation-Equivariant Quaternion Neural Networks for 3D Point Cloud Processing](https://ieeexplore.ieee.org/document/10384563)，（Angxiao Yue, [Slides](slides/pre_2024_07_18.pdf)）
 
