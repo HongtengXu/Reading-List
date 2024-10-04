@@ -1,23 +1,23 @@
 # Reading-List
-* _Dec. 10, 2024_ **Pending**, (Yuxin Wu)
+* _Dec. 17, 2024_ **Pending**, (Yuxin Wu)
 
-* _Dec. 3, 2024_ **Pending**, (Qingmei Wang)
+* _Dec. 10, 2024_ **Pending**, (Qingmei Wang)
   
-* _Nov. 26, 2024_ **Pending**, (Fengjiao Gong)
+* _Dec. 3, 2024_ **Pending**, (Fengjiao Gong)
 
-* _Nov. 19, 2024_ **Pending**, (Qingmei Wang)
+* _Nov. 26, 2024_ **Pending**, (Qingmei Wang)
 
-* _Nov. 12, 2024_ **Pending**, (Fanmeng Wang)
+* _Nov. 19, 2024_ **Pending**, (Fanmeng Wang)
 
-* _Nov. 5, 2024_ **Pending**, (Shen Yuan)
+* _Nov. 12, 2024_ **Pending**, (Shen Yuan)
   
-* _Oct. 29, 2024_ **Pending**, (Minjie Cheng)
+* _Nov. 5, 2024_ **Pending**, (Minjie Cheng)
   
-* _Oct. 22, 2024_ **Pending**, (Haotian Liu)
+* _Oct. 29, 2024_ **Pending**, (Haotian Liu)
   
-* _Oct. 15, 2024_ **Pending**, (Yuxin Wu)
+* _Oct. 22, 2024_ **Pending**, (Yuxin Wu)
 
-* _Oct. 8, 2024_ **Pending**, (Fanmeng Wang)
+* _Oct. 15, 2024_ **Pending**, (Fanmeng Wang)
 
 * _Oct. 8, 2024_ **Pending**,  [Reconstructing growth and dynamic trajectories from single-cell transcriptomics data](https://www.nature.com/articles/s42256-023-00763-w), (Fengjiao Gong, [Slides](slides/pre_2024_10_08.pdf))
 
