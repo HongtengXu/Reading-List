@@ -19,7 +19,7 @@
 
 * _Oct. 15, 2024_ **Pending**, (Fanmeng Wang)
 
-* _Oct. 8, 2024_ **Pending**,  [Reconstructing growth and dynamic trajectories from single-cell transcriptomics data](https://www.nature.com/articles/s42256-023-00763-w), (Fengjiao Gong, [Slides](slides/pre_2024_10_08.pdf))
+* _Oct. 8, 2024_ [Reconstructing growth and dynamic trajectories from single-cell transcriptomics data](https://www.nature.com/articles/s42256-023-00763-w), (Fengjiao Gong, [Slides](slides/pre_2024_10_08.pdf))
 
 * _Sep. 24, 2024_ [SE(3) diffusion model with application to protein backbone generation](https://arxiv.org/abs/2302.02277), (Angxiao Yue, [Slides](slides/pre_2024_09_24.pdf))
 
