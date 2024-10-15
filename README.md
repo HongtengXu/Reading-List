@@ -17,7 +17,7 @@
   
 * _Oct. 22, 2024_ **Pending**, (Yuxin Wu)
 
-* _Oct. 15, 2024_ **Pending**, (Fanmeng Wang)
+* _Oct. 15, 2024_ [Generalized Protein Pocket Generation with Prior-Informed Flow Matching](https://arxiv.org/abs/2409.19520), (Fanmeng Wang, [Slides](slides/pre_2024_10_15.pdf))
 
 * _Oct. 8, 2024_ [Reconstructing growth and dynamic trajectories from single-cell transcriptomics data](https://www.nature.com/articles/s42256-023-00763-w), (Fengjiao Gong, [Slides](slides/pre_2024_10_08.pdf))
 
