@@ -11,7 +11,7 @@
 
 * _Nov. 12, 2024_ **Pending**, (Shen Yuan)
   
-* _Nov. 5, 2024_ **Pending**, (Minjie Cheng)
+* _Nov. 5, 2024_ **Pending**, (Minji e Cheng)
   
 * _Oct. 29, 2024_ **Pending**, (Haotian Liu)
   
