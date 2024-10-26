@@ -11,9 +11,9 @@
 
 * _Nov. 12, 2024_ **Pending**, (Shen Yuan)
   
-* _Nov. 5, 2024_ **Pending**, (Minji e Cheng)
+* _Nov. 5, 2024_ **Pending**, (Minjie Cheng)
   
-* _Oct. 29, 2024_ **Pending**, (Haotian Liu)
+* _Oct. 29, 2024_ [HydraLoRA: An Asymmetric LoRA Architecture for Efficient Fine-Tuning](https://arxiv.org/abs/2404.19245), (Haotian Liu)
   
 * _Oct. 22, 2024_ **Pending**, (Yuxin Wu)
 
