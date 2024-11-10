@@ -1,19 +1,19 @@
 # Reading-List
-* _Dec. 17, 2024_ **Pending**, (Yuxin Wu)
+* _Dec. 31, 2024_ **Pending**, (Yuxin Wu)
+
+* _Dec. 24, 2024_ **Pending**, (Qingmei Wang)
+  
+* _Dec. 17, 2024_ **Pending**, (Fengjiao Gong)
 
 * _Dec. 10, 2024_ **Pending**, (Qingmei Wang)
-  
-* _Dec. 3, 2024_ **Pending**, (Fengjiao Gong)
 
-* _Nov. 26, 2024_ **Pending**, (Qingmei Wang)
+* _Dec. 3, 2024_ **Pending**, (Fanmeng Wang)
 
-* _Nov. 19, 2024_ **Pending**, (Fanmeng Wang)
-
-* _Nov. 12, 2024_ **Pending**, (Shen Yuan)
+* _Nov. 26, 2024_ **Pending**, (Shen Yuan)
   
-* _Nov. 5, 2024_ **Pending**, (Minjie Cheng)
+* _Nov. 19, 2024_ **Pending**, (Minjie Cheng)
   
-* _Oct. 29, 2024_ [HydraLoRA: An Asymmetric LoRA Architecture for Efficient Fine-Tuning](https://arxiv.org/abs/2404.19245), (Haotian Liu)
+* _Nov. 12, 2024_ [HydraLoRA: An Asymmetric LoRA Architecture for Efficient Fine-Tuning](https://arxiv.org/abs/2404.19245), (Haotian Liu)
   
 * _Oct. 22, 2024_ **Pending**, (Yuxin Wu)
 
