@@ -1,7 +1,7 @@
 # Reading-List
-* _Jan. 14, 2024_ **Pending**, (Fanmeng Wang)
+* _Jan. 14, 2025_ **Pending**, (Fanmeng Wang)
   
-* _Jan. 7, 2024_ **Pending**, (Yuxin Wu)
+* _Jan. 7, 2025_ **Pending**, (Yuxin Wu)
 
 * _Dec. 31, 2024_ **Pending**, (Qingmei Wang)
   
