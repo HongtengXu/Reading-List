@@ -11,7 +11,7 @@
 
 * _Dec. 10, 2024_ **Pending**, (Haotian Liu)
 
-* _Dec. 3, 2024_ **Pending**, (Shen Yuan)
+* _Dec. 3, 2024_ [Mixture of Parrots: Experts improve memorization more than reasoning](https://arxiv.org/abs/2410.19034), (Shen Yuan, [Slides](slides/pre_2024_12_03.pdf))
   
 * _Nov. 19, 2024_ **Pending**, (Minjie Cheng)
   
