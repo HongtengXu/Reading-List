@@ -7,7 +7,7 @@
   
 * _Dec. 24, 2024_ **Pending**, (Fengjiao Gong)
 
-* _Dec. 17, 2024_ **Pending**, (Qingmei Wang)
+* _Dec. 17, 2024_ **Pending**, (Yitian Wang)
 
 * _Dec. 10, 2024_ **Pending**, (Haotian Liu)
 
