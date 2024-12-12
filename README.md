@@ -9,7 +9,7 @@
 
 * _Dec. 17, 2024_ **Pending**, (Yitian Wang)
 
-* _Dec. 10, 2024_ **Pending**, (Haotian Liu)
+* _Dec. 10, 2024_ [GeoX: Geometric Problem Solving Through Unified Formalized Vision-Language Pre-training](https://openreview.net/pdf?id=6RiBl5sCDF), (Haotian Liu, [Slides](slides/pre_2024_12_10.pdf))
 
 * _Dec. 3, 2024_ [Mixture of Parrots: Experts improve memorization more than reasoning](https://arxiv.org/abs/2410.19034), (Shen Yuan, [Slides](slides/pre_2024_12_03.pdf))
 
@@ -17,7 +17,7 @@
   
 * _Nov. 19, 2024_ [Your contrastive learning problem is secretly a distribution alignment problem](https://openreview.net/pdf?id=iNUKoLU8xb), (Minjie Cheng, [Slides](slides/pre_2024_11_19.pdf))
   
-* _Nov. 12, 2024_ [HydraLoRA: An Asymmetric LoRA Architecture for Efficient Fine-Tuning](https://arxiv.org/abs/2404.19245), (Haotian Liu)
+* _Nov. 12, 2024_ [HydraLoRA: An Asymmetric LoRA Architecture for Efficient Fine-Tuning](https://arxiv.org/abs/2404.19245), (Haotian Liu, [Slides](slides/pre_2024_11_12.pdf))
   
 * _Oct. 22, 2024_ **Pending**, (Yuxin Wu)
 
