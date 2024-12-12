@@ -13,7 +13,7 @@
 
 * _Dec. 3, 2024_ [Mixture of Parrots: Experts improve memorization more than reasoning](https://arxiv.org/abs/2410.19034), (Shen Yuan, [Slides](slides/pre_2024_12_03.pdf))
   
-* _Nov. 19, 2024_ **Pending**, (Minjie Cheng)
+* _Nov. 19, 2024_ [Your contrastive learning problem is secretly a distribution alignment problem](https://openreview.net/pdf?id=iNUKoLU8xb), (Minjie Cheng, [Slides](slides/pre_2024_11_19.pdf))
   
 * _Nov. 12, 2024_ [HydraLoRA: An Asymmetric LoRA Architecture for Efficient Fine-Tuning](https://arxiv.org/abs/2404.19245), (Haotian Liu)
   
