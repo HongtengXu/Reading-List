@@ -12,6 +12,8 @@
 * _Dec. 10, 2024_ **Pending**, (Haotian Liu)
 
 * _Dec. 3, 2024_ [Mixture of Parrots: Experts improve memorization more than reasoning](https://arxiv.org/abs/2410.19034), (Shen Yuan, [Slides](slides/pre_2024_12_03.pdf))
+
+* _Nov. 26, 2024_ [Full-Atom Peptide Design based on Multi-modal Flow Matching](https://arxiv.org/abs/2406.00735), (Minjie Cheng, [Slides](slides/pre_2024_11_26.pdf))
   
 * _Nov. 19, 2024_ [Your contrastive learning problem is secretly a distribution alignment problem](https://openreview.net/pdf?id=iNUKoLU8xb), (Minjie Cheng, [Slides](slides/pre_2024_11_19.pdf))
   
