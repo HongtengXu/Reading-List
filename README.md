@@ -31,7 +31,7 @@
 
 * _Jul. 11, 2024_ **Pending**, (Shukai Gong)
 
-* _Jul. 4, 2024_ **Pending**, (Shen Yuan)
+* _Jul. 4, 2024_ [QuanTA: Efficient High-Rank Fine-Tuning of LLMs with Quantum-Informed Tensor Adaptation](https://arxiv.org/pdf/2406.00132), (Shen Yuan, [Slides](slides/pre_2024_07_04.pdf))
 
 * _Jun. 13, 2024_ [Learning Hierarchical Protein Representations via Complete 3D Graph Networks](https://openreview.net/forum?id=9X-hgLDLYkQ), (Minjie Cheng, [Slides](slides/pre_2024_06_13.pdf))
 
