@@ -1,29 +1,31 @@
 # Reading-List
-* _Dec. 10, 2024_ **Pending**, (Yuxin Wu)
-
-* _Dec. 3, 2024_ **Pending**, (Angxiao Yue)
+* _Jan. 14, 2025_ **Pending**, (Fanmeng Wang)
   
-* _Nov. 26, 2024_ **Pending**, (Fengjiao Gong)
+* _Jan. 7, 2025_ **Pending**, (Yuxin Wu)
 
-* _Nov. 19, 2024_ **Pending**, (Qingmei Wang)
-
-* _Nov. 12, 2024_ **Pending**, (Fanmeng Wang)
-
-* _Nov. 5, 2024_ **Pending**, (Shen Yuan)
+* _Dec. 31, 2024_ **Pending**, (Qingmei Wang)
   
-* _Oct. 29, 2024_ **Pending**, (Minjie Cheng)
+* _Dec. 24, 2024_ **Pending**, (Fengjiao Gong)
+
+* _Dec. 17, 2024_ **Pending**, (Yitian Wang)
+
+* _Dec. 10, 2024_ **Pending**, (Haotian Liu)
+
+* _Dec. 3, 2024_ [Mixture of Parrots: Experts improve memorization more than reasoning](https://arxiv.org/abs/2410.19034), (Shen Yuan, [Slides](slides/pre_2024_12_03.pdf))
   
-* _Oct. 22, 2024_ **Pending**, (Haotian Liu)
+* _Nov. 19, 2024_ **Pending**, (Minjie Cheng)
   
-* _Oct. 15, 2024_ **Pending**, (Yuxin Wu)
+* _Nov. 12, 2024_ [HydraLoRA: An Asymmetric LoRA Architecture for Efficient Fine-Tuning](https://arxiv.org/abs/2404.19245), (Haotian Liu)
+  
+* _Oct. 22, 2024_ **Pending**, (Yuxin Wu)
 
-* _Oct. 8, 2024_ **Pending**, (Fanmeng Wang)
+* _Oct. 15, 2024_ [Generalized Protein Pocket Generation with Prior-Informed Flow Matching](https://arxiv.org/abs/2409.19520), (Fanmeng Wang, [Slides](slides/pre_2024_10_15.pdf))
 
-* _Oct. 1, 2024_ **Pending**, (Fengjiao Gong)
+* _Oct. 8, 2024_ [Reconstructing growth and dynamic trajectories from single-cell transcriptomics data](https://www.nature.com/articles/s42256-023-00763-w), (Fengjiao Gong, [Slides](slides/pre_2024_10_08.pdf))
 
-* _Sep. 24, 2024_ **Pending**, (Qingmei Wang)
+* _Sep. 24, 2024_ [SE(3) diffusion model with application to protein backbone generation](https://arxiv.org/abs/2302.02277), (Angxiao Yue, [Slides](slides/pre_2024_09_24.pdf))
 
-* _Jul. 18, 2024_ **Pending**, (Angxiao Yue)
+* _Jul. 18, 2024_ [Interpretable Rotation-Equivariant Quaternion Neural Networks for 3D Point Cloud Processing](https://ieeexplore.ieee.org/document/10384563)，（Angxiao Yue, [Slides](slides/pre_2024_07_18.pdf)）
 
 * _Jul. 11, 2024_ **Pending**, (Shukai Gong)
 
