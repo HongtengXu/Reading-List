@@ -35,6 +35,8 @@
 
 * _Jun. 13, 2024_ [Learning Hierarchical Protein Representations via Complete 3D Graph Networks](https://openreview.net/forum?id=9X-hgLDLYkQ), (Minjie Cheng, [Slides](slides/pre_2024_06_13.pdf))
 
+* _Jun. 06, 2024_ [Wasserstein Wormhole: Scalable Optimal Transport Distance with Transformers](https://arxiv.org/pdf/2404.09411), (Like Ma, [Slides](slides/pre_2024_06_06.pdf))
+
 * _May. 16, 2024_ **Pending**, (Yuxin Wu)
 
 * _May. 9, 2024_  [Learning Latent Partial Matchings with Gumbel-IPF Networks](https://proceedings.mlr.press/v238/cohen-indelman24a.html), (Fengjiao Gong, [Slides](slides/pre_2024_05_09.pdf))
@@ -48,7 +50,7 @@
 * _Mar. 7, 2024_ [ResNet with one-neuron hidden layers is a Universal Approximator](https://proceedings.neurips.cc/paper/2018/hash/03bfc1d4783966c69cc6aef8247e0103-Abstract.html), (Shen Yuan, [Slides](slides/pre_2024_3_7.pdf))
 
 * _Feb. 29, 2024_ [Pre-training sequence, structure, and surface features for comprehensive protein representation learning](https://openreview.net/forum?id=BEH4mGo7zP), (Minjie Cheng, [Slides](slides/pre_2024_2_29.pdf))
-    
+  
 * _Jan. 18, 2024_ [LORA: LOW-RANK ADAPTATION OF LARGE LANGUAGE MODELS](https://arxiv.org/abs/2106.09685), (Yuxin Wu, [Slides](slides/pre_2024_01_18.pdf))
 
 * _Jan. 11, 2024_ [ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving](https://arxiv.org/abs/2309.17452), (Angxiao Yue, [Slides](slides/pre_2024_1_11.pdf))
