@@ -5,17 +5,19 @@
 
 * _Dec. 31, 2024_ **Pending**, (Qingmei Wang)
   
-* _Dec. 24, 2024_ **Pending**, (Fanmeng Wang)
+* _Dec. 24, 2024_ **Pending**, (Dunyao Xue, Junyi Lin)
 
 * _Dec. 17, 2024_ **Pending**, (Yitian Wang)
 
-* _Dec. 10, 2024_ **Pending**, (Haotian Liu)
+* _Dec. 10, 2024_ [GeoX: Geometric Problem Solving Through Unified Formalized Vision-Language Pre-training](https://openreview.net/pdf?id=6RiBl5sCDF), (Haotian Liu, [Slides](slides/pre_2024_12_10.pdf))
 
 * _Dec. 3, 2024_ [Mixture of Parrots: Experts improve memorization more than reasoning](https://arxiv.org/abs/2410.19034), (Shen Yuan, [Slides](slides/pre_2024_12_03.pdf))
+
+* _Nov. 26, 2024_ [Full-Atom Peptide Design based on Multi-modal Flow Matching](https://arxiv.org/abs/2406.00735), (Minjie Cheng, [Slides](slides/pre_2024_11_26.pdf))
   
-* _Nov. 19, 2024_ **Pending**, (Minjie Cheng)
+* _Nov. 19, 2024_ [Your contrastive learning problem is secretly a distribution alignment problem](https://openreview.net/pdf?id=iNUKoLU8xb), (Minjie Cheng, [Slides](slides/pre_2024_11_19.pdf))
   
-* _Nov. 12, 2024_ [HydraLoRA: An Asymmetric LoRA Architecture for Efficient Fine-Tuning](https://arxiv.org/abs/2404.19245), (Haotian Liu)
+* _Nov. 12, 2024_ [HydraLoRA: An Asymmetric LoRA Architecture for Efficient Fine-Tuning](https://arxiv.org/abs/2404.19245), (Haotian Liu, [Slides](slides/pre_2024_11_12.pdf))
   
 * _Oct. 22, 2024_ **Pending**, (Yuxin Wu)
 
@@ -27,11 +29,13 @@
 
 * _Jul. 18, 2024_ [Interpretable Rotation-Equivariant Quaternion Neural Networks for 3D Point Cloud Processing](https://ieeexplore.ieee.org/document/10384563)，（Angxiao Yue, [Slides](slides/pre_2024_07_18.pdf)）
 
-* _Jul. 11, 2024_ **Pending**, (Shukai Gong)
+* _Jul. 11, 2024_ [TextGrad: Automatic “Differentiation” via Text](https://arxiv.org/abs/2406.07496), (Shukai Gong, [Slides](slides/pre_2024_07_11.pdf))
 
-* _Jul. 4, 2024_ **Pending**, (Shen Yuan)
+* _Jul. 4, 2024_ [QuanTA: Efficient High-Rank Fine-Tuning of LLMs with Quantum-Informed Tensor Adaptation](https://arxiv.org/pdf/2406.00132), (Shen Yuan, [Slides](slides/pre_2024_07_04.pdf))
 
 * _Jun. 13, 2024_ [Learning Hierarchical Protein Representations via Complete 3D Graph Networks](https://openreview.net/forum?id=9X-hgLDLYkQ), (Minjie Cheng, [Slides](slides/pre_2024_06_13.pdf))
+
+* _Jun. 06, 2024_ [Wasserstein Wormhole: Scalable Optimal Transport Distance with Transformers](https://arxiv.org/pdf/2404.09411), (Like Ma, [Slides](slides/pre_2024_06_06.pdf))
 
 * _May. 16, 2024_ **Pending**, (Yuxin Wu)
 
@@ -46,7 +50,7 @@
 * _Mar. 7, 2024_ [ResNet with one-neuron hidden layers is a Universal Approximator](https://proceedings.neurips.cc/paper/2018/hash/03bfc1d4783966c69cc6aef8247e0103-Abstract.html), (Shen Yuan, [Slides](slides/pre_2024_3_7.pdf))
 
 * _Feb. 29, 2024_ [Pre-training sequence, structure, and surface features for comprehensive protein representation learning](https://openreview.net/forum?id=BEH4mGo7zP), (Minjie Cheng, [Slides](slides/pre_2024_2_29.pdf))
-    
+  
 * _Jan. 18, 2024_ [LORA: LOW-RANK ADAPTATION OF LARGE LANGUAGE MODELS](https://arxiv.org/abs/2106.09685), (Yuxin Wu, [Slides](slides/pre_2024_01_18.pdf))
 
 * _Jan. 11, 2024_ [ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving](https://arxiv.org/abs/2309.17452), (Angxiao Yue, [Slides](slides/pre_2024_1_11.pdf))
