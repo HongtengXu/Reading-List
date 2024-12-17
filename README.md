@@ -29,7 +29,7 @@
 
 * _Jul. 18, 2024_ [Interpretable Rotation-Equivariant Quaternion Neural Networks for 3D Point Cloud Processing](https://ieeexplore.ieee.org/document/10384563)，（Angxiao Yue, [Slides](slides/pre_2024_07_18.pdf)）
 
-* _Jul. 11, 2024_ **Pending**, (Shukai Gong)
+* _Jul. 11, 2024_ [TextGrad: Automatic “Differentiation” via Text](https://arxiv.org/abs/2406.07496), (Shukai Gong, [Slides](slides/pre_2024_07_11.pdf))
 
 * _Jul. 4, 2024_ [QuanTA: Efficient High-Rank Fine-Tuning of LLMs with Quantum-Informed Tensor Adaptation](https://arxiv.org/pdf/2406.00132), (Shen Yuan, [Slides](slides/pre_2024_07_04.pdf))
 
