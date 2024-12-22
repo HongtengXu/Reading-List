@@ -7,7 +7,7 @@
   
 * _Dec. 24, 2024_ **Pending**, (Dunyao Xue, Junyi Lin)
 
-* _Dec. 17, 2024_ **Pending**, (Yitian Wang)
+* _Dec. 17, 2024_ [ProteinWeaver: A Divide-and-Assembly Approach for Protein Backbone Design](https://arxiv.org/pdf/2411.16686), (Yitian Wang, [Slides](slides/pre_2024_12_17.pdf))
 
 * _Dec. 10, 2024_ [GeoX: Geometric Problem Solving Through Unified Formalized Vision-Language Pre-training](https://openreview.net/pdf?id=6RiBl5sCDF), (Haotian Liu, [Slides](slides/pre_2024_12_10.pdf))
 
