@@ -5,7 +5,7 @@
 
 * _Dec. 31, 2024_ **Pending**, (Qingmei Wang)
   
-* _Dec. 24, 2024_ **Pending**, (Dunyao Xue, Junyi Lin)
+* _Dec. 24, 2024_ On Efficient Computation of Gromov-Wasserstein Distance, (Dunyao Xue, Junyi Lin, [Slides](slides/pre_2024_12_25.pdf))
 
 * _Dec. 17, 2024_ **Pending**, (Yitian Wang)
 
