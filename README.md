@@ -5,9 +5,9 @@
 
 * _Dec. 31, 2024_ **Pending**, (Qingmei Wang)
   
-* _Dec. 24, 2024_ **Pending**, (Dunyao Xue, Junyi Lin)
+* _Dec. 24, 2024_ On Efficient Computation of Gromov-Wasserstein Distance, (Dunyao Xue, Junyi Lin, [Slides](slides/pre_2024_12_25.pdf))
 
-* _Dec. 17, 2024_ **Pending**, (Yitian Wang)
+* _Dec. 17, 2024_ [ProteinWeaver: A Divide-and-Assembly Approach for Protein Backbone Design](https://arxiv.org/pdf/2411.16686), (Yitian Wang, [Slides](slides/pre_2024_12_17.pdf))
 
 * _Dec. 10, 2024_ [GeoX: Geometric Problem Solving Through Unified Formalized Vision-Language Pre-training](https://openreview.net/pdf?id=6RiBl5sCDF), (Haotian Liu, [Slides](slides/pre_2024_12_10.pdf))
 
@@ -19,7 +19,7 @@
   
 * _Nov. 12, 2024_ [HydraLoRA: An Asymmetric LoRA Architecture for Efficient Fine-Tuning](https://arxiv.org/abs/2404.19245), (Haotian Liu, [Slides](slides/pre_2024_11_12.pdf))
   
-* _Oct. 22, 2024_ **Pending**, (Yuxin Wu)
+* _Oct. 22, 2024_ [SPP: Sparsity-Preserved Parameter-Efficient Fine-Tuning for Large Language Models](https://arxiv.org/abs/2405.16057), (Yuxin Wu, [Slides](slides/pre_2024_10_22.pdf))
 
 * _Oct. 15, 2024_ [Generalized Protein Pocket Generation with Prior-Informed Flow Matching](https://arxiv.org/abs/2409.19520), (Fanmeng Wang, [Slides](slides/pre_2024_10_15.pdf))
 
@@ -37,7 +37,7 @@
 
 * _Jun. 06, 2024_ [Wasserstein Wormhole: Scalable Optimal Transport Distance with Transformers](https://arxiv.org/pdf/2404.09411), (Like Ma, [Slides](slides/pre_2024_06_06.pdf))
 
-* _May. 16, 2024_ **Pending**, (Yuxin Wu)
+* _May. 16, 2024_ [Kolmogorov–Arnold Networks](https://arxiv.org/abs/2404.19756), (Yuxin Wu, [Slides](slides/pre_2024_05_16.pdf))
 
 * _May. 9, 2024_  [Learning Latent Partial Matchings with Gumbel-IPF Networks](https://proceedings.mlr.press/v238/cohen-indelman24a.html), (Fengjiao Gong, [Slides](slides/pre_2024_05_09.pdf))
   
