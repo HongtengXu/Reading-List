@@ -1,9 +1,9 @@
 # Reading-List
-* _Jan. 14, 2025_ **Pending**, (Fengjiao Gong)
+* _Jan. 21, 2025_ **Pending**, (Fengjiao Gong)
   
-* _Jan. 7, 2025_ **Pending**, (Yuxin Wu)
+* _Jan. 14, 2025_ **Pending**, (Yuxin Wu)
 
-* _Dec. 31, 2024_ **Pending**, (Qingmei Wang)
+* _Jan. 7, 2024_ **Pending**, (Qingmei Wang)
   
 * _Dec. 24, 2024_ On Efficient Computation of Gromov-Wasserstein Distance, (Dunyao Xue, Junyi Lin, [Slides](slides/pre_2024_12_25.pdf))
 
