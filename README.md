@@ -1,5 +1,21 @@
 # Reading-List
-* _Jan. 21, 2025_ **Pending**, (Fengjiao Gong)
+* _Apr. 15, 2025_ **Pending**, (Haotian Liu)
+  
+* _Apr. 8, 2025_ **Pending**, (Yuxin Wu)
+
+* _Apr. 1, 2025_ **Pending**, (Angxiao Yue)
+   
+* _Mar. 25, 2025_ **Pending**, (Fengjiao Gong)
+
+* _Mar. 18, 2025_ **Pending**, (Qingmei Wang)
+
+* _Mar. 11, 2025_ **Pending**, (Fanmeng Wang)
+
+* _Mar. 4, 2025_ **Pending**, (Shen Yuan)
+
+* _Feb. 25, 2025_ **Pending**, (Minjie Cheng)
+
+* _Feb. 18, 2025_ **Pending**, (Fengjiao Gong)
   
 * _Jan. 14, 2025_ **Pending**, (Yuxin Wu)
 
