@@ -1,23 +1,23 @@
 # Reading-List
-* _Apr. 15, 2025_ **Pending**, (Haotian Liu)
+* _Jun. 9, 2025_ **Pending**, (Haotian Liu)
   
-* _Apr. 8, 2025_ **Pending**, (Yuxin Wu)
+* _Jun. 2, 2025_ **Pending**, (Yuxin Wu)
 
-* _Apr. 1, 2025_ **Pending**, (Angxiao Yue)
+* _May. 26, 2025_ **Pending**, (Angxiao Yue)
    
-* _Mar. 25, 2025_ **Pending**, (Fengjiao Gong)
+* _May. 19, 2025_ **Pending**, (Fengjiao Gong)
 
-* _Mar. 18, 2025_ **Pending**, (Qingmei Wang)
+* _May. 12, 2025_ **Pending**, (Qingmei Wang)
 
-* _Mar. 11, 2025_ **Pending**, (Fanmeng Wang)
+* _May. 5, 2025_ **Pending**, (Fanmeng Wang)
   
+* _Apr. 28, 2025_ **Pending**, (Fengjiao Gong)
+  
+* _Apr. 21, 2025_ **Pending**, (Shen Yuan)
+
+* _Apr. 14, 2025_ **Pending**, (Minjie Cheng)
+
 * _Mar. 10, 2025_ [Graph contrastive learning of subcellular-resolution spatial transcriptomics improves cell type annotation and reveals critical molecular pathways]([https://www.nature.com/articles/s42256-023-00763-w](https://academic.oup.com/bib/article/26/1/bbaf020/7990577?login=false)), (Fengjiao Gong, [Slides](slides/pre_2025_03_10.pdf))
-  
-* _Mar. 4, 2025_ **Pending**, (Shen Yuan)
-
-* _Feb. 25, 2025_ **Pending**, (Minjie Cheng)
-
-* _Feb. 18, 2025_ **Pending**, (Fengjiao Gong)
   
 * _Jan. 14, 2025_ **Pending**, (Yuxin Wu)
 
