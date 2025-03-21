@@ -3,13 +3,13 @@
   
 * _Jun. 2, 2025_ **Pending**, (Yuxin Wu)
 
-* _May. 26, 2025_ **Pending**, (Angxiao Yue)
+* _May 26, 2025_ **Pending**, (Angxiao Yue)
    
-* _May. 19, 2025_ **Pending**, (Fengjiao Gong)
+* _May 19, 2025_ **Pending**, (Fengjiao Gong)
 
-* _May. 12, 2025_ **Pending**, (Qingmei Wang)
+* _May 12, 2025_ **Pending**, (Qingmei Wang)
 
-* _May. 5, 2025_ **Pending**, (Fanmeng Wang)
+* _May 5, 2025_ **Pending**, (Fanmeng Wang)
   
 * _Apr. 28, 2025_ **Pending**, (Fengjiao Gong)
   
