@@ -11,11 +11,9 @@
 
 * _May 5, 2025_ **Pending**, (Fanmeng Wang)
   
-* _Apr. 28, 2025_ **Pending**, (Fengjiao Gong)
-  
-* _Apr. 21, 2025_ **Pending**, (Shen Yuan)
+* _Apr. 28, 2025_ **Pending**, (Shen Yuan)
 
-* _Apr. 14, 2025_ **Pending**, (Minjie Cheng)
+* _Apr. 21, 2025_ **Pending**, (Minjie Cheng)
 
 * _Mar. 10, 2025_ [Graph contrastive learning of subcellular-resolution spatial transcriptomics improves cell type annotation and reveals critical molecular pathways]([https://www.nature.com/articles/s42256-023-00763-w](https://academic.oup.com/bib/article/26/1/bbaf020/7990577?login=false)), (Fengjiao Gong, [Slides](slides/pre_2025_03_10.pdf))
   
