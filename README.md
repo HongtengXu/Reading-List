@@ -1,25 +1,13 @@
 # Reading-List
-* _Jun. 9, 2025_ **Pending**, (Haotian Liu)
+* _Jun. 16, 2025_ [Quantum Doubly Stochastic Transformers](https://arxiv.org/pdf/2504.16275), (Shen Yuan)
   
-* _Jun. 2, 2025_ **Pending**, (Yuxin Wu)
-
-* _May 26, 2025_ **Pending**, (Angxiao Yue)
-   
-* _May 19, 2025_ **Pending**, (Fengjiao Gong)
-
-* _May 12, 2025_ **Pending**, (Qingmei Wang)
-
-* _May 5, 2025_ **Pending**, (Fanmeng Wang)
+* _Jun. 9, 2025_ [Self-improving diffusion models with synthetic data](https://arxiv.org/pdf/2408.16333), (Haotian Liu)
   
-* _Apr. 28, 2025_ **Pending**, (Shen Yuan)
+* _Jun. 2, 2025_ [Deep generative design of RNA family sequences](https://www.nature.com/articles/s41592-023-02148-8), (Fanmeng Wang)
 
-* _Apr. 21, 2025_ **Pending**, (Minjie Cheng)
+* _May 26, 2025_ [Elucidating the Design Space of Multimodal Protein Language Models](https://arxiv.org/pdf/2504.11454), (Angxiao Yue)
 
 * _Mar. 10, 2025_ [Graph contrastive learning of subcellular-resolution spatial transcriptomics improves cell type annotation and reveals critical molecular pathways]([https://www.nature.com/articles/s42256-023-00763-w](https://academic.oup.com/bib/article/26/1/bbaf020/7990577?login=false)), (Fengjiao Gong, [Slides](slides/pre_2025_03_10.pdf))
-  
-* _Jan. 14, 2025_ **Pending**, (Yuxin Wu)
-
-* _Jan. 7, 2024_ **Pending**, (Qingmei Wang)
   
 * _Dec. 24, 2024_ On Efficient Computation of Gromov-Wasserstein Distance, (Dunyao Xue, Junyi Lin, [Slides](slides/pre_2024_12_25.pdf))
 
