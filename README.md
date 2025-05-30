@@ -7,7 +7,7 @@
 
 * _Jun. 2, 2025_ [Deep generative design of RNA family sequences](https://www.nature.com/articles/s41592-023-02148-8), (Fanmeng Wang)
 
-* _May 26, 2025_ [Elucidating the Design Space of Multimodal Protein Language Models](https://arxiv.org/pdf/2504.11454), (Angxiao Yue)
+* _May 26, 2025_ [Elucidating the Design Space of Multimodal Protein Language Models](https://arxiv.org/pdf/2504.11454), (Angxiao Yue, [Slides](slides/pre_2025_05_26.pdf))
 
 * _Mar. 10, 2025_ [Graph contrastive learning of subcellular-resolution spatial transcriptomics improves cell type annotation and reveals critical molecular pathways]([https://www.nature.com/articles/s42256-023-00763-w](https://academic.oup.com/bib/article/26/1/bbaf020/7990577?login=false)), (Fengjiao Gong, [Slides](slides/pre_2025_03_10.pdf))
 
