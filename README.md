@@ -5,7 +5,7 @@
 
 * _Jun. 20, 2025_ [Self-improving diffusion models with synthetic data](https://arxiv.org/pdf/2408.16333), (Haotian Liu)
 
-* _Jun. 13, 2025_ [Deep generative design of RNA family sequences](https://www.nature.com/articles/s41592-023-02148-8), (Fanmeng Wang)
+* _Jun. 13, 2025_ [Deep generative design of RNA family sequences](https://www.nature.com/articles/s41592-023-02148-8), (Fanmeng Wang, [Slides](slides/pre_2025_6_13.pdf))
 
 * _May 26, 2025_ [Elucidating the Design Space of Multimodal Protein Language Models](https://arxiv.org/pdf/2504.11454), (Angxiao Yue, [Slides](slides/pre_2025_05_26.pdf))
 
