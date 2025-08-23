@@ -1,5 +1,4 @@
 # Reading-List
-* _Jul. 4, 2025_ [A Minimalist Approach to LLM Reasoning: from Rejection Sampling to Reinforce](https://arxiv.org/pdf/2504.11343), (Yicheng Tao)
 
 * _Jun. 27, 2025_ [Quantum Doubly Stochastic Transformers](https://arxiv.org/pdf/2504.16275), (Shen Yuan)
 
