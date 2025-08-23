@@ -20,7 +20,7 @@
 
 * _May 26, 2025_ [Elucidating the Design Space of Multimodal Protein Language Models](https://arxiv.org/pdf/2504.11454), (Angxiao Yue, [Slides](slides/pre_2025_05_26.pdf))
 
-* _Mar. 10, 2025_ [Graph contrastive learning of subcellular-resolution spatial transcriptomics improves cell type annotation and reveals critical molecular pathways]([https://www.nature.com/articles/s42256-023-00763-w](https://academic.oup.com/bib/article/26/1/bbaf020/7990577?login=false)), (Fengjiao Gong, [Slides](slides/pre_2025_03_10.pdf))
+* _Mar. 10, 2025_ [Graph contrastive learning of subcellular-resolution spatial transcriptomics improves cell type annotation and reveals critical molecular pathways](https://academic.oup.com/bib/article/26/1/bbaf020/7990577), (Fengjiao Gong, [Slides](slides/pre_2025_03_10.pdf))
 
 * _Dec. 24, 2024_ On Efficient Computation of Gromov-Wasserstein Distance, (Dunyao Xue, Junyi Lin, [Slides](slides/pre_2024_12_25.pdf))
 
