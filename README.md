@@ -1,26 +1,15 @@
 # Reading-List
-* _TBD, 2025_ [Align Your Structures: Generating Trajectories with Structure Pretraining for Molecular Dynamics](https://openreview.net/forum?id=fwZQBVjPbz), (Fanmeng Wang)
 
-* _TBD, 2025_ [APE-Bench I: Towards File-level Automated Proof Engineering of Formal Math Libraries](https://arxiv.org/pdf/2504.19110?), (Haotian Liu)
+* _Jun. 27, 2025_ [Quantum Doubly Stochastic Transformers](https://arxiv.org/pdf/2504.16275), (Shen Yuan)
 
-* _TBD, 2025_ [Learning Gaussian Mixture Models via Transformer Measure Flows](https://openreview.net/forum?id=MGyqEvYn1T), (Shen Yuan)
+* _Jun. 20, 2025_ [Self-improving diffusion models with synthetic data](https://arxiv.org/pdf/2408.16333), (Haotian Liu)
 
-* _TBD, 2025_ [Goedel-Prover-V2: Scaling Formal Theorem Proving with Scaffolded Data Synthesis and Self-Correction](https://arxiv.org/pdf/2508.03613?), (Yicheng Tao)
+* _Jun. 13, 2025_ [Deep generative design of RNA family sequences](https://www.nature.com/articles/s41592-023-02148-8), (Fanmeng Wang, [Slides](slides/pre_2025_6_13.pdf))
 
-* _TBD, 2025_ [Atom level enzyme active site scaffolding using RFdiffusion2](https://www.biorxiv.org/content/10.1101/2025.04.09.648075v1), (Yitian Wang)
-  
-* _Sep. 5, 2025_ [Uni-Mol3: A Multi-Molecular Foundation Model for Advancing Organic Reaction Modeling](https://arxiv.org/abs/2508.00920), (Fanmeng Wang)
-  
-* _Aug. 29, 2025_ [Quantum Doubly Stochastic Transformers](https://arxiv.org/pdf/2504.16275) and [Gaussian mixture layers for neural networks](https://arxiv.org/pdf/2508.04883), (Shen Yuan)
-  
-* _Jun. 9, 2025_ [Self-improving diffusion models with synthetic data](https://arxiv.org/pdf/2408.16333), (Haotian Liu)
-  
-* _Jun. 2, 2025_ [Deep generative design of RNA family sequences](https://www.nature.com/articles/s41592-023-02148-8), (Fanmeng Wang)
-
-* _May 26, 2025_ [Elucidating the Design Space of Multimodal Protein Language Models](https://arxiv.org/pdf/2504.11454), (Angxiao Yue)
+* _May 26, 2025_ [Elucidating the Design Space of Multimodal Protein Language Models](https://arxiv.org/pdf/2504.11454), (Angxiao Yue, [Slides](slides/pre_2025_05_26.pdf))
 
 * _Mar. 10, 2025_ [Graph contrastive learning of subcellular-resolution spatial transcriptomics improves cell type annotation and reveals critical molecular pathways]([https://www.nature.com/articles/s42256-023-00763-w](https://academic.oup.com/bib/article/26/1/bbaf020/7990577?login=false)), (Fengjiao Gong, [Slides](slides/pre_2025_03_10.pdf))
-  
+
 * _Dec. 24, 2024_ On Efficient Computation of Gromov-Wasserstein Distance, (Dunyao Xue, Junyi Lin, [Slides](slides/pre_2024_12_25.pdf))
 
 * _Dec. 17, 2024_ [ProteinWeaver: A Divide-and-Assembly Approach for Protein Backbone Design](https://arxiv.org/pdf/2411.16686), (Yitian Wang, [Slides](slides/pre_2024_12_17.pdf))
@@ -30,11 +19,11 @@
 * _Dec. 3, 2024_ [Mixture of Parrots: Experts improve memorization more than reasoning](https://arxiv.org/abs/2410.19034), (Shen Yuan, [Slides](slides/pre_2024_12_03.pdf))
 
 * _Nov. 26, 2024_ [Full-Atom Peptide Design based on Multi-modal Flow Matching](https://arxiv.org/abs/2406.00735), (Minjie Cheng, [Slides](slides/pre_2024_11_26.pdf))
-  
+
 * _Nov. 19, 2024_ [Your contrastive learning problem is secretly a distribution alignment problem](https://openreview.net/pdf?id=iNUKoLU8xb), (Minjie Cheng, [Slides](slides/pre_2024_11_19.pdf))
-  
+
 * _Nov. 12, 2024_ [HydraLoRA: An Asymmetric LoRA Architecture for Efficient Fine-Tuning](https://arxiv.org/abs/2404.19245), (Haotian Liu, [Slides](slides/pre_2024_11_12.pdf))
-  
+
 * _Oct. 22, 2024_ [SPP: Sparsity-Preserved Parameter-Efficient Fine-Tuning for Large Language Models](https://arxiv.org/abs/2405.16057), (Yuxin Wu, [Slides](slides/pre_2024_10_22.pdf))
 
 * _Oct. 15, 2024_ [Generalized Protein Pocket Generation with Prior-Informed Flow Matching](https://arxiv.org/abs/2409.19520), (Fanmeng Wang, [Slides](slides/pre_2024_10_15.pdf))
@@ -56,7 +45,7 @@
 * _May. 16, 2024_ [Kolmogorov–Arnold Networks](https://arxiv.org/abs/2404.19756), (Yuxin Wu, [Slides](slides/pre_2024_05_16.pdf))
 
 * _May. 9, 2024_  [Learning Latent Partial Matchings with Gumbel-IPF Networks](https://proceedings.mlr.press/v238/cohen-indelman24a.html), (Fengjiao Gong, [Slides](slides/pre_2024_05_09.pdf))
-  
+
 * _Apr. 25, 2024_ [GTMGC: Using Graph Transformer to Predict Molecule’s Ground-State Conformation](https://openreview.net/forum?id=F7QnIKlC1N), (Fanmeng Wang, [Slides](slides/pre_2024_4_25.pdf))
 
 * _Mar. 21, 2024_ [ROLAND: Graph Learning Framework for Dynamic Graphs](https://arxiv.org/abs/2208.07239), (Ke Wan, [Slides](slides/pre_2024_3_21.pdf))
@@ -66,13 +55,13 @@
 * _Mar. 7, 2024_ [ResNet with one-neuron hidden layers is a Universal Approximator](https://proceedings.neurips.cc/paper/2018/hash/03bfc1d4783966c69cc6aef8247e0103-Abstract.html), (Shen Yuan, [Slides](slides/pre_2024_3_7.pdf))
 
 * _Feb. 29, 2024_ [Pre-training sequence, structure, and surface features for comprehensive protein representation learning](https://openreview.net/forum?id=BEH4mGo7zP), (Minjie Cheng, [Slides](slides/pre_2024_2_29.pdf))
-  
+
 * _Jan. 18, 2024_ [LORA: LOW-RANK ADAPTATION OF LARGE LANGUAGE MODELS](https://arxiv.org/abs/2106.09685), (Yuxin Wu, [Slides](slides/pre_2024_01_18.pdf))
 
 * _Jan. 11, 2024_ [ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving](https://arxiv.org/abs/2309.17452), (Angxiao Yue, [Slides](slides/pre_2024_1_11.pdf))
-  
+
 * _Dec. 28, 2023_ [Graph-MLP: Node Classification without Message Passing in Graph](https://arxiv.org/abs/2106.04051), (Ke Wan, [Slides](slides/pre_2023_12_28.pdf))
-  
+
 * _Dec. 21, 2023_ [CoarsenConf: Equivariant Coarsening with Aggregated Attention for Molecular Conformer Generation](https://arxiv.org/abs/2306.14852), (Fanmeng Wang, [Slides](slides/pre_2023_12_21.pdf))
 
 * _Dec. 14, 2023_ [Transformer-VQ: Linear-Time Transformers via Vector Quantization](https://arxiv.org/abs/2309.16354), (Shen Yuan, [Slides](slides/pre_2023_12_07.pdf))
@@ -81,9 +70,9 @@
 
 * _Nov. 9, 2023_ [Clifford group equivariant neural networks](https://arxiv.org/pdf/2305.11141.pdf), (Angxiao Yue, [Slides](slides/pre_2023_11_09.pdf))
 
-* _Nov. 2, 2023_ [Inexact-ADMM Based Federated Meta-Learning for Fast and Continual Edge Learning](https://dl.acm.org/doi/pdf/10.1145/3466772.3467038?casa_token=q3hPh85BVZ0AAAAA:BtcQ5mOsozvou6qSCfP3RbIEqG5jbCAcH6Kt1p7n2D4kdD8jR7o9tuteoXolWGr71UwlvOaJa1nyBcg), 
+* _Nov. 2, 2023_ [Inexact-ADMM Based Federated Meta-Learning for Fast and Continual Edge Learning](https://dl.acm.org/doi/pdf/10.1145/3466772.3467038?casa_token=q3hPh85BVZ0AAAAA:BtcQ5mOsozvou6qSCfP3RbIEqG5jbCAcH6Kt1p7n2D4kdD8jR7o9tuteoXolWGr71UwlvOaJa1nyBcg),
 (Fengjiao Gong, [Slides](slides/pre_2023_11_02.pdf))
-  
+
 *  _Oct. 26, 2023_ [Self-Supervised Contrastive Pre-Training For Time Series via Time-Frequency Consistency](https://openreview.net/forum?id=OJ4mMfGKLN), (Yuxin Wu, [Slides](slides/pre_2023_10_26.pdf))
 
 * _Oct. 12, 2023_ [MOREL: MULTI-OMICS RELATIONAL LEARNING](https://arxiv.org/pdf/2203.08149.pdf), (Qingmei Wang, [Slides](slides/pre_2023_10_19.pdf))
@@ -97,7 +86,7 @@
 * _Aug. 9, 2023_ [Structural Hawkes Processes for Learning Causal Structure from Discrete-Time Event Sequences](https://arxiv.org/pdf/2305.05986.pdf), (Yuxin Wu, [Slides](slides/pre_2023_08_09.pdf))
 
 * _Jul. 26, 2023_ [3d Infomax Improves GNNs for Molecular Property Prediction](https://proceedings.mlr.press/v162/stark22a.html), (Fanmeng Wang, [Slides](slides/pre_2023_7_26.pdf))
-  
+
 * _Jul. 19, 2023_ [Efficiently Modeling Long Sequences with Structured State Spaces](https://arxiv.org/pdf/2111.00396.pdf), (Shen Yuan, [Slides](slides/pre_2023_7_19.pdf))
 
 * _Jun. 21, 2023_ [Improving Generative Flow Networks with Path Regularization](https://arxiv.org/abs/2209.15092), (Fanmeng Wang, [Slides](slides/pre_2023_6_21.pdf))
@@ -171,31 +160,31 @@
 * _May 12, 2022_ [E(n) Equivariant Normalizing Flows](https://arxiv.org/abs/2105.09016), (Fanmeng Wang, [Slides](slides/pre_2022_5_12.pdf))
 
 * _May 5, 2022_ [SE (3)-equivariant prediction of molecular wavefunctions and electronic densities](https://arxiv.org/abs/2106.02347) and
-                [Equivariant message passing for the prediction of tensorial properties and molecular spectra](https://proceedings.mlr.press/v139/schutt21a.html), (Shen Yuan) 
+                [Equivariant message passing for the prediction of tensorial properties and molecular spectra](https://proceedings.mlr.press/v139/schutt21a.html), (Shen Yuan)
 
 * _Apr. 21, 2022_ [Top-N: Equivariant set and graph generation without exchangeability](https://arxiv.org/abs/2110.02096) and
-                  [Tensor field networks: Rotation- and translation-equivariant neural networks for 3D point clouds](https://arxiv.org/abs/1802.08219), (Minjie Cheng, [Slides](slides/pre_2022_4_21.pdf)) 
+                  [Tensor field networks: Rotation- and translation-equivariant neural networks for 3D point clouds](https://arxiv.org/abs/1802.08219), (Minjie Cheng, [Slides](slides/pre_2022_4_21.pdf))
 
-* _Apr. 14, 2022_ [Continuous wasserstein-2 barycenter estimation without minimax optimization](https://arxiv.org/abs/2102.01752) and 
-                  [Fast Discrete Distribution Clustering Using Wasserstein Barycenter with Sparse Support](https://ieeexplore.ieee.org/ielaam/78/7858803/7833204-aam.pdf), (Fengjiao Gong, [Slides](slides/pre_2022_4_14.pdf)) 
+* _Apr. 14, 2022_ [Continuous wasserstein-2 barycenter estimation without minimax optimization](https://arxiv.org/abs/2102.01752) and
+                  [Fast Discrete Distribution Clustering Using Wasserstein Barycenter with Sparse Support](https://ieeexplore.ieee.org/ielaam/78/7858803/7833204-aam.pdf), (Fengjiao Gong, [Slides](slides/pre_2022_4_14.pdf))
 
-* _Apr. 7, 2022_ [Bellman Meets Hawkes: Model-Based Reinforcement Learning via Temporal Point Processes](https://arxiv.org/pdf/2201.12569.pdf) and 
-                 [Counterfactual Temporal Point Processes](https://arxiv.org/pdf/2111.07603.pdf), (Qingmei Wang) 
+* _Apr. 7, 2022_ [Bellman Meets Hawkes: Model-Based Reinforcement Learning via Temporal Point Processes](https://arxiv.org/pdf/2201.12569.pdf) and
+                 [Counterfactual Temporal Point Processes](https://arxiv.org/pdf/2111.07603.pdf), (Qingmei Wang)
 
 * _Mar. 31, 2022_ [Comparing Three Notions of Discrete Ricci Curvature on Biological Networks](https://arxiv.org/abs/1712.02943),
-                  [Wireless network capacity versus Ollivier-Ricci curvature under Heat-Diffusion (HD) protocol](https://ieeexplore.ieee.org/abstract/document/6858912) and 
-                  [Community detection on networks with Ricci flow](https://www.nature.com/articles/s41598-019-46380-9), (Yue Xiang, [Slides](slides/pre_2022_3_31.pdf)) 
+                  [Wireless network capacity versus Ollivier-Ricci curvature under Heat-Diffusion (HD) protocol](https://ieeexplore.ieee.org/abstract/document/6858912) and
+                  [Community detection on networks with Ricci flow](https://www.nature.com/articles/s41598-019-46380-9), (Yue Xiang, [Slides](slides/pre_2022_3_31.pdf))
 
 * _Mar. 24, 2022_ [Learning Equivariant Energy Based Models with Equivariant Stein Variational Gradient Descent](https://arxiv.org/abs/2106.07832), (Fanmeng Wang, [Slides](slides/pre_2022_3_21.pdf))
 
 * _Mar. 17, 2022_ [LieTransformer: Equivariant Self-Attention for Lie Groups](http://proceedings.mlr.press/v139/hutchinson21a.html) and
-                  [Sinkformers: Transformers with doubly stochastic attention](https://arxiv.org/abs/2110.11773), (Minjie Cheng, [Slides](slides/pre_2022_03_17.pdf)) 
+                  [Sinkformers: Transformers with doubly stochastic attention](https://arxiv.org/abs/2110.11773), (Minjie Cheng, [Slides](slides/pre_2022_03_17.pdf))
 
 * _Mar. 10, 2022_ [Fast iterative solution of the optimal transport problem on graphs](https://epubs.siam.org/doi/pdf/10.1137/20M137015X?casa_token=krAFnvMMSYAAAAAA:o780CxEG_kjbPQscdoY11ybNj8h64GlC8YtKmbOsAXZAp7u6tTTsRkDOPmUf3VRtM1mdeaG7D8J1BA) and
-                  [Quadratically regularized optimal transport on graphs](https://epubs.siam.org/doi/pdf/10.1137/17M1132665?casa_token=ePdPawD-7GgAAAAA:9tUOj78iDAdjlE8AvMSg2TSE0Jm5loLJfx6epL-ha3a_aEQooD48yGNXDilwgXIUBvOtyIMkORUKew), (Fengjiao Gong, [Slides](slides/pre_2022_3_10.pdf)) 
+                  [Quadratically regularized optimal transport on graphs](https://epubs.siam.org/doi/pdf/10.1137/17M1132665?casa_token=ePdPawD-7GgAAAAA:9tUOj78iDAdjlE8AvMSg2TSE0Jm5loLJfx6epL-ha3a_aEQooD48yGNXDilwgXIUBvOtyIMkORUKew), (Fengjiao Gong, [Slides](slides/pre_2022_3_10.pdf))
 
-* _Mar. 3, 2022_ [Fast Estimation of Causal Interactions using Wold Processes](https://arxiv.org/abs/1807.04595) and 
-                 [A Variational Inference Approach to Learning Multivariate Wold Processes](https://proceedings.mlr.press/v130/etesami21a.html), (Qingmei Wang, [Slides](slides/pre_2022_3_3.pdf)) 
+* _Mar. 3, 2022_ [Fast Estimation of Causal Interactions using Wold Processes](https://arxiv.org/abs/1807.04595) and
+                 [A Variational Inference Approach to Learning Multivariate Wold Processes](https://proceedings.mlr.press/v130/etesami21a.html), (Qingmei Wang, [Slides](slides/pre_2022_3_3.pdf))
 
 * _Dec. 30, 2021_ [Large-Margin Contrastive Learning with Distance Polarization Regularizer](http://proceedings.mlr.press/v139/chen21n.html), (Minjie Cheng, [Slides](slides/pre_2021_12_30.pdf))
 
@@ -205,27 +194,27 @@
 
 * _Dec. 9, 2021_ [A Regularized Wasserstein Framework for Graph Kernels](https://arxiv.org/pdf/2110.02554.pdf), (Fengjiao Gong, [Slides](slides/pre_2021_12_9.pdf))
 
-* _Dec. 2, 2021_ [Multiple Instance Learning with Bag Dissimilarities](https://arxiv.org/pdf/1309.5643.pdf) and 
+* _Dec. 2, 2021_ [Multiple Instance Learning with Bag Dissimilarities](https://arxiv.org/pdf/1309.5643.pdf) and
                  [Bag similarity network for deep multi-instance learning](https://www.sciencedirect.com/science/article/abs/pii/S0020025519306826), (Qingmei Wang, [Slides](slides/pre_2021_12_2.pdf))
 
 * _Nov. 25, 2021_ [Set Transformer: A Framework for Attention-based Permutation-Invariant Neural Networks](http://proceedings.mlr.press/v97/lee19d.html) and
                   [Deep Set](https://arxiv.org/pdf/1703.06114.pdf), (Minjie Cheng, [Slides](slides/pre_2021_11_25.pdf))
 
-* _Nov. 18, 2021_ [Decoupled Contrastive Learning](https://arxiv.org/pdf/2110.06848.pdf) and 
+* _Nov. 18, 2021_ [Decoupled Contrastive Learning](https://arxiv.org/pdf/2110.06848.pdf) and
                   [Debiased Contrastive Learning](https://arxiv.org/pdf/2007.00224.pdf), (Shen Yuan, [Slides](slides/pre_2021_11_18.pdf))
 
 * _Nov. 11, 2021_ [Utility/Privacy Trade-off through the lens of Optimal Transport](http://proceedings.mlr.press/v108/boursier20a/boursier20a.pdf), (Fengjiao Gong, [Slides](slides/pre_2021_11_11.pdf))
 
-* _Nov. 4, 2021_ [Adversarial Graph Augmentation to Improve Graph Contrastive Learning](https://arxiv.org/pdf/2106.05819.pdf) and 
+* _Nov. 4, 2021_ [Adversarial Graph Augmentation to Improve Graph Contrastive Learning](https://arxiv.org/pdf/2106.05819.pdf) and
                  [Prototypical Graph Contrastive Learning](https://arxiv.org/pdf/2106.09645.pdf), (Qingmei Wang)
 
-* _Oct. 28, 2021_ [Generative models for graph-based protein design](https://openreview.net/pdf?id=ByMEAHrgLB) and 
+* _Oct. 28, 2021_ [Generative models for graph-based protein design](https://openreview.net/pdf?id=ByMEAHrgLB) and
                   [Scaffold-based molecular design with a graph generative model](https://pubs.rsc.org/en/content/articlehtml/2020/sc/c9sc04503a), (Minjie Cheng, [Slides](slides/pre_2021_10_28.pdf))
 
 * _Oct. 21, 2021_ [Iterative Amortized Inference](http://proceedings.mlr.press/v80/marino18a/marino18a.pdf) and
                   [Semi-amortized variational autoencoders](http://proceedings.mlr.press/v80/kim18e/kim18e.pdf), (Shen Yuan, [Slides](slides/pre_2021_10_21.pdf))
 
-* _Oct. 14, 2021_ [Reparameterizing the Birkhoff Polytope for Permutation Variational Inference](http://proceedings.mlr.press/v84/linderman18a/linderman18a.pdf) and 
+* _Oct. 14, 2021_ [Reparameterizing the Birkhoff Polytope for Permutation Variational Inference](http://proceedings.mlr.press/v84/linderman18a/linderman18a.pdf) and
                   [Learing Latent Permutations with Gumbel-Sinkhorn Networks](https://arxiv.org/abs/1802.08665), (Yue Xiang, [Slides](slides/pre_2021_10_14.pdf))
 
 * _Sep. 30, 2021_ [Run-Sort-ReRun: Escaping Batch Size Limitations in Sliced Wasserstein Generative Models](http://proceedings.mlr.press/v139/lezama21a.html), (Fengjiao Gong, [Slides](slides/pre_2021_9_30.pdf))
@@ -234,21 +223,21 @@
 
 * _Sep. 17, 2021_ [Highly accurate protein structure prediction with AlphaFold](https://www.nature.com/articles/s41586-021-03819-2), and
                   [Accurate prediction of protein structures and interactions using a three-track neural network](https://science.sciencemag.org/content/373/6557/871/tab-pdf), (Minjie Cheng, [Slides](slides/pre_2021_9_17.pdf))
-  
+
 * _Sep. 10, 2021_ [A Particle-Evolving Method for Approximating the Optimal Transport Plan](https://link.springer.com/chapter/10.1007/978-3-030-80209-7_94), (Yue Xiang, [Slides](slides/pre_2021_9_10.pdf))
 
 * _Sep. 3, 2021_ [Subgraph Augmentation with Application to Graph Mining](https://link.springer.com/chapter/10.1007/978-981-16-2609-8_4), (Shen Yuan, [Slides](slides/pre_2021_9_3.pdf))
 
 * _Aug. 27, 2021_ [Deep Fourier Kernel for Self-Attentive Point Processes](http://proceedings.mlr.press/v130/zhu21b/zhu21b.pdf), (Qingmei Wang, [Slides](slides/pre_2021_8_27.pdf))
-  
+
 * _Aug. 20, 2021_ [Drug Recommendation toward Safe Polypharmacy](https://arxiv.org/abs/1803.03185), (Minjie Cheng, [Slides](slides/pre_2021_8_20.pdf))
-  
+
 * _Aug. 13, 2021_ [Towards domain-agnostic contrastive learning](http://proceedings.mlr.press/v139/verma21a/verma21a.pdf), (Fengjiao Gong, [Slides](slides/pre_2021_8_13.pdf))
-  
+
 * _Aug. 6, 2021_ [RetCL: A Selection-based Approach for Retrosynthesis via Contrastive Learning](https://arxiv.org/abs/2105.00795), (Shen Yuan, [Slides](slides/pre_2021_8_6.pdf))
-  
+
 * _Jul. 30, 2021_ [GTA: Graph Truncated Attention for Retrosynthesis](https://www.aaai.org/AAAI21Papers/AAAI-10027.SeoS.pdf), (Yue Xiang, [Slides](slides/pre_2021_7_30.pdf))
-  
+
 * _Jun. 25, 2021_ [Learning to make generalizable and diverse predictions for retrosynthesis](https://arxiv.org/pdf/1910.09688.pdf), (Yue Xiang)
 
 * _Jun. 18, 2021_ [Molecular Transformer unifies reaction prediction and retrosynthesis across pharma chemical space](https://pubs.rsc.org/en/content/articlelanding/2019/CC/C9CC05122H#!divAbstract), (Yue Xiang, [Slides](slides/pre_2021_6_18.pdf))
@@ -277,7 +266,7 @@
 
 * _Mar. 12, 2021_ [The Multivariate Hawkes Process in High Dimensions: Beyond Mutual Excitation](https://arxiv.org/pdf/1707.04928.pdf), (Shen Yuan, [Slides](slides/pre_2021_3_12.pdf))
 
-* _Mar. 5, 2021_ [Partial Gromov-Wasserstein Learning for Partial Graph Matching](https://arxiv.org/pdf/2012.01252.pdf), (Yue Xiang, [Slides](slides/pre_2021_3_5.pdf)) 
+* _Mar. 5, 2021_ [Partial Gromov-Wasserstein Learning for Partial Graph Matching](https://arxiv.org/pdf/2012.01252.pdf), (Yue Xiang, [Slides](slides/pre_2021_3_5.pdf))
 
 * _Feb. 26, 2021_ [Existence and consistency of Wasserstein barycenters](https://link.springer.com/article/10.1007/s00440-016-0727-z), (Zejun Xie, [Slides](slides/pre_2021_2_26.pdf))
 
