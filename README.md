@@ -1,5 +1,17 @@
 # Reading-List
-* _Jun. 16, 2025_ [Quantum Doubly Stochastic Transformers](https://arxiv.org/pdf/2504.16275), (Shen Yuan)
+* _TBD, 2025_ [Align Your Structures: Generating Trajectories with Structure Pretraining for Molecular Dynamics](https://openreview.net/forum?id=fwZQBVjPbz), (Fanmeng Wang)
+
+* _TBD, 2025_ [APE-Bench I: Towards File-level Automated Proof Engineering of Formal Math Libraries](https://arxiv.org/pdf/2504.19110?), (Haotian Liu)
+
+* _TBD, 2025_ [Learning Gaussian Mixture Models via Transformer Measure Flows](https://openreview.net/forum?id=MGyqEvYn1T), (Shen Yuan)
+
+* _TBD, 2025_ [Goedel-Prover-V2: Scaling Formal Theorem Proving with Scaffolded Data Synthesis and Self-Correction](https://arxiv.org/pdf/2508.03613?), (Yicheng Tao)
+
+* _TBD, 2025_ [Atom level enzyme active site scaffolding using RFdiffusion2](https://www.biorxiv.org/content/10.1101/2025.04.09.648075v1), (Yitian Wang)
+  
+* _Sep. 5, 2025_ [Uni-Mol3: A Multi-Molecular Foundation Model for Advancing Organic Reaction Modeling](https://arxiv.org/abs/2508.00920), (Fanmeng Wang)
+  
+* _Aug. 29, 2025_ [Quantum Doubly Stochastic Transformers](https://arxiv.org/pdf/2504.16275) and [Gaussian mixture layers for neural networks](https://arxiv.org/pdf/2508.04883), (Shen Yuan)
   
 * _Jun. 9, 2025_ [Self-improving diffusion models with synthetic data](https://arxiv.org/pdf/2408.16333), (Haotian Liu)
   
