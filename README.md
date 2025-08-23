@@ -14,7 +14,7 @@
   
 * _Aug. 29, 2025_ [Quantum Doubly Stochastic Transformers](https://arxiv.org/pdf/2504.16275) and [Gaussian mixture layers for neural networks](https://arxiv.org/pdf/2508.04883), (Shen Yuan)
 
-* _Jun. 20, 2025_ [Self-improving diffusion models with synthetic data](https://arxiv.org/pdf/2408.16333), (Haotian Liu)
+* _Jun. 20, 2025_ [Self-improving diffusion models with synthetic data](https://arxiv.org/pdf/2408.16333), (Haotian Liu, [Slides](slides/pre_2025_06_20.pdf))
 
 * _Jun. 13, 2025_ [Deep generative design of RNA family sequences](https://www.nature.com/articles/s41592-023-02148-8), (Fanmeng Wang, [Slides](slides/pre_2025_6_13.pdf))
 
