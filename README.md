@@ -12,7 +12,9 @@
   
 * _Sep. 5, 2025_ [Uni-Mol3: A Multi-Molecular Foundation Model for Advancing Organic Reaction Modeling](https://arxiv.org/abs/2508.00920), (Fanmeng Wang)
   
-* _Aug. 29, 2025_ [Quantum Doubly Stochastic Transformers](https://arxiv.org/pdf/2504.16275) and [Gaussian mixture layers for neural networks](https://arxiv.org/pdf/2508.04883), (Shen Yuan)
+* _Aug. 29, 2025_ [Gaussian mixture layers for neural networks](https://arxiv.org/pdf/2508.04883), (Shen Yuan)
+
+* _Jun. 27, 2025_ [Quantum Doubly Stochastic Transformers](https://arxiv.org/pdf/2504.16275), (Shen Yuan, [Slides](slides/pre_2025_06_27.pdf))
 
 * _Jun. 20, 2025_ [Self-improving diffusion models with synthetic data](https://arxiv.org/pdf/2408.16333), (Haotian Liu, [Slides](slides/pre_2025_06_20.pdf))
 
