@@ -9,10 +9,12 @@
 * _TBD, 2025_ [Goedel-Prover-V2: Scaling Formal Theorem Proving with Scaffolded Data Synthesis and Self-Correction](https://arxiv.org/pdf/2508.03613?), (Yicheng Tao)
 
 * _TBD, 2025_ [Atom level enzyme active site scaffolding using RFdiffusion2](https://www.biorxiv.org/content/10.1101/2025.04.09.648075v1), (Yitian Wang)
-  
+
 * _Sep. 5, 2025_ [Uni-Mol3: A Multi-Molecular Foundation Model for Advancing Organic Reaction Modeling](https://arxiv.org/abs/2508.00920), (Fanmeng Wang)
-  
+
 * _Aug. 29, 2025_ [Gaussian mixture layers for neural networks](https://arxiv.org/pdf/2508.04883), (Shen Yuan)
+
+* _Jul. 4, 2025_ [A Minimalist Approach to LLM Reasoning: from Rejection Sampling to Reinforce](https://arxiv.org/pdf/2504.11343), (Yicheng Tao, [Slides](slides/pre_2025_07_04.pdf))
 
 * _Jun. 27, 2025_ [Quantum Doubly Stochastic Transformers](https://arxiv.org/pdf/2504.16275), (Shen Yuan, [Slides](slides/pre_2025_06_27.pdf))
 
