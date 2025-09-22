@@ -6,7 +6,7 @@
 
 * _Sep. 29, 2025_ [Learning Gaussian Mixture Models via Transformer Measure Flows](https://openreview.net/forum?id=MGyqEvYn1T), (Shen Yuan)
 
-* _Sep. 22, 2025_ [Goedel-Prover-V2: Scaling Formal Theorem Proving with Scaffolded Data Synthesis and Self-Correction](https://arxiv.org/pdf/2508.03613?), (Yicheng Tao)
+* _Sep. 22, 2025_ [Goedel-Prover-V2: Scaling Formal Theorem Proving with Scaffolded Data Synthesis and Self-Correction](https://arxiv.org/pdf/2508.03613?), (Yicheng Tao, [Slides](slides/pre_2025_09_22.pdf))
 
 * _Sep. 18, 2025_ [Atom level enzyme active site scaffolding using RFdiffusion2](https://www.biorxiv.org/content/10.1101/2025.04.09.648075v1), (Yitian Wang)
 
