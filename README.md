@@ -14,7 +14,7 @@
 
 * _Oct. 27, 2025_ [A Euclidean transformer for fast and stable machine learned force fields](https://www.nature.com/articles/s41467-024-50620-6.pdf) and [MarS-FM: Generative Modeling of Molecular Dynamics via Markov State Models](https://arxiv.org/pdf/2509.24779), (Yitian Wang)
 
-* _Oct. 20, 2025_ [Align Your Structures: Generating Trajectories with Structure Pretraining for Molecular Dynamics](https://openreview.net/forum?id=fwZQBVjPbz), (Fanmeng Wang， [Slides](slides/pre_2025_10_20.pdf))
+* _Oct. 20, 2025_ [Align Your Structures: Generating Trajectories with Structure Pretraining for Molecular Dynamics](https://openreview.net/forum?id=fwZQBVjPbz), (Fanmeng Wang, [Slides](slides/pre_2025_10_20.pdf))
 
 * _Oct. 13, 2025_ [APE-Bench I: Towards File-level Automated Proof Engineering of Formal Math Libraries](https://arxiv.org/pdf/2504.19110?), (Haotian Liu, [Slides](slides/pre_2025_10_13.pdf))
 
