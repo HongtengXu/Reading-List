@@ -1,18 +1,18 @@
 # Reading-List
 
-* _TBD, 2025_ [ESPFormer: Doubly-Stochastic Attention with Expected Sliced Transport Plans](https://arxiv.org/pdf/2502.07962?) and [LOTFormer: Doubly-Stochastic Linear Attention via Low-Rank Optimal Transport](https://arxiv.org/pdf/2509.23436), (Fanmeng Wang)
+* _Dec. 8, 2025_ [ESPFormer: Doubly-Stochastic Attention with Expected Sliced Transport Plans](https://arxiv.org/pdf/2502.07962?) and [LOTFormer: Doubly-Stochastic Linear Attention via Low-Rank Optimal Transport](https://arxiv.org/pdf/2509.23436), (Fanmeng Wang)
 
-* _TBD, 2025_ [RFG: Test-Time Scaling for Diffusion Large Language Model Reasoning with Reward-Free Guidance](https://arxiv.org/pdf/2509.25604), (Haotian Liu)
+* _Dec. 1, 2025_ [RFG: Test-Time Scaling for Diffusion Large Language Model Reasoning with Reward-Free Guidance](https://arxiv.org/pdf/2509.25604), (Haotian Liu)
 
-* _TBD, 2025_ [Recursive Self-Aggregation Unlocks Deep Thinking in Large Language Models](https://arxiv.org/pdf/2509.26626), (Yicheng Tao)
+* _Nov. 24, 2025_ [Recursive Self-Aggregation Unlocks Deep Thinking in Large Language Models](https://arxiv.org/pdf/2509.26626), (Yicheng Tao)
 
-* _TBD, 2025_ [A Euclidean transformer for fast and stable machine learned force fields](https://www.nature.com/articles/s41467-024-50620-6.pdf) and [MarS-FM: Generative Modeling of Molecular Dynamics via Markov State Models](https://arxiv.org/pdf/2509.24779), (Yitian Wang)
+* _Nov. 17, 2025_ [Uni-LoRA: One Vector is All You Need](https://arxiv.org/pdf/2506.00799), (Yuxin Wu)
 
-* _TBD, 2025_ [Uni-LoRA: One Vector is All You Need](https://arxiv.org/pdf/2506.00799), (Yuxin Wu)
+* _Nov. 10, 2025_ [Muon Outperforms Adam in Tail-End Associative Memory Learning](https://arxiv.org/pdf/2509.26030), (Angxiao Yue)
 
-* _TBD, 2025_ [Muon Outperforms Adam in Tail-End Associative Memory Learning](https://arxiv.org/pdf/2509.26030), (Angxiao Yue)
+* _Nov. 3, 2025_ [Unrolled Graph Neural Networks for Constrained Optimization](https://arxiv.org/pdf/2509.17156) and [Graph Signal Generative Diffusion Models](https://arxiv.org/pdf/2509.17250), (Minjie Cheng)
 
-* _TBD, 2025_ [Unrolled Graph Neural Networks for Constrained Optimization](https://arxiv.org/pdf/2509.17156) and [Graph Signal Generative Diffusion Models](https://arxiv.org/pdf/2509.17250), (Minjie Cheng)
+* _Oct. 27, 2025_ [A Euclidean transformer for fast and stable machine learned force fields](https://www.nature.com/articles/s41467-024-50620-6.pdf) and [MarS-FM: Generative Modeling of Molecular Dynamics via Markov State Models](https://arxiv.org/pdf/2509.24779), (Yitian Wang)
 
 * _Oct. 20, 2025_ [Align Your Structures: Generating Trajectories with Structure Pretraining for Molecular Dynamics](https://openreview.net/forum?id=fwZQBVjPbz), (Fanmeng Wang， [Slides](slides/pre_2025_10_20.pdf))
 
