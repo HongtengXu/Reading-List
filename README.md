@@ -14,9 +14,9 @@
 
 * _TBD, 2025_ [Unrolled Graph Neural Networks for Constrained Optimization](https://arxiv.org/pdf/2509.17156) and [Graph Signal Generative Diffusion Models](https://arxiv.org/pdf/2509.17250), (Minjie Cheng)
 
-* _TBD, 2025_ [Align Your Structures: Generating Trajectories with Structure Pretraining for Molecular Dynamics](https://openreview.net/forum?id=fwZQBVjPbz), (Fanmeng Wang)
+* _Oct. 20, 2025_ [Align Your Structures: Generating Trajectories with Structure Pretraining for Molecular Dynamics](https://openreview.net/forum?id=fwZQBVjPbz), (Fanmeng Wang， [Slides](slides/pre_2025_10_20.pdf))
 
-* _TBD, 2025_ [APE-Bench I: Towards File-level Automated Proof Engineering of Formal Math Libraries](https://arxiv.org/pdf/2504.19110?), (Haotian Liu)
+* _Oct. 13, 2025_ [APE-Bench I: Towards File-level Automated Proof Engineering of Formal Math Libraries](https://arxiv.org/pdf/2504.19110?), (Haotian Liu, [Slides](slides/pre_2025_10_13.pdf))
 
 * _Sep. 29, 2025_ [Learning Gaussian Mixture Models via Transformer Measure Flows](https://openreview.net/forum?id=MGyqEvYn1T), (Shen Yuan, [Slides](slides/pre_2025_08_29.pdf))
 
