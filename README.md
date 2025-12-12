@@ -1,24 +1,24 @@
 # Reading-List
 
-* _TBD, 2025_ [ESPFormer: Doubly-Stochastic Attention with Expected Sliced Transport Plans](https://arxiv.org/pdf/2502.07962?) and [LOTFormer: Doubly-Stochastic Linear Attention via Low-Rank Optimal Transport](https://arxiv.org/pdf/2509.23436), (Fanmeng Wang)
+* _Dec. 8, 2025_ [ESPFormer: Doubly-Stochastic Attention with Expected Sliced Transport Plans](https://arxiv.org/pdf/2502.07962?) and [LOTFormer: Doubly-Stochastic Linear Attention via Low-Rank Optimal Transport](https://arxiv.org/pdf/2509.23436), (Fanmeng Wang)
 
-* _TBD, 2025_ [RFG: Test-Time Scaling for Diffusion Large Language Model Reasoning with Reward-Free Guidance](https://arxiv.org/pdf/2509.25604), (Haotian Liu)
+* _Dec. 1, 2025_ [RFG: Test-Time Scaling for Diffusion Large Language Model Reasoning with Reward-Free Guidance](https://arxiv.org/pdf/2509.25604), (Haotian Liu)
 
-* _TBD, 2025_ [Recursive Self-Aggregation Unlocks Deep Thinking in Large Language Models](https://arxiv.org/pdf/2509.26626), (Yicheng Tao)
+* _Nov. 24, 2025_ [Recursive Self-Aggregation Unlocks Deep Thinking in Large Language Models](https://arxiv.org/pdf/2509.26626), (Yicheng Tao)
 
-* _TBD, 2025_ [A Euclidean transformer for fast and stable machine learned force fields](https://www.nature.com/articles/s41467-024-50620-6.pdf) and [MarS-FM: Generative Modeling of Molecular Dynamics via Markov State Models](https://arxiv.org/pdf/2509.24779), (Yitian Wang)
+* _Nov. 17, 2025_ [Uni-LoRA: One Vector is All You Need](https://arxiv.org/pdf/2506.00799), (Yuxin Wu)
 
-* _TBD, 2025_ [Uni-LoRA: One Vector is All You Need](https://arxiv.org/pdf/2506.00799), (Yuxin Wu)
+* _Nov. 10, 2025_ [Muon Outperforms Adam in Tail-End Associative Memory Learning](https://arxiv.org/pdf/2509.26030), (Angxiao Yue)
 
-* _TBD, 2025_ [Muon Outperforms Adam in Tail-End Associative Memory Learning](https://arxiv.org/pdf/2509.26030), (Angxiao Yue)
+* _Nov. 3, 2025_ [Unrolled Graph Neural Networks for Constrained Optimization](https://arxiv.org/pdf/2509.17156) and [Graph Signal Generative Diffusion Models](https://arxiv.org/pdf/2509.17250), (Minjie Cheng)
 
-* _TBD, 2025_ [Unrolled Graph Neural Networks for Constrained Optimization](https://arxiv.org/pdf/2509.17156) and [Graph Signal Generative Diffusion Models](https://arxiv.org/pdf/2509.17250), (Minjie Cheng)
+* _Oct. 27, 2025_ [A Euclidean transformer for fast and stable machine learned force fields](https://www.nature.com/articles/s41467-024-50620-6.pdf) and [MarS-FM: Generative Modeling of Molecular Dynamics via Markov State Models](https://arxiv.org/pdf/2509.24779), (Yitian Wang)
 
-* _TBD, 2025_ [Align Your Structures: Generating Trajectories with Structure Pretraining for Molecular Dynamics](https://openreview.net/forum?id=fwZQBVjPbz), (Fanmeng Wang)
+* _Oct. 20, 2025_ [Align Your Structures: Generating Trajectories with Structure Pretraining for Molecular Dynamics](https://openreview.net/forum?id=fwZQBVjPbz), (Fanmeng Wang, [Slides](slides/pre_2025_10_20.pdf))
 
-* _TBD, 2025_ [APE-Bench I: Towards File-level Automated Proof Engineering of Formal Math Libraries](https://arxiv.org/pdf/2504.19110?), (Haotian Liu)
+* _Oct. 13, 2025_ [APE-Bench I: Towards File-level Automated Proof Engineering of Formal Math Libraries](https://arxiv.org/pdf/2504.19110?), (Haotian Liu, [Slides](slides/pre_2025_10_13.pdf))
 
-* _Sep. 29, 2025_ [Learning Gaussian Mixture Models via Transformer Measure Flows](https://openreview.net/forum?id=MGyqEvYn1T), (Shen Yuan)
+* _Sep. 29, 2025_ [Learning Gaussian Mixture Models via Transformer Measure Flows](https://openreview.net/forum?id=MGyqEvYn1T), (Shen Yuan, [Slides](slides/pre_2025_08_29.pdf))
 
 * _Sep. 22, 2025_ [Goedel-Prover-V2: Scaling Formal Theorem Proving with Scaffolded Data Synthesis and Self-Correction](https://arxiv.org/pdf/2508.03613?), (Yicheng Tao, [Slides](slides/pre_2025_09_22.pdf))
 
@@ -26,7 +26,7 @@
 
 * _Sep. 5, 2025_ [Uni-Mol3: A Multi-Molecular Foundation Model for Advancing Organic Reaction Modeling](https://arxiv.org/abs/2508.00920), (Fanmeng Wang, [Slides](slides/pre_2025_09_05.pdf))
 
-* _Aug. 29, 2025_ [Gaussian mixture layers for neural networks](https://arxiv.org/pdf/2508.04883), (Shen Yuan)
+* _Aug. 29, 2025_ [Gaussian mixture layers for neural networks](https://arxiv.org/pdf/2508.04883), (Shen Yuan, [Slides](slides/pre_2025_08_29.pdf))
 
 * _Jul. 4, 2025_ [A Minimalist Approach to LLM Reasoning: from Rejection Sampling to Reinforce](https://arxiv.org/pdf/2504.11343), (Yicheng Tao, [Slides](slides/pre_2025_07_04.pdf))
 
