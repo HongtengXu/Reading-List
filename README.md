@@ -10,7 +10,7 @@
 
 * _Nov. 10, 2025_ [Muon Outperforms Adam in Tail-End Associative Memory Learning](https://arxiv.org/pdf/2509.26030), (Angxiao Yue, [Slides](slides/pre_2025_12_08.pdf))
 
-* _Nov. 3, 2025_ [Unrolled Graph Neural Networks for Constrained Optimization](https://arxiv.org/pdf/2509.17156) and [Graph Signal Generative Diffusion Models](https://arxiv.org/pdf/2509.17250), (Minjie Cheng)
+* _Nov. 3, 2025_ [Unrolled Graph Neural Networks for Constrained Optimization](https://arxiv.org/pdf/2509.17156) and [Graph Signal Generative Diffusion Models](https://arxiv.org/pdf/2509.17250), (Minjie Cheng, [Slides](slides/pre_2025_11_03.pdf))
 
 * _Oct. 27, 2025_ [A Euclidean transformer for fast and stable machine learned force fields](https://www.nature.com/articles/s41467-024-50620-6.pdf) and [MarS-FM: Generative Modeling of Molecular Dynamics via Markov State Models](https://arxiv.org/pdf/2509.24779), (Yitian Wang)
 
