@@ -8,7 +8,7 @@
 
 * _Nov. 17, 2025_ [Uni-LoRA: One Vector is All You Need](https://arxiv.org/pdf/2506.00799), (Yuxin Wu)
 
-* _Nov. 10, 2025_ [Muon Outperforms Adam in Tail-End Associative Memory Learning](https://arxiv.org/pdf/2509.26030), (Angxiao Yue)
+* _Nov. 10, 2025_ [Muon Outperforms Adam in Tail-End Associative Memory Learning](https://arxiv.org/pdf/2509.26030), (Angxiao Yue, [Slides](slides/pre_2025_12_08.pdf))
 
 * _Nov. 3, 2025_ [Unrolled Graph Neural Networks for Constrained Optimization](https://arxiv.org/pdf/2509.17156) and [Graph Signal Generative Diffusion Models](https://arxiv.org/pdf/2509.17250), (Minjie Cheng)
 
