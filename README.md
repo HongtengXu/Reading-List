@@ -4,7 +4,7 @@
 
 * _Dec. 1, 2025_ [RFG: Test-Time Scaling for Diffusion Large Language Model Reasoning with Reward-Free Guidance](https://arxiv.org/pdf/2509.25604), (Haotian Liu)
 
-* _Nov. 24, 2025_ [Recursive Self-Aggregation Unlocks Deep Thinking in Large Language Models](https://arxiv.org/pdf/2509.26626), (Yicheng Tao)
+* _Dec. 15, 2025_ [Latent Collaboration in Multi-Agent Systems](https://arxiv.org/pdf/2511.20639), (Yicheng Tao, [Slides](slides/pre_2025_12_15.pdf))
 
 * _Nov. 17, 2025_ [Uni-LoRA: One Vector is All You Need](https://arxiv.org/pdf/2506.00799), (Yuxin Wu)
 
