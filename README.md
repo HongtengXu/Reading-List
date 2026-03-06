@@ -1,5 +1,23 @@
 # Reading-List
 
+* _May. 11, 2026_ [The Geometry of Noise: Why Diffusion Models Don’t Need Noise Conditioning](https://arxiv.org/pdf/2602.18428), (Fanmeng Wang)
+
+* _Apr. 27, 2026_ [The path not taken: RLVR provably learns off the principals](https://arxiv.org/pdf/2511.08567), (Yicheng Tao)
+
+* _Apr. 20, 2026_ [E2Former-V2: On-the-Fly Equivariant Attention with Linear Activation Memory](https://arxiv.org/pdf/2601.16622), (Fanmeng Wang)
+
+* _Apr. 13, 2026_ [LoRA and Privacy: When Random Projections Help (and When They Don’t)](https://arxiv.org/pdf/2601.21719), (Shen Yuan)
+
+* _Apr. 6, 2026_ [YuriiFormer: A Suite of Nesterov-Accelerated Transformers](https://arxiv.org/pdf/2601.23236), (Minjie Cheng)
+
+* _Mar. 30, 2026_ [MACROGUIDE: Topological Guidance for Macrocycle Generation](https://arxiv.org/pdf/2602.14977), (Yitian Wang)
+
+* _Mar. 23, 2026_ [Training-Free Group Relative Policy Optimization](https://arxiv.org/pdf/2510.08191?), (Haotian Liu)
+
+* _Mar. 16, 2026_ [G-Merging: Graph Models Merging for Parameter-Efficient Multi-Task Knowledge Consolidation](https://openreview.net/pdf?id=FoTtvLkkfU), (Yuxin Wu)
+
+* _Mar. 9, 2026_ [ZATOM-1: A Multimodal Flow Foundation Model for 3D Molecules and Materials](https://arxiv.org/pdf/2602.22251), (Angxiao Yue)
+
 * _Dec. 29, 2025_ [Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach](https://arxiv.org/abs/2502.05171) and [Hybrid Latent Reasoning via Reinforcement Learning](https://arxiv.org/abs/2505.18454), (Haotian Liu,  [Slides1](slides/pre_2025_12_29_1.pdf) and [Slides2](slides/pre_2025_12_29_2.pdf))
   
 * _Dec. 22, 2025_ [RFG: Test-Time Scaling for Diffusion Large Language Model Reasoning with Reward-Free Guidance](https://arxiv.org/pdf/2509.25604), (Haotian Liu,  [Slides](slides/pre_2025_12_22.pdf))
