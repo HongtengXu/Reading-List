@@ -1,14 +1,14 @@
 # Reading-List
 
-* _Dec. 8, 2025_ [ESPFormer: Doubly-Stochastic Attention with Expected Sliced Transport Plans](https://arxiv.org/pdf/2502.07962?) and [LOTFormer: Doubly-Stochastic Linear Attention via Low-Rank Optimal Transport](https://arxiv.org/pdf/2509.23436), (Fanmeng Wang)
-
-* _Dec. 1, 2025_ [RFG: Test-Time Scaling for Diffusion Large Language Model Reasoning with Reward-Free Guidance](https://arxiv.org/pdf/2509.25604), (Haotian Liu)
+* _Dec. 29, 2025_ [Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach](https://arxiv.org/abs/2502.05171) and [Hybrid Latent Reasoning via Reinforcement Learning](https://arxiv.org/abs/2505.18454), (Haotian Liu,  [Slides1](slides/pre_2025_12_29_1.pdf) and [Slides2](slides/pre_2025_12_29_2.pdf))
+  
+* _Dec. 22, 2025_ [RFG: Test-Time Scaling for Diffusion Large Language Model Reasoning with Reward-Free Guidance](https://arxiv.org/pdf/2509.25604), (Haotian Liu,  [Slides](slides/pre_2025_12_22.pdf))
 
 * _Dec. 15, 2025_ [Latent Collaboration in Multi-Agent Systems](https://arxiv.org/pdf/2511.20639), (Yicheng Tao, [Slides](slides/pre_2025_12_15.pdf))
 
-* _Nov. 17, 2025_ [Uni-LoRA: One Vector is All You Need](https://arxiv.org/pdf/2506.00799), (Yuxin Wu)
+* _Dec. 08, 2025_ [Muon Outperforms Adam in Tail-End Associative Memory Learning](https://arxiv.org/pdf/2509.26030), (Angxiao Yue, [Slides](slides/pre_2025_12_08.pdf))
 
-* _Nov. 10, 2025_ [Muon Outperforms Adam in Tail-End Associative Memory Learning](https://arxiv.org/pdf/2509.26030), (Angxiao Yue, [Slides](slides/pre_2025_12_08.pdf))
+* _Dec. 01, 2025_ [Uni-LoRA: One Vector is All You Need](https://arxiv.org/pdf/2506.00799), (Yuxin Wu, [Slides](slides/pre_2025_12_01.pdf))
 
 * _Nov. 3, 2025_ [Unrolled Graph Neural Networks for Constrained Optimization](https://arxiv.org/pdf/2509.17156) and [Graph Signal Generative Diffusion Models](https://arxiv.org/pdf/2509.17250), (Minjie Cheng, [Slides](slides/pre_2025_11_03.pdf))
 
