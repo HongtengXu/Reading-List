@@ -6,7 +6,7 @@
 
 * _Jun. 1, 2026_ [Modeling All-Atom Glycan Structures via Hierarchical Message Passing and Multi-Scale Pre-training](https://arxiv.org/pdf/2506.01376) and [Modeling glycans with AlphaFold 3: capabilities, caveats, and limitations](https://pmc.ncbi.nlm.nih.gov/articles/PMC12448869/), (Zeyu Wang)
 
-* _May. 25, 2026_ [YuriiFormer: A Suite of Nesterov-Accelerated Transformers](https://arxiv.org/pdf/2601.23236), (Minjie Cheng)
+* _May. 25, 2026_ [YuriiFormer: A Suite of Nesterov-Accelerated Transformers](https://arxiv.org/pdf/2601.23236), (Minjie Cheng, [Slides](slides/pre_2026_05_25.pdf))
 
 * _May. 11, 2026_ [MACROGUIDE: Topological Guidance for Macrocycle Generation](https://arxiv.org/pdf/2602.14977), (Yitian Wang)
 
