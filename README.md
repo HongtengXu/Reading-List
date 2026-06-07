@@ -1,8 +1,8 @@
 # Reading-List
 
-* _Jun. 15, 2026_ [The Geometry of Noise: Why Diffusion Models Don’t Need Noise Conditioning](https://arxiv.org/pdf/2602.18428), (Fanmeng Wang)
+* _Jun. 15, 2026_ [What is the objective of reasoning with reinforcement learning?](https://arxiv.org/pdf/2510.13651?) and [Maximum Likelihood Reinforcement Learning](https://arxiv.org/pdf/2602.02710), (Haotian Liu)
 
-* _Jun. 8, 2026_ [What is the objective of reasoning with reinforcement learning?](https://arxiv.org/pdf/2510.13651?) and [Maximum Likelihood Reinforcement Learning](https://arxiv.org/pdf/2602.02710), (Haotian Liu)
+* _Jun. 8, 2026_ [The Geometry of Noise: Why Diffusion Models Don’t Need Noise Conditioning](https://arxiv.org/pdf/2602.18428), (Fanmeng Wang)
 
 * _Jun. 1, 2026_ [Modeling All-Atom Glycan Structures via Hierarchical Message Passing and Multi-Scale Pre-training](https://arxiv.org/pdf/2506.01376) and [Modeling glycans with AlphaFold 3: capabilities, caveats, and limitations](https://pmc.ncbi.nlm.nih.gov/articles/PMC12448869/), (Zeyu Wang)
 
