@@ -4,9 +4,9 @@
 
 * _Aug. XX, 2026_ [Diffusion Language Model Parallel Decoding via Product-of-Experts Bridge](https://arxiv.org/pdf/2606.08048), (Yuxin Wu)
 
-* _Jul. XX, 2026_ [Forward-Free Diffusion Language Models](https://arxiv.org/pdf/2606.08357), (Yitian Wang)
+* _Jul. XX, 2026_ [Forward-Free Diffusion Language Models](https://arxiv.org/pdf/2606.08357), (Yicheng Tao)
 
-* _Jul. XX, 2026_ [Speculative Sampling For Faster Molecular Dynamics](https://arxiv.org/pdf/2606.02455), (Minjie Cheng)
+* _Jul. XX, 2026_ [Speculative Sampling For Faster Molecular Dynamics](https://arxiv.org/pdf/2606.02455), (Yitian Wang)
 
 * _Jul. XX, 2026_ [Latent Thought Flow: Efficient Latent Reasoning in Large Language Models](https://arxiv.org/pdf/2606.16222), (Haotian Liu)
 
